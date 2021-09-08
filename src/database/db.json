@@ -1,0 +1,10150 @@
+{
+  "students": [
+    {
+      "studentId": 1,
+      "name": "周静怡",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海商学院",
+      "extraCollegeType": "艺考本科"
+    },
+    {
+      "studentId": 2,
+      "name": "岑雅茹",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "北京工商大学"
+    },
+    {
+      "studentId": 3,
+      "name": "董诗曼",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海师范大学"
+    },
+    {
+      "studentId": 4,
+      "name": "张宗宁",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海海事大学"
+    },
+    {
+      "studentId": 5,
+      "name": "严恬沁",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海应用技术大学"
+    },
+    {
+      "studentId": 6,
+      "name": "史歆怡",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海海事大学"
+    },
+    {
+      "studentId": 7,
+      "name": "范煜昕",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 8,
+      "name": "安子欣",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "西南大学"
+    },
+    {
+      "studentId": 9,
+      "name": "刁淳赟",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "东华大学"
+    },
+    {
+      "studentId": 10,
+      "name": "赵毅",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海师范大学"
+    },
+    {
+      "studentId": 11,
+      "name": "顾文珺",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海工程技术大学"
+    },
+    {
+      "studentId": 12,
+      "name": "周沛缘",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海政法学院"
+    },
+    {
+      "studentId": 13,
+      "name": "方世杰",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海工程技术大学"
+    },
+    {
+      "studentId": 14,
+      "name": "罗亦辰",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海立信会计金融学院"
+    },
+    {
+      "studentId": 15,
+      "name": "孙正昊",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "大连海事大学"
+    },
+    {
+      "studentId": 16,
+      "name": "张琪",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海政法学院"
+    },
+    {
+      "studentId": 17,
+      "name": "陆恒婕",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 18,
+      "name": "王月祺",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 19,
+      "name": "刘歆宇",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 20,
+      "name": "陶哲蓓",
+      "className": "1班",
+      "enrollYear": 2019,
+      "college": "上海商学院"
+    },
+    {
+      "studentId": 21,
+      "name": "齐雯洁",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海立信会计金融学院"
+    },
+    {
+      "studentId": 22,
+      "name": "端木傲雪",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海立信会计金融学院"
+    },
+    {
+      "studentId": 23,
+      "name": "李怡辰",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海政法学院"
+    },
+    {
+      "studentId": 24,
+      "name": "俞思颉",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海应用技术大学"
+    },
+    {
+      "studentId": 25,
+      "name": "张蓓雯",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海工程技术大学"
+    },
+    {
+      "studentId": 26,
+      "name": "郑若晨",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海电力大学"
+    },
+    {
+      "studentId": 27,
+      "name": "胡晴晴",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海电力大学"
+    },
+    {
+      "studentId": 28,
+      "name": "徐嘉汶",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "赣南师范大学"
+    },
+    {
+      "studentId": 29,
+      "name": "瞿滢",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "浙江财经大学"
+    },
+    {
+      "studentId": 30,
+      "name": "葛瑞秋",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海健康医学院"
+    },
+    {
+      "studentId": 31,
+      "name": "徐佳怡",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "集美大学"
+    },
+    {
+      "studentId": 32,
+      "name": "孙若尧",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 33,
+      "name": "王铭皓",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海政法学院"
+    },
+    {
+      "studentId": 34,
+      "name": "金奕彤",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海电力大学"
+    },
+    {
+      "studentId": 35,
+      "name": "顾思瑜",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海电机学院"
+    },
+    {
+      "studentId": 36,
+      "name": "许晨龙",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 37,
+      "name": "童晨宇",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海应用技术大学"
+    },
+    {
+      "studentId": 38,
+      "name": "戴维",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 39,
+      "name": "周欣悦",
+      "className": "2班",
+      "enrollYear": 2019,
+      "college": "上海电机学院"
+    },
+    {
+      "studentId": 40,
+      "name": "刘珅",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "华东理工大学"
+    },
+    {
+      "studentId": 41,
+      "name": "顾天翔",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海海事大学"
+    },
+    {
+      "studentId": 42,
+      "name": "陈辰",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海城建职业学院"
+    },
+    {
+      "studentId": 43,
+      "name": "张万斌",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海电子信息职业技术学院"
+    },
+    {
+      "studentId": 44,
+      "name": "钱东俊",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海建桥学院"
+    },
+    {
+      "studentId": 45,
+      "name": "蔡亦乐",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海政法学院"
+    },
+    {
+      "studentId": 46,
+      "name": "王懿",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "河北地质大学"
+    },
+    {
+      "studentId": 47,
+      "name": "熊子卿",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海应用技术大学"
+    },
+    {
+      "studentId": 48,
+      "name": "周旭",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海健康医学院"
+    },
+    {
+      "studentId": 49,
+      "name": "沈吉诚",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海第二工业大学"
+    },
+    {
+      "studentId": 50,
+      "name": "张潇月",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "中国民用航空飞行学院"
+    },
+    {
+      "studentId": 51,
+      "name": "任彦冰",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海第二工业大学"
+    },
+    {
+      "studentId": 52,
+      "name": "王一飞",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "常州工学院"
+    },
+    {
+      "studentId": 53,
+      "name": "王泽洲",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 54,
+      "name": "胡正昊",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海健康医学院"
+    },
+    {
+      "studentId": 55,
+      "name": "曹佳文",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海健康医学院"
+    },
+    {
+      "studentId": 56,
+      "name": "刘天晔",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 57,
+      "name": "桂旻伟",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 58,
+      "name": "赵佳媛",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 59,
+      "name": "张涵",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海第二工业大学"
+    },
+    {
+      "studentId": 60,
+      "name": "王兴雨",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海建桥学院"
+    },
+    {
+      "studentId": 61,
+      "name": "申嘉隆",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海立信会计金融学院"
+    },
+    {
+      "studentId": 62,
+      "name": "王高杰",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海政法学院"
+    },
+    {
+      "studentId": 63,
+      "name": "潘梦歆",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海外国语大学贤达经济人文学院"
+    },
+    {
+      "studentId": 64,
+      "name": "杨敏禾",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "南京审计大学金审学院"
+    },
+    {
+      "studentId": 65,
+      "name": "姜轶杰",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海电机学院"
+    },
+    {
+      "studentId": 66,
+      "name": "阚铭瀚",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "湖南工学院"
+    },
+    {
+      "studentId": 67,
+      "name": "陈泽辉",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "上海立信会计金融学院"
+    },
+    {
+      "studentId": 68,
+      "name": "计宇峰",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "北京第二外国语学院中瑞酒店管理学院"
+    },
+    {
+      "studentId": 69,
+      "name": "龚志榕",
+      "className": "3班",
+      "enrollYear": 2019,
+      "college": "兰州交通大学"
+    },
+    {
+      "studentId": 70,
+      "name": "张嘉怡",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海健康医学院"
+    },
+    {
+      "studentId": 71,
+      "name": "李瑞琦",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "北京城市学院"
+    },
+    {
+      "studentId": 72,
+      "name": "韩喆宣",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "天津商业大学"
+    },
+    {
+      "studentId": 73,
+      "name": "范玉玲",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海财经大学浙江学院"
+    },
+    {
+      "studentId": 74,
+      "name": "周昱彤",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海第二工业大学"
+    },
+    {
+      "studentId": 75,
+      "name": "李皓滢",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 76,
+      "name": "戴凌云",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海民航职业技术学院"
+    },
+    {
+      "studentId": 77,
+      "name": "沈嘉仪",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 78,
+      "name": "殷三媛",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海民航职业技术学院"
+    },
+    {
+      "studentId": 79,
+      "name": "宋玲玲",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "吕梁学院"
+    },
+    {
+      "studentId": 80,
+      "name": "骆安绮",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海海洋大学"
+    },
+    {
+      "studentId": 81,
+      "name": "苗婉清",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 82,
+      "name": "侯玥琳",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海健康医学院"
+    },
+    {
+      "studentId": 83,
+      "name": "刘晴",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海旅游高等专科学校"
+    },
+    {
+      "studentId": 84,
+      "name": "杨呈奕",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海师范大学天华学院"
+    },
+    {
+      "studentId": 85,
+      "name": "陈雨欣",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海外国语大学贤达经济人文学院"
+    },
+    {
+      "studentId": 86,
+      "name": "茅逸闻",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "出国"
+    },
+    {
+      "studentId": 87,
+      "name": "汲宇蒙",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "东华理工大学"
+    },
+    {
+      "studentId": 88,
+      "name": "鲍一泓",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "北京物资学院"
+    },
+    {
+      "studentId": 89,
+      "name": "姜奕政",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海建桥学院"
+    },
+    {
+      "studentId": 90,
+      "name": "李亦捷",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海出版印刷高等专科学校"
+    },
+    {
+      "studentId": 91,
+      "name": "薛纪隆",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海电子信息职业技术学院"
+    },
+    {
+      "studentId": 92,
+      "name": "王喆",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "大连大学"
+    },
+    {
+      "studentId": 93,
+      "name": "柳泳尹",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海济光职业技术学院"
+    },
+    {
+      "studentId": 94,
+      "name": "娄宇杰",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "出国"
+    },
+    {
+      "studentId": 95,
+      "name": "邵美婷",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海商学院"
+    },
+    {
+      "studentId": 96,
+      "name": "殷毅钦",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 97,
+      "name": "张津",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海建桥学院"
+    },
+    {
+      "studentId": 98,
+      "name": "乐泉",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "上海商学院"
+    },
+    {
+      "studentId": 99,
+      "name": "董偲予",
+      "className": "4班",
+      "enrollYear": 2019,
+      "college": "湖北中医药高等专科学校"
+    },
+    {
+      "studentId": 100,
+      "name": "施漪",
+      "className": "",
+      "enrollYear": 2019,
+      "college": "上海杉达学院"
+    },
+    {
+      "studentId": 101,
+      "name": "郑校",
+      "className": "",
+      "enrollYear": 2019,
+      "college": "上海科学技术职业学院"
+    },
+    {
+      "studentId": 102,
+      "name": "黄佳旻",
+      "className": "",
+      "enrollYear": 2019,
+      "college": "上海民航职业技术学院"
+    },
+    {
+      "studentId": 103,
+      "name": "潘嘉诚",
+      "className": "",
+      "enrollYear": 2019,
+      "college": "出国"
+    },
+    {
+      "studentId": 104,
+      "name": "邓安然",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 209,
+      "name": "吴明宸",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 210,
+      "name": "杨昕晖",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 211,
+      "name": "李佳慧",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 212,
+      "name": "柳詠尹",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 213,
+      "name": "王治菲",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 214,
+      "name": "曹丹",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 215,
+      "name": "黄辰飏",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 216,
+      "name": "田雨欣",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 217,
+      "name": "王宇阳",
+      "className": "",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 218,
+      "name": "朱玥雯",
+      "className": "",
+      "enrollYear": 2019
+    }
+  ],
+  "exams": [
+    {
+      "examId": 1,
+      "examName": "2019届高二下统测",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 2,
+      "examName": "2019届高二下统测",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 3,
+      "examName": "2019届高二下统测",
+      "examSubject": "英语",
+      "year": 2019
+    },
+    {
+      "examId": 4,
+      "examName": "2019届一模排名",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 5,
+      "examName": "2019届一模排名",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 6,
+      "examName": "2019届一模排名",
+      "examSubject": "英语",
+      "year": 2019
+    },
+    {
+      "examId": 7,
+      "examName": "2019届春考",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 8,
+      "examName": "2019届春考",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 9,
+      "examName": "2019届春考",
+      "examSubject": "英语",
+      "year": 2019
+    },
+    {
+      "examId": 10,
+      "examName": "2019届春考",
+      "examSubject": "地理",
+      "year": 2019
+    },
+    {
+      "examId": 21,
+      "examName": "2019届二模",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 22,
+      "examName": "2019届二模",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 23,
+      "examName": "2019届二模",
+      "examSubject": "英语",
+      "year": 2019
+    },
+    {
+      "examId": 24,
+      "examName": "2019届秋考",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 25,
+      "examName": "2019届秋考",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 26,
+      "examName": "2019届秋考",
+      "examSubject": "英语",
+      "year": 2019
+    }
+  ],
+  "grades": [
+    {
+      "gradeId": 0,
+      "examId": 1,
+      "studentId": 1,
+      "value": 65
+    },
+    {
+      "gradeId": 1,
+      "examId": 2,
+      "studentId": 1,
+      "value": 81
+    },
+    {
+      "gradeId": 2,
+      "examId": 3,
+      "studentId": 1,
+      "value": 69
+    },
+    {
+      "gradeId": 3,
+      "examId": 1,
+      "studentId": 2,
+      "value": 61
+    },
+    {
+      "gradeId": 4,
+      "examId": 2,
+      "studentId": 2,
+      "value": 77
+    },
+    {
+      "gradeId": 5,
+      "examId": 3,
+      "studentId": 2,
+      "value": 74
+    },
+    {
+      "gradeId": 6,
+      "examId": 1,
+      "studentId": 3,
+      "value": 58
+    },
+    {
+      "gradeId": 7,
+      "examId": 2,
+      "studentId": 3,
+      "value": 82
+    },
+    {
+      "gradeId": 8,
+      "examId": 3,
+      "studentId": 3,
+      "value": 70
+    },
+    {
+      "gradeId": 9,
+      "examId": 1,
+      "studentId": 4,
+      "value": 65
+    },
+    {
+      "gradeId": 10,
+      "examId": 2,
+      "studentId": 4,
+      "value": 81
+    },
+    {
+      "gradeId": 11,
+      "examId": 3,
+      "studentId": 4,
+      "value": 64
+    },
+    {
+      "gradeId": 12,
+      "examId": 1,
+      "studentId": 5,
+      "value": 60
+    },
+    {
+      "gradeId": 13,
+      "examId": 2,
+      "studentId": 5,
+      "value": 78
+    },
+    {
+      "gradeId": 14,
+      "examId": 3,
+      "studentId": 5,
+      "value": 72
+    },
+    {
+      "gradeId": 15,
+      "examId": 1,
+      "studentId": 6,
+      "value": 58
+    },
+    {
+      "gradeId": 16,
+      "examId": 2,
+      "studentId": 6,
+      "value": 76
+    },
+    {
+      "gradeId": 17,
+      "examId": 3,
+      "studentId": 6,
+      "value": 76
+    },
+    {
+      "gradeId": 18,
+      "examId": 1,
+      "studentId": 7,
+      "value": 61
+    },
+    {
+      "gradeId": 19,
+      "examId": 2,
+      "studentId": 7,
+      "value": 89
+    },
+    {
+      "gradeId": 20,
+      "examId": 3,
+      "studentId": 7,
+      "value": 59
+    },
+    {
+      "gradeId": 21,
+      "examId": 1,
+      "studentId": 8,
+      "value": 65
+    },
+    {
+      "gradeId": 22,
+      "examId": 2,
+      "studentId": 8,
+      "value": 86
+    },
+    {
+      "gradeId": 23,
+      "examId": 3,
+      "studentId": 8,
+      "value": 57
+    },
+    {
+      "gradeId": 24,
+      "examId": 1,
+      "studentId": 9,
+      "value": 58
+    },
+    {
+      "gradeId": 25,
+      "examId": 2,
+      "studentId": 9,
+      "value": 84
+    },
+    {
+      "gradeId": 26,
+      "examId": 3,
+      "studentId": 9,
+      "value": 66
+    },
+    {
+      "gradeId": 27,
+      "examId": 1,
+      "studentId": 10,
+      "value": 55
+    },
+    {
+      "gradeId": 28,
+      "examId": 2,
+      "studentId": 10,
+      "value": 87
+    },
+    {
+      "gradeId": 29,
+      "examId": 3,
+      "studentId": 10,
+      "value": 64
+    },
+    {
+      "gradeId": 30,
+      "examId": 1,
+      "studentId": 11,
+      "value": 64
+    },
+    {
+      "gradeId": 31,
+      "examId": 2,
+      "studentId": 11,
+      "value": 81
+    },
+    {
+      "gradeId": 32,
+      "examId": 3,
+      "studentId": 11,
+      "value": 61
+    },
+    {
+      "gradeId": 33,
+      "examId": 1,
+      "studentId": 12,
+      "value": 62
+    },
+    {
+      "gradeId": 34,
+      "examId": 2,
+      "studentId": 12,
+      "value": 67
+    },
+    {
+      "gradeId": 35,
+      "examId": 3,
+      "studentId": 12,
+      "value": 77
+    },
+    {
+      "gradeId": 36,
+      "examId": 1,
+      "studentId": 13,
+      "value": 54
+    },
+    {
+      "gradeId": 37,
+      "examId": 2,
+      "studentId": 13,
+      "value": 87
+    },
+    {
+      "gradeId": 38,
+      "examId": 3,
+      "studentId": 13,
+      "value": 64
+    },
+    {
+      "gradeId": 39,
+      "examId": 1,
+      "studentId": 14,
+      "value": 54
+    },
+    {
+      "gradeId": 40,
+      "examId": 2,
+      "studentId": 14,
+      "value": 79
+    },
+    {
+      "gradeId": 41,
+      "examId": 3,
+      "studentId": 14,
+      "value": 72
+    },
+    {
+      "gradeId": 42,
+      "examId": 1,
+      "studentId": 15,
+      "value": 65
+    },
+    {
+      "gradeId": 43,
+      "examId": 2,
+      "studentId": 15,
+      "value": 68
+    },
+    {
+      "gradeId": 44,
+      "examId": 3,
+      "studentId": 15,
+      "value": 71
+    },
+    {
+      "gradeId": 45,
+      "examId": 1,
+      "studentId": 16,
+      "value": 60
+    },
+    {
+      "gradeId": 46,
+      "examId": 2,
+      "studentId": 16,
+      "value": 77
+    },
+    {
+      "gradeId": 47,
+      "examId": 3,
+      "studentId": 16,
+      "value": 66
+    },
+    {
+      "gradeId": 48,
+      "examId": 1,
+      "studentId": 17,
+      "value": 60
+    },
+    {
+      "gradeId": 49,
+      "examId": 2,
+      "studentId": 17,
+      "value": 78
+    },
+    {
+      "gradeId": 50,
+      "examId": 3,
+      "studentId": 17,
+      "value": 64
+    },
+    {
+      "gradeId": 51,
+      "examId": 1,
+      "studentId": 18,
+      "value": 63
+    },
+    {
+      "gradeId": 52,
+      "examId": 2,
+      "studentId": 18,
+      "value": 72
+    },
+    {
+      "gradeId": 53,
+      "examId": 3,
+      "studentId": 18,
+      "value": 67
+    },
+    {
+      "gradeId": 54,
+      "examId": 1,
+      "studentId": 19,
+      "value": 58
+    },
+    {
+      "gradeId": 55,
+      "examId": 2,
+      "studentId": 19,
+      "value": 74
+    },
+    {
+      "gradeId": 56,
+      "examId": 3,
+      "studentId": 19,
+      "value": 69
+    },
+    {
+      "gradeId": 57,
+      "examId": 1,
+      "studentId": 20,
+      "value": 64
+    },
+    {
+      "gradeId": 58,
+      "examId": 2,
+      "studentId": 20,
+      "value": 63
+    },
+    {
+      "gradeId": 59,
+      "examId": 3,
+      "studentId": 20,
+      "value": 74
+    },
+    {
+      "gradeId": 60,
+      "examId": 1,
+      "studentId": 21,
+      "value": 61
+    },
+    {
+      "gradeId": 61,
+      "examId": 2,
+      "studentId": 21,
+      "value": 76
+    },
+    {
+      "gradeId": 62,
+      "examId": 3,
+      "studentId": 21,
+      "value": 62
+    },
+    {
+      "gradeId": 63,
+      "examId": 1,
+      "studentId": 22,
+      "value": 70
+    },
+    {
+      "gradeId": 64,
+      "examId": 2,
+      "studentId": 22,
+      "value": 60
+    },
+    {
+      "gradeId": 65,
+      "examId": 3,
+      "studentId": 22,
+      "value": 67
+    },
+    {
+      "gradeId": 66,
+      "examId": 1,
+      "studentId": 23,
+      "value": 67
+    },
+    {
+      "gradeId": 67,
+      "examId": 2,
+      "studentId": 23,
+      "value": 63
+    },
+    {
+      "gradeId": 68,
+      "examId": 3,
+      "studentId": 23,
+      "value": 65
+    },
+    {
+      "gradeId": 69,
+      "examId": 1,
+      "studentId": 24,
+      "value": 61
+    },
+    {
+      "gradeId": 70,
+      "examId": 2,
+      "studentId": 24,
+      "value": 73
+    },
+    {
+      "gradeId": 71,
+      "examId": 3,
+      "studentId": 24,
+      "value": 60
+    },
+    {
+      "gradeId": 72,
+      "examId": 1,
+      "studentId": 25,
+      "value": 66
+    },
+    {
+      "gradeId": 73,
+      "examId": 2,
+      "studentId": 25,
+      "value": 72
+    },
+    {
+      "gradeId": 74,
+      "examId": 3,
+      "studentId": 25,
+      "value": 56
+    },
+    {
+      "gradeId": 75,
+      "examId": 1,
+      "studentId": 26,
+      "value": 66
+    },
+    {
+      "gradeId": 76,
+      "examId": 2,
+      "studentId": 26,
+      "value": 64
+    },
+    {
+      "gradeId": 77,
+      "examId": 3,
+      "studentId": 26,
+      "value": 64
+    },
+    {
+      "gradeId": 78,
+      "examId": 1,
+      "studentId": 27,
+      "value": 54
+    },
+    {
+      "gradeId": 79,
+      "examId": 2,
+      "studentId": 27,
+      "value": 81
+    },
+    {
+      "gradeId": 80,
+      "examId": 3,
+      "studentId": 27,
+      "value": 58
+    },
+    {
+      "gradeId": 81,
+      "examId": 1,
+      "studentId": 28,
+      "value": 64
+    },
+    {
+      "gradeId": 82,
+      "examId": 2,
+      "studentId": 28,
+      "value": 75
+    },
+    {
+      "gradeId": 83,
+      "examId": 3,
+      "studentId": 28,
+      "value": 54
+    },
+    {
+      "gradeId": 84,
+      "examId": 1,
+      "studentId": 29,
+      "value": 66
+    },
+    {
+      "gradeId": 85,
+      "examId": 2,
+      "studentId": 29,
+      "value": 62
+    },
+    {
+      "gradeId": 86,
+      "examId": 3,
+      "studentId": 29,
+      "value": 64
+    },
+    {
+      "gradeId": 87,
+      "examId": 1,
+      "studentId": 30,
+      "value": 57
+    },
+    {
+      "gradeId": 88,
+      "examId": 2,
+      "studentId": 30,
+      "value": 88
+    },
+    {
+      "gradeId": 89,
+      "examId": 3,
+      "studentId": 30,
+      "value": 46
+    },
+    {
+      "gradeId": 90,
+      "examId": 1,
+      "studentId": 31,
+      "value": 64
+    },
+    {
+      "gradeId": 91,
+      "examId": 2,
+      "studentId": 31,
+      "value": 79
+    },
+    {
+      "gradeId": 92,
+      "examId": 3,
+      "studentId": 31,
+      "value": 48
+    },
+    {
+      "gradeId": 93,
+      "examId": 1,
+      "studentId": 32,
+      "value": 62
+    },
+    {
+      "gradeId": 94,
+      "examId": 2,
+      "studentId": 32,
+      "value": 58
+    },
+    {
+      "gradeId": 95,
+      "examId": 3,
+      "studentId": 32,
+      "value": 71
+    },
+    {
+      "gradeId": 96,
+      "examId": 1,
+      "studentId": 33,
+      "value": 66
+    },
+    {
+      "gradeId": 97,
+      "examId": 2,
+      "studentId": 33,
+      "value": 56
+    },
+    {
+      "gradeId": 98,
+      "examId": 3,
+      "studentId": 33,
+      "value": 69
+    },
+    {
+      "gradeId": 99,
+      "examId": 1,
+      "studentId": 34,
+      "value": 56
+    },
+    {
+      "gradeId": 100,
+      "examId": 2,
+      "studentId": 34,
+      "value": 67
+    },
+    {
+      "gradeId": 101,
+      "examId": 3,
+      "studentId": 34,
+      "value": 67
+    },
+    {
+      "gradeId": 102,
+      "examId": 1,
+      "studentId": 35,
+      "value": 69
+    },
+    {
+      "gradeId": 103,
+      "examId": 2,
+      "studentId": 35,
+      "value": 63
+    },
+    {
+      "gradeId": 104,
+      "examId": 3,
+      "studentId": 35,
+      "value": 58
+    },
+    {
+      "gradeId": 105,
+      "examId": 1,
+      "studentId": 36,
+      "value": 56
+    },
+    {
+      "gradeId": 106,
+      "examId": 2,
+      "studentId": 36,
+      "value": 83
+    },
+    {
+      "gradeId": 107,
+      "examId": 3,
+      "studentId": 36,
+      "value": 49
+    },
+    {
+      "gradeId": 108,
+      "examId": 1,
+      "studentId": 37,
+      "value": 61
+    },
+    {
+      "gradeId": 109,
+      "examId": 2,
+      "studentId": 37,
+      "value": 70
+    },
+    {
+      "gradeId": 110,
+      "examId": 3,
+      "studentId": 37,
+      "value": 57
+    },
+    {
+      "gradeId": 111,
+      "examId": 1,
+      "studentId": 38,
+      "value": 49
+    },
+    {
+      "gradeId": 112,
+      "examId": 2,
+      "studentId": 38,
+      "value": 83
+    },
+    {
+      "gradeId": 113,
+      "examId": 3,
+      "studentId": 38,
+      "value": 55
+    },
+    {
+      "gradeId": 114,
+      "examId": 1,
+      "studentId": 39,
+      "value": 55
+    },
+    {
+      "gradeId": 115,
+      "examId": 2,
+      "studentId": 39,
+      "value": 72
+    },
+    {
+      "gradeId": 116,
+      "examId": 3,
+      "studentId": 39,
+      "value": 60
+    },
+    {
+      "gradeId": 117,
+      "examId": 1,
+      "studentId": 40,
+      "value": 55
+    },
+    {
+      "gradeId": 118,
+      "examId": 2,
+      "studentId": 40,
+      "value": 70
+    },
+    {
+      "gradeId": 119,
+      "examId": 3,
+      "studentId": 40,
+      "value": 62
+    },
+    {
+      "gradeId": 120,
+      "examId": 1,
+      "studentId": 41,
+      "value": 57
+    },
+    {
+      "gradeId": 121,
+      "examId": 2,
+      "studentId": 41,
+      "value": 74
+    },
+    {
+      "gradeId": 122,
+      "examId": 3,
+      "studentId": 41,
+      "value": 55
+    },
+    {
+      "gradeId": 123,
+      "examId": 1,
+      "studentId": 42,
+      "value": 63
+    },
+    {
+      "gradeId": 124,
+      "examId": 2,
+      "studentId": 42,
+      "value": 53
+    },
+    {
+      "gradeId": 125,
+      "examId": 3,
+      "studentId": 42,
+      "value": 69
+    },
+    {
+      "gradeId": 126,
+      "examId": 1,
+      "studentId": 43,
+      "value": 52
+    },
+    {
+      "gradeId": 127,
+      "examId": 2,
+      "studentId": 43,
+      "value": 85
+    },
+    {
+      "gradeId": 128,
+      "examId": 3,
+      "studentId": 43,
+      "value": 46
+    },
+    {
+      "gradeId": 129,
+      "examId": 1,
+      "studentId": 44,
+      "value": 61
+    },
+    {
+      "gradeId": 130,
+      "examId": 2,
+      "studentId": 44,
+      "value": 53
+    },
+    {
+      "gradeId": 131,
+      "examId": 3,
+      "studentId": 44,
+      "value": 69
+    },
+    {
+      "gradeId": 132,
+      "examId": 1,
+      "studentId": 45,
+      "value": 57
+    },
+    {
+      "gradeId": 133,
+      "examId": 2,
+      "studentId": 45,
+      "value": 51
+    },
+    {
+      "gradeId": 134,
+      "examId": 3,
+      "studentId": 45,
+      "value": 75
+    },
+    {
+      "gradeId": 135,
+      "examId": 1,
+      "studentId": 46,
+      "value": 61
+    },
+    {
+      "gradeId": 136,
+      "examId": 2,
+      "studentId": 46,
+      "value": 71
+    },
+    {
+      "gradeId": 137,
+      "examId": 3,
+      "studentId": 46,
+      "value": 50
+    },
+    {
+      "gradeId": 138,
+      "examId": 1,
+      "studentId": 47,
+      "value": 59
+    },
+    {
+      "gradeId": 139,
+      "examId": 2,
+      "studentId": 47,
+      "value": 68
+    },
+    {
+      "gradeId": 140,
+      "examId": 3,
+      "studentId": 47,
+      "value": 55
+    },
+    {
+      "gradeId": 141,
+      "examId": 1,
+      "studentId": 48,
+      "value": 57
+    },
+    {
+      "gradeId": 142,
+      "examId": 2,
+      "studentId": 48,
+      "value": 67
+    },
+    {
+      "gradeId": 143,
+      "examId": 3,
+      "studentId": 48,
+      "value": 58
+    },
+    {
+      "gradeId": 144,
+      "examId": 1,
+      "studentId": 49,
+      "value": 63
+    },
+    {
+      "gradeId": 145,
+      "examId": 2,
+      "studentId": 49,
+      "value": 61
+    },
+    {
+      "gradeId": 146,
+      "examId": 3,
+      "studentId": 49,
+      "value": 58
+    },
+    {
+      "gradeId": 147,
+      "examId": 1,
+      "studentId": 50,
+      "value": 61
+    },
+    {
+      "gradeId": 148,
+      "examId": 2,
+      "studentId": 50,
+      "value": 57
+    },
+    {
+      "gradeId": 149,
+      "examId": 3,
+      "studentId": 50,
+      "value": 64
+    },
+    {
+      "gradeId": 150,
+      "examId": 1,
+      "studentId": 51,
+      "value": 51
+    },
+    {
+      "gradeId": 151,
+      "examId": 2,
+      "studentId": 51,
+      "value": 64
+    },
+    {
+      "gradeId": 152,
+      "examId": 3,
+      "studentId": 51,
+      "value": 66
+    },
+    {
+      "gradeId": 153,
+      "examId": 1,
+      "studentId": 52,
+      "value": 65
+    },
+    {
+      "gradeId": 154,
+      "examId": 2,
+      "studentId": 52,
+      "value": 57
+    },
+    {
+      "gradeId": 155,
+      "examId": 3,
+      "studentId": 52,
+      "value": 59
+    },
+    {
+      "gradeId": 156,
+      "examId": 1,
+      "studentId": 53,
+      "value": 50
+    },
+    {
+      "gradeId": 157,
+      "examId": 2,
+      "studentId": 53,
+      "value": 69
+    },
+    {
+      "gradeId": 158,
+      "examId": 3,
+      "studentId": 53,
+      "value": 61
+    },
+    {
+      "gradeId": 159,
+      "examId": 1,
+      "studentId": 54,
+      "value": 55
+    },
+    {
+      "gradeId": 160,
+      "examId": 2,
+      "studentId": 54,
+      "value": 62
+    },
+    {
+      "gradeId": 161,
+      "examId": 3,
+      "studentId": 54,
+      "value": 63
+    },
+    {
+      "gradeId": 162,
+      "examId": 1,
+      "studentId": 55,
+      "value": 57
+    },
+    {
+      "gradeId": 163,
+      "examId": 2,
+      "studentId": 55,
+      "value": 66
+    },
+    {
+      "gradeId": 164,
+      "examId": 3,
+      "studentId": 55,
+      "value": 56
+    },
+    {
+      "gradeId": 165,
+      "examId": 1,
+      "studentId": 56,
+      "value": 62
+    },
+    {
+      "gradeId": 166,
+      "examId": 2,
+      "studentId": 56,
+      "value": 62
+    },
+    {
+      "gradeId": 167,
+      "examId": 3,
+      "studentId": 56,
+      "value": 55
+    },
+    {
+      "gradeId": 168,
+      "examId": 1,
+      "studentId": 57,
+      "value": 58
+    },
+    {
+      "gradeId": 169,
+      "examId": 2,
+      "studentId": 57,
+      "value": 77
+    },
+    {
+      "gradeId": 170,
+      "examId": 3,
+      "studentId": 57,
+      "value": 43
+    },
+    {
+      "gradeId": 171,
+      "examId": 1,
+      "studentId": 58,
+      "value": 54
+    },
+    {
+      "gradeId": 172,
+      "examId": 2,
+      "studentId": 58,
+      "value": 71
+    },
+    {
+      "gradeId": 173,
+      "examId": 3,
+      "studentId": 58,
+      "value": 53
+    },
+    {
+      "gradeId": 174,
+      "examId": 1,
+      "studentId": 59,
+      "value": 63
+    },
+    {
+      "gradeId": 175,
+      "examId": 2,
+      "studentId": 59,
+      "value": 58
+    },
+    {
+      "gradeId": 176,
+      "examId": 3,
+      "studentId": 59,
+      "value": 57
+    },
+    {
+      "gradeId": 177,
+      "examId": 1,
+      "studentId": 60,
+      "value": 54
+    },
+    {
+      "gradeId": 178,
+      "examId": 2,
+      "studentId": 60,
+      "value": 68
+    },
+    {
+      "gradeId": 179,
+      "examId": 3,
+      "studentId": 60,
+      "value": 55
+    },
+    {
+      "gradeId": 180,
+      "examId": 1,
+      "studentId": 61,
+      "value": 53
+    },
+    {
+      "gradeId": 181,
+      "examId": 2,
+      "studentId": 61,
+      "value": 57
+    },
+    {
+      "gradeId": 182,
+      "examId": 3,
+      "studentId": 61,
+      "value": 67
+    },
+    {
+      "gradeId": 183,
+      "examId": 1,
+      "studentId": 62,
+      "value": 43
+    },
+    {
+      "gradeId": 184,
+      "examId": 2,
+      "studentId": 62,
+      "value": 71
+    },
+    {
+      "gradeId": 185,
+      "examId": 3,
+      "studentId": 62,
+      "value": 61
+    },
+    {
+      "gradeId": 186,
+      "examId": 1,
+      "studentId": 63,
+      "value": 59
+    },
+    {
+      "gradeId": 187,
+      "examId": 2,
+      "studentId": 63,
+      "value": 62
+    },
+    {
+      "gradeId": 188,
+      "examId": 3,
+      "studentId": 63,
+      "value": 53
+    },
+    {
+      "gradeId": 189,
+      "examId": 1,
+      "studentId": 64,
+      "value": 54
+    },
+    {
+      "gradeId": 190,
+      "examId": 2,
+      "studentId": 64,
+      "value": 62
+    },
+    {
+      "gradeId": 191,
+      "examId": 3,
+      "studentId": 64,
+      "value": 58
+    },
+    {
+      "gradeId": 192,
+      "examId": 1,
+      "studentId": 65,
+      "value": 57
+    },
+    {
+      "gradeId": 193,
+      "examId": 2,
+      "studentId": 65,
+      "value": 67
+    },
+    {
+      "gradeId": 194,
+      "examId": 3,
+      "studentId": 65,
+      "value": 48
+    },
+    {
+      "gradeId": 195,
+      "examId": 1,
+      "studentId": 66,
+      "value": 59
+    },
+    {
+      "gradeId": 196,
+      "examId": 2,
+      "studentId": 66,
+      "value": 59
+    },
+    {
+      "gradeId": 197,
+      "examId": 3,
+      "studentId": 66,
+      "value": 54
+    },
+    {
+      "gradeId": 198,
+      "examId": 1,
+      "studentId": 67,
+      "value": 56
+    },
+    {
+      "gradeId": 199,
+      "examId": 2,
+      "studentId": 67,
+      "value": 53
+    },
+    {
+      "gradeId": 200,
+      "examId": 3,
+      "studentId": 67,
+      "value": 63
+    },
+    {
+      "gradeId": 201,
+      "examId": 1,
+      "studentId": 68,
+      "value": 49
+    },
+    {
+      "gradeId": 202,
+      "examId": 2,
+      "studentId": 68,
+      "value": 63
+    },
+    {
+      "gradeId": 203,
+      "examId": 3,
+      "studentId": 68,
+      "value": 59
+    },
+    {
+      "gradeId": 204,
+      "examId": 1,
+      "studentId": 69,
+      "value": 61
+    },
+    {
+      "gradeId": 205,
+      "examId": 2,
+      "studentId": 69,
+      "value": 58
+    },
+    {
+      "gradeId": 206,
+      "examId": 3,
+      "studentId": 69,
+      "value": 52
+    },
+    {
+      "gradeId": 207,
+      "examId": 1,
+      "studentId": 70,
+      "value": 47
+    },
+    {
+      "gradeId": 208,
+      "examId": 2,
+      "studentId": 70,
+      "value": 70
+    },
+    {
+      "gradeId": 209,
+      "examId": 3,
+      "studentId": 70,
+      "value": 53
+    },
+    {
+      "gradeId": 210,
+      "examId": 1,
+      "studentId": 71,
+      "value": 49
+    },
+    {
+      "gradeId": 211,
+      "examId": 2,
+      "studentId": 71,
+      "value": 64
+    },
+    {
+      "gradeId": 212,
+      "examId": 3,
+      "studentId": 71,
+      "value": 55
+    },
+    {
+      "gradeId": 213,
+      "examId": 1,
+      "studentId": 72,
+      "value": 54
+    },
+    {
+      "gradeId": 214,
+      "examId": 2,
+      "studentId": 72,
+      "value": 57
+    },
+    {
+      "gradeId": 215,
+      "examId": 3,
+      "studentId": 72,
+      "value": 56
+    },
+    {
+      "gradeId": 216,
+      "examId": 1,
+      "studentId": 73,
+      "value": 59
+    },
+    {
+      "gradeId": 217,
+      "examId": 2,
+      "studentId": 73,
+      "value": 56
+    },
+    {
+      "gradeId": 218,
+      "examId": 3,
+      "studentId": 73,
+      "value": 52
+    },
+    {
+      "gradeId": 219,
+      "examId": 1,
+      "studentId": 74,
+      "value": 52
+    },
+    {
+      "gradeId": 220,
+      "examId": 2,
+      "studentId": 74,
+      "value": 61
+    },
+    {
+      "gradeId": 221,
+      "examId": 3,
+      "studentId": 74,
+      "value": 53
+    },
+    {
+      "gradeId": 222,
+      "examId": 1,
+      "studentId": 75,
+      "value": 60
+    },
+    {
+      "gradeId": 223,
+      "examId": 2,
+      "studentId": 75,
+      "value": 41
+    },
+    {
+      "gradeId": 224,
+      "examId": 3,
+      "studentId": 75,
+      "value": 65
+    },
+    {
+      "gradeId": 225,
+      "examId": 1,
+      "studentId": 76,
+      "value": 54
+    },
+    {
+      "gradeId": 226,
+      "examId": 2,
+      "studentId": 76,
+      "value": 65
+    },
+    {
+      "gradeId": 227,
+      "examId": 3,
+      "studentId": 76,
+      "value": 45
+    },
+    {
+      "gradeId": 228,
+      "examId": 1,
+      "studentId": 77,
+      "value": 55
+    },
+    {
+      "gradeId": 229,
+      "examId": 2,
+      "studentId": 77,
+      "value": 58
+    },
+    {
+      "gradeId": 230,
+      "examId": 3,
+      "studentId": 77,
+      "value": 51
+    },
+    {
+      "gradeId": 231,
+      "examId": 1,
+      "studentId": 78,
+      "value": 55
+    },
+    {
+      "gradeId": 232,
+      "examId": 2,
+      "studentId": 78,
+      "value": 57
+    },
+    {
+      "gradeId": 233,
+      "examId": 3,
+      "studentId": 78,
+      "value": 52
+    },
+    {
+      "gradeId": 234,
+      "examId": 1,
+      "studentId": 79,
+      "value": 62
+    },
+    {
+      "gradeId": 235,
+      "examId": 2,
+      "studentId": 79,
+      "value": 45
+    },
+    {
+      "gradeId": 236,
+      "examId": 3,
+      "studentId": 79,
+      "value": 57
+    },
+    {
+      "gradeId": 237,
+      "examId": 1,
+      "studentId": 80,
+      "value": 65
+    },
+    {
+      "gradeId": 238,
+      "examId": 2,
+      "studentId": 80,
+      "value": 30
+    },
+    {
+      "gradeId": 239,
+      "examId": 3,
+      "studentId": 80,
+      "value": 69
+    },
+    {
+      "gradeId": 240,
+      "examId": 1,
+      "studentId": 81,
+      "value": 56
+    },
+    {
+      "gradeId": 241,
+      "examId": 2,
+      "studentId": 81,
+      "value": 47
+    },
+    {
+      "gradeId": 242,
+      "examId": 3,
+      "studentId": 81,
+      "value": 60
+    },
+    {
+      "gradeId": 243,
+      "examId": 1,
+      "studentId": 82,
+      "value": 61
+    },
+    {
+      "gradeId": 244,
+      "examId": 2,
+      "studentId": 82,
+      "value": 45
+    },
+    {
+      "gradeId": 245,
+      "examId": 3,
+      "studentId": 82,
+      "value": 57
+    },
+    {
+      "gradeId": 246,
+      "examId": 1,
+      "studentId": 83,
+      "value": 62
+    },
+    {
+      "gradeId": 247,
+      "examId": 2,
+      "studentId": 83,
+      "value": 51
+    },
+    {
+      "gradeId": 248,
+      "examId": 3,
+      "studentId": 83,
+      "value": 49
+    },
+    {
+      "gradeId": 249,
+      "examId": 1,
+      "studentId": 84,
+      "value": 65
+    },
+    {
+      "gradeId": 250,
+      "examId": 2,
+      "studentId": 84,
+      "value": 31
+    },
+    {
+      "gradeId": 251,
+      "examId": 3,
+      "studentId": 84,
+      "value": 66
+    },
+    {
+      "gradeId": 252,
+      "examId": 1,
+      "studentId": 85,
+      "value": 54
+    },
+    {
+      "gradeId": 253,
+      "examId": 2,
+      "studentId": 85,
+      "value": 53
+    },
+    {
+      "gradeId": 254,
+      "examId": 3,
+      "studentId": 85,
+      "value": 54
+    },
+    {
+      "gradeId": 255,
+      "examId": 1,
+      "studentId": 86,
+      "value": 41
+    },
+    {
+      "gradeId": 256,
+      "examId": 2,
+      "studentId": 86,
+      "value": 62
+    },
+    {
+      "gradeId": 257,
+      "examId": 3,
+      "studentId": 86,
+      "value": 57
+    },
+    {
+      "gradeId": 258,
+      "examId": 1,
+      "studentId": 87,
+      "value": 52
+    },
+    {
+      "gradeId": 259,
+      "examId": 2,
+      "studentId": 87,
+      "value": 46
+    },
+    {
+      "gradeId": 260,
+      "examId": 3,
+      "studentId": 87,
+      "value": 62
+    },
+    {
+      "gradeId": 261,
+      "examId": 1,
+      "studentId": 88,
+      "value": 58
+    },
+    {
+      "gradeId": 262,
+      "examId": 2,
+      "studentId": 88,
+      "value": 35
+    },
+    {
+      "gradeId": 263,
+      "examId": 3,
+      "studentId": 88,
+      "value": 67
+    },
+    {
+      "gradeId": 264,
+      "examId": 1,
+      "studentId": 89,
+      "value": 55
+    },
+    {
+      "gradeId": 265,
+      "examId": 2,
+      "studentId": 89,
+      "value": 60
+    },
+    {
+      "gradeId": 266,
+      "examId": 3,
+      "studentId": 89,
+      "value": 43
+    },
+    {
+      "gradeId": 267,
+      "examId": 1,
+      "studentId": 90,
+      "value": 48
+    },
+    {
+      "gradeId": 268,
+      "examId": 2,
+      "studentId": 90,
+      "value": 52
+    },
+    {
+      "gradeId": 269,
+      "examId": 3,
+      "studentId": 90,
+      "value": 57
+    },
+    {
+      "gradeId": 270,
+      "examId": 1,
+      "studentId": 91,
+      "value": 54
+    },
+    {
+      "gradeId": 271,
+      "examId": 2,
+      "studentId": 91,
+      "value": 49
+    },
+    {
+      "gradeId": 272,
+      "examId": 3,
+      "studentId": 91,
+      "value": 54
+    },
+    {
+      "gradeId": 273,
+      "examId": 1,
+      "studentId": 92,
+      "value": 59
+    },
+    {
+      "gradeId": 274,
+      "examId": 2,
+      "studentId": 92,
+      "value": 41
+    },
+    {
+      "gradeId": 275,
+      "examId": 3,
+      "studentId": 92,
+      "value": 57
+    },
+    {
+      "gradeId": 276,
+      "examId": 1,
+      "studentId": 93,
+      "value": 54
+    },
+    {
+      "gradeId": 277,
+      "examId": 2,
+      "studentId": 93,
+      "value": 40
+    },
+    {
+      "gradeId": 278,
+      "examId": 3,
+      "studentId": 93,
+      "value": 63
+    },
+    {
+      "gradeId": 279,
+      "examId": 1,
+      "studentId": 94,
+      "value": 54
+    },
+    {
+      "gradeId": 280,
+      "examId": 2,
+      "studentId": 94,
+      "value": 56
+    },
+    {
+      "gradeId": 281,
+      "examId": 3,
+      "studentId": 94,
+      "value": 45
+    },
+    {
+      "gradeId": 282,
+      "examId": 1,
+      "studentId": 95,
+      "value": 52
+    },
+    {
+      "gradeId": 283,
+      "examId": 2,
+      "studentId": 95,
+      "value": 54
+    },
+    {
+      "gradeId": 284,
+      "examId": 3,
+      "studentId": 95,
+      "value": 49
+    },
+    {
+      "gradeId": 285,
+      "examId": 1,
+      "studentId": 96,
+      "value": 56
+    },
+    {
+      "gradeId": 286,
+      "examId": 2,
+      "studentId": 96,
+      "value": 48
+    },
+    {
+      "gradeId": 287,
+      "examId": 3,
+      "studentId": 96,
+      "value": 51
+    },
+    {
+      "gradeId": 288,
+      "examId": 1,
+      "studentId": 97,
+      "value": 50
+    },
+    {
+      "gradeId": 289,
+      "examId": 2,
+      "studentId": 97,
+      "value": 53
+    },
+    {
+      "gradeId": 290,
+      "examId": 3,
+      "studentId": 97,
+      "value": 51
+    },
+    {
+      "gradeId": 291,
+      "examId": 1,
+      "studentId": 98,
+      "value": 52
+    },
+    {
+      "gradeId": 292,
+      "examId": 2,
+      "studentId": 98,
+      "value": 42
+    },
+    {
+      "gradeId": 293,
+      "examId": 3,
+      "studentId": 98,
+      "value": 59
+    },
+    {
+      "gradeId": 294,
+      "examId": 1,
+      "studentId": 99,
+      "value": 56
+    },
+    {
+      "gradeId": 295,
+      "examId": 2,
+      "studentId": 99,
+      "value": 39
+    },
+    {
+      "gradeId": 296,
+      "examId": 3,
+      "studentId": 99,
+      "value": 57
+    },
+    {
+      "gradeId": 297,
+      "examId": 1,
+      "studentId": 100,
+      "value": 61
+    },
+    {
+      "gradeId": 298,
+      "examId": 2,
+      "studentId": 100,
+      "value": 39
+    },
+    {
+      "gradeId": 299,
+      "examId": 3,
+      "studentId": 100,
+      "value": 51
+    },
+    {
+      "gradeId": 300,
+      "examId": 1,
+      "studentId": 101,
+      "value": 45
+    },
+    {
+      "gradeId": 301,
+      "examId": 2,
+      "studentId": 101,
+      "value": 47
+    },
+    {
+      "gradeId": 302,
+      "examId": 3,
+      "studentId": 101,
+      "value": 57
+    },
+    {
+      "gradeId": 303,
+      "examId": 1,
+      "studentId": 102,
+      "value": 54
+    },
+    {
+      "gradeId": 304,
+      "examId": 2,
+      "studentId": 102,
+      "value": 40
+    },
+    {
+      "gradeId": 305,
+      "examId": 3,
+      "studentId": 102,
+      "value": 54
+    },
+    {
+      "gradeId": 306,
+      "examId": 1,
+      "studentId": 103,
+      "value": 50
+    },
+    {
+      "gradeId": 307,
+      "examId": 2,
+      "studentId": 103,
+      "value": 47
+    },
+    {
+      "gradeId": 308,
+      "examId": 3,
+      "studentId": 103,
+      "value": 48
+    },
+    {
+      "gradeId": 309,
+      "examId": 1,
+      "studentId": 104,
+      "value": 59
+    },
+    {
+      "gradeId": 310,
+      "examId": 2,
+      "studentId": 104,
+      "value": 23
+    },
+    {
+      "gradeId": 311,
+      "examId": 3,
+      "studentId": 104,
+      "value": 53
+    },
+    {
+      "gradeId": 312,
+      "examId": 4,
+      "studentId": 2,
+      "value": 109
+    },
+    {
+      "gradeId": 313,
+      "examId": 5,
+      "studentId": 2,
+      "value": 107.5
+    },
+    {
+      "gradeId": 314,
+      "examId": 6,
+      "studentId": 2,
+      "value": 99.62
+    },
+    {
+      "gradeId": 315,
+      "examId": 4,
+      "studentId": 8,
+      "value": 106
+    },
+    {
+      "gradeId": 316,
+      "examId": 5,
+      "studentId": 8,
+      "value": 105
+    },
+    {
+      "gradeId": 317,
+      "examId": 6,
+      "studentId": 8,
+      "value": 97
+    },
+    {
+      "gradeId": 318,
+      "examId": 4,
+      "studentId": 16,
+      "value": 104
+    },
+    {
+      "gradeId": 319,
+      "examId": 5,
+      "studentId": 16,
+      "value": 97.5
+    },
+    {
+      "gradeId": 320,
+      "examId": 6,
+      "studentId": 16,
+      "value": 101
+    },
+    {
+      "gradeId": 321,
+      "examId": 4,
+      "studentId": 15,
+      "value": 103
+    },
+    {
+      "gradeId": 322,
+      "examId": 5,
+      "studentId": 15,
+      "value": 92
+    },
+    {
+      "gradeId": 323,
+      "examId": 6,
+      "studentId": 15,
+      "value": 101
+    },
+    {
+      "gradeId": 324,
+      "examId": 4,
+      "studentId": 11,
+      "value": 95
+    },
+    {
+      "gradeId": 325,
+      "examId": 5,
+      "studentId": 11,
+      "value": 91
+    },
+    {
+      "gradeId": 326,
+      "examId": 6,
+      "studentId": 11,
+      "value": 108
+    },
+    {
+      "gradeId": 327,
+      "examId": 4,
+      "studentId": 3,
+      "value": 93
+    },
+    {
+      "gradeId": 328,
+      "examId": 5,
+      "studentId": 3,
+      "value": 109.5
+    },
+    {
+      "gradeId": 329,
+      "examId": 6,
+      "studentId": 3,
+      "value": 89.76
+    },
+    {
+      "gradeId": 330,
+      "examId": 4,
+      "studentId": 19,
+      "value": 103
+    },
+    {
+      "gradeId": 331,
+      "examId": 5,
+      "studentId": 19,
+      "value": 85
+    },
+    {
+      "gradeId": 332,
+      "examId": 6,
+      "studentId": 19,
+      "value": 103
+    },
+    {
+      "gradeId": 333,
+      "examId": 4,
+      "studentId": 6,
+      "value": 97
+    },
+    {
+      "gradeId": 334,
+      "examId": 5,
+      "studentId": 6,
+      "value": 82
+    },
+    {
+      "gradeId": 335,
+      "examId": 6,
+      "studentId": 6,
+      "value": 112
+    },
+    {
+      "gradeId": 336,
+      "examId": 4,
+      "studentId": 17,
+      "value": 98
+    },
+    {
+      "gradeId": 337,
+      "examId": 5,
+      "studentId": 17,
+      "value": 88
+    },
+    {
+      "gradeId": 338,
+      "examId": 6,
+      "studentId": 17,
+      "value": 102
+    },
+    {
+      "gradeId": 339,
+      "examId": 4,
+      "studentId": 1,
+      "value": 97
+    },
+    {
+      "gradeId": 340,
+      "examId": 5,
+      "studentId": 1,
+      "value": 80
+    },
+    {
+      "gradeId": 341,
+      "examId": 6,
+      "studentId": 1,
+      "value": 110
+    },
+    {
+      "gradeId": 342,
+      "examId": 4,
+      "studentId": 4,
+      "value": 104
+    },
+    {
+      "gradeId": 343,
+      "examId": 5,
+      "studentId": 4,
+      "value": 94.5
+    },
+    {
+      "gradeId": 344,
+      "examId": 6,
+      "studentId": 4,
+      "value": 85.75
+    },
+    {
+      "gradeId": 345,
+      "examId": 4,
+      "studentId": 26,
+      "value": 109
+    },
+    {
+      "gradeId": 346,
+      "examId": 5,
+      "studentId": 26,
+      "value": 77.5
+    },
+    {
+      "gradeId": 347,
+      "examId": 6,
+      "studentId": 26,
+      "value": 96.63
+    },
+    {
+      "gradeId": 348,
+      "examId": 4,
+      "studentId": 27,
+      "value": 90
+    },
+    {
+      "gradeId": 349,
+      "examId": 5,
+      "studentId": 27,
+      "value": 97
+    },
+    {
+      "gradeId": 350,
+      "examId": 6,
+      "studentId": 27,
+      "value": 96
+    },
+    {
+      "gradeId": 351,
+      "examId": 4,
+      "studentId": 5,
+      "value": 103
+    },
+    {
+      "gradeId": 352,
+      "examId": 5,
+      "studentId": 5,
+      "value": 84.5
+    },
+    {
+      "gradeId": 353,
+      "examId": 6,
+      "studentId": 5,
+      "value": 95
+    },
+    {
+      "gradeId": 354,
+      "examId": 4,
+      "studentId": 65,
+      "value": 95
+    },
+    {
+      "gradeId": 355,
+      "examId": 5,
+      "studentId": 65,
+      "value": 101
+    },
+    {
+      "gradeId": 356,
+      "examId": 6,
+      "studentId": 65,
+      "value": 86
+    },
+    {
+      "gradeId": 357,
+      "examId": 4,
+      "studentId": 10,
+      "value": 83
+    },
+    {
+      "gradeId": 358,
+      "examId": 5,
+      "studentId": 10,
+      "value": 115
+    },
+    {
+      "gradeId": 359,
+      "examId": 6,
+      "studentId": 10,
+      "value": 83
+    },
+    {
+      "gradeId": 360,
+      "examId": 4,
+      "studentId": 38,
+      "value": 95
+    },
+    {
+      "gradeId": 361,
+      "examId": 5,
+      "studentId": 38,
+      "value": 92.5
+    },
+    {
+      "gradeId": 362,
+      "examId": 6,
+      "studentId": 38,
+      "value": 93
+    },
+    {
+      "gradeId": 363,
+      "examId": 4,
+      "studentId": 59,
+      "value": 92
+    },
+    {
+      "gradeId": 364,
+      "examId": 5,
+      "studentId": 59,
+      "value": 91
+    },
+    {
+      "gradeId": 365,
+      "examId": 6,
+      "studentId": 59,
+      "value": 97
+    },
+    {
+      "gradeId": 366,
+      "examId": 4,
+      "studentId": 45,
+      "value": 98
+    },
+    {
+      "gradeId": 367,
+      "examId": 5,
+      "studentId": 45,
+      "value": 73.5
+    },
+    {
+      "gradeId": 368,
+      "examId": 6,
+      "studentId": 45,
+      "value": 108
+    },
+    {
+      "gradeId": 369,
+      "examId": 4,
+      "studentId": 37,
+      "value": 91
+    },
+    {
+      "gradeId": 370,
+      "examId": 5,
+      "studentId": 37,
+      "value": 107.5
+    },
+    {
+      "gradeId": 371,
+      "examId": 6,
+      "studentId": 37,
+      "value": 79
+    },
+    {
+      "gradeId": 372,
+      "examId": 4,
+      "studentId": 32,
+      "value": 104
+    },
+    {
+      "gradeId": 373,
+      "examId": 5,
+      "studentId": 32,
+      "value": 67
+    },
+    {
+      "gradeId": 374,
+      "examId": 6,
+      "studentId": 32,
+      "value": 103.41
+    },
+    {
+      "gradeId": 375,
+      "examId": 4,
+      "studentId": 62,
+      "value": 95
+    },
+    {
+      "gradeId": 376,
+      "examId": 5,
+      "studentId": 62,
+      "value": 92.5
+    },
+    {
+      "gradeId": 377,
+      "examId": 6,
+      "studentId": 62,
+      "value": 86
+    },
+    {
+      "gradeId": 378,
+      "examId": 4,
+      "studentId": 25,
+      "value": 97
+    },
+    {
+      "gradeId": 379,
+      "examId": 5,
+      "studentId": 25,
+      "value": 88.5
+    },
+    {
+      "gradeId": 380,
+      "examId": 6,
+      "studentId": 25,
+      "value": 87
+    },
+    {
+      "gradeId": 381,
+      "examId": 4,
+      "studentId": 14,
+      "value": 82
+    },
+    {
+      "gradeId": 382,
+      "examId": 5,
+      "studentId": 14,
+      "value": 98
+    },
+    {
+      "gradeId": 383,
+      "examId": 6,
+      "studentId": 14,
+      "value": 92
+    },
+    {
+      "gradeId": 384,
+      "examId": 4,
+      "studentId": 30,
+      "value": 90
+    },
+    {
+      "gradeId": 385,
+      "examId": 5,
+      "studentId": 30,
+      "value": 106.5
+    },
+    {
+      "gradeId": 386,
+      "examId": 6,
+      "studentId": 30,
+      "value": 73.69
+    },
+    {
+      "gradeId": 387,
+      "examId": 4,
+      "studentId": 41,
+      "value": 86
+    },
+    {
+      "gradeId": 388,
+      "examId": 5,
+      "studentId": 41,
+      "value": 108
+    },
+    {
+      "gradeId": 389,
+      "examId": 6,
+      "studentId": 41,
+      "value": 74.35
+    },
+    {
+      "gradeId": 390,
+      "examId": 4,
+      "studentId": 55,
+      "value": 93
+    },
+    {
+      "gradeId": 391,
+      "examId": 5,
+      "studentId": 55,
+      "value": 82
+    },
+    {
+      "gradeId": 392,
+      "examId": 6,
+      "studentId": 55,
+      "value": 93
+    },
+    {
+      "gradeId": 393,
+      "examId": 4,
+      "studentId": 20,
+      "value": 95
+    },
+    {
+      "gradeId": 394,
+      "examId": 5,
+      "studentId": 20,
+      "value": 72.5
+    },
+    {
+      "gradeId": 395,
+      "examId": 6,
+      "studentId": 20,
+      "value": 98.81
+    },
+    {
+      "gradeId": 396,
+      "examId": 4,
+      "studentId": 61,
+      "value": 86
+    },
+    {
+      "gradeId": 397,
+      "examId": 5,
+      "studentId": 61,
+      "value": 75
+    },
+    {
+      "gradeId": 398,
+      "examId": 6,
+      "studentId": 61,
+      "value": 105
+    },
+    {
+      "gradeId": 399,
+      "examId": 4,
+      "studentId": 80,
+      "value": 100
+    },
+    {
+      "gradeId": 400,
+      "examId": 5,
+      "studentId": 80,
+      "value": 51.5
+    },
+    {
+      "gradeId": 401,
+      "examId": 6,
+      "studentId": 80,
+      "value": 114
+    },
+    {
+      "gradeId": 402,
+      "examId": 4,
+      "studentId": 13,
+      "value": 86
+    },
+    {
+      "gradeId": 403,
+      "examId": 5,
+      "studentId": 13,
+      "value": 104
+    },
+    {
+      "gradeId": 404,
+      "examId": 6,
+      "studentId": 13,
+      "value": 75
+    },
+    {
+      "gradeId": 405,
+      "examId": 4,
+      "studentId": 48,
+      "value": 100
+    },
+    {
+      "gradeId": 406,
+      "examId": 5,
+      "studentId": 48,
+      "value": 81.5
+    },
+    {
+      "gradeId": 407,
+      "examId": 6,
+      "studentId": 48,
+      "value": 83
+    },
+    {
+      "gradeId": 408,
+      "examId": 4,
+      "studentId": 7,
+      "value": 105
+    },
+    {
+      "gradeId": 409,
+      "examId": 5,
+      "studentId": 7,
+      "value": 83
+    },
+    {
+      "gradeId": 410,
+      "examId": 6,
+      "studentId": 7,
+      "value": 76
+    },
+    {
+      "gradeId": 411,
+      "examId": 4,
+      "studentId": 21,
+      "value": 91
+    },
+    {
+      "gradeId": 412,
+      "examId": 5,
+      "studentId": 21,
+      "value": 84.5
+    },
+    {
+      "gradeId": 413,
+      "examId": 6,
+      "studentId": 21,
+      "value": 88
+    },
+    {
+      "gradeId": 414,
+      "examId": 4,
+      "studentId": 54,
+      "value": 86
+    },
+    {
+      "gradeId": 415,
+      "examId": 5,
+      "studentId": 54,
+      "value": 90
+    },
+    {
+      "gradeId": 416,
+      "examId": 6,
+      "studentId": 54,
+      "value": 87
+    },
+    {
+      "gradeId": 417,
+      "examId": 4,
+      "studentId": 53,
+      "value": 92
+    },
+    {
+      "gradeId": 418,
+      "examId": 5,
+      "studentId": 53,
+      "value": 85
+    },
+    {
+      "gradeId": 419,
+      "examId": 6,
+      "studentId": 53,
+      "value": 85
+    },
+    {
+      "gradeId": 420,
+      "examId": 4,
+      "studentId": 51,
+      "value": 94
+    },
+    {
+      "gradeId": 421,
+      "examId": 5,
+      "studentId": 51,
+      "value": 72
+    },
+    {
+      "gradeId": 422,
+      "examId": 6,
+      "studentId": 51,
+      "value": 96
+    },
+    {
+      "gradeId": 423,
+      "examId": 4,
+      "studentId": 47,
+      "value": 92
+    },
+    {
+      "gradeId": 424,
+      "examId": 5,
+      "studentId": 47,
+      "value": 80
+    },
+    {
+      "gradeId": 425,
+      "examId": 6,
+      "studentId": 47,
+      "value": 89
+    },
+    {
+      "gradeId": 426,
+      "examId": 4,
+      "studentId": 79,
+      "value": 86
+    },
+    {
+      "gradeId": 427,
+      "examId": 5,
+      "studentId": 79,
+      "value": 80.5
+    },
+    {
+      "gradeId": 428,
+      "examId": 6,
+      "studentId": 79,
+      "value": 94
+    },
+    {
+      "gradeId": 429,
+      "examId": 4,
+      "studentId": 74,
+      "value": 95
+    },
+    {
+      "gradeId": 430,
+      "examId": 5,
+      "studentId": 74,
+      "value": 68.5
+    },
+    {
+      "gradeId": 431,
+      "examId": 6,
+      "studentId": 74,
+      "value": 96.49
+    },
+    {
+      "gradeId": 432,
+      "examId": 4,
+      "studentId": 24,
+      "value": 96
+    },
+    {
+      "gradeId": 433,
+      "examId": 5,
+      "studentId": 24,
+      "value": 78
+    },
+    {
+      "gradeId": 434,
+      "examId": 6,
+      "studentId": 24,
+      "value": 85.44
+    },
+    {
+      "gradeId": 435,
+      "examId": 4,
+      "studentId": 35,
+      "value": 104
+    },
+    {
+      "gradeId": 436,
+      "examId": 5,
+      "studentId": 35,
+      "value": 72
+    },
+    {
+      "gradeId": 437,
+      "examId": 6,
+      "studentId": 35,
+      "value": 83
+    },
+    {
+      "gradeId": 438,
+      "examId": 4,
+      "studentId": 12,
+      "value": 89
+    },
+    {
+      "gradeId": 439,
+      "examId": 5,
+      "studentId": 12,
+      "value": 79.5
+    },
+    {
+      "gradeId": 440,
+      "examId": 6,
+      "studentId": 12,
+      "value": 89
+    },
+    {
+      "gradeId": 441,
+      "examId": 4,
+      "studentId": 18,
+      "value": 94
+    },
+    {
+      "gradeId": 442,
+      "examId": 5,
+      "studentId": 18,
+      "value": 68.5
+    },
+    {
+      "gradeId": 443,
+      "examId": 6,
+      "studentId": 18,
+      "value": 95
+    },
+    {
+      "gradeId": 444,
+      "examId": 4,
+      "studentId": 34,
+      "value": 95
+    },
+    {
+      "gradeId": 445,
+      "examId": 5,
+      "studentId": 34,
+      "value": 60
+    },
+    {
+      "gradeId": 446,
+      "examId": 6,
+      "studentId": 34,
+      "value": 102.03
+    },
+    {
+      "gradeId": 447,
+      "examId": 4,
+      "studentId": 22,
+      "value": 98
+    },
+    {
+      "gradeId": 448,
+      "examId": 5,
+      "studentId": 22,
+      "value": 78
+    },
+    {
+      "gradeId": 449,
+      "examId": 6,
+      "studentId": 22,
+      "value": 80
+    },
+    {
+      "gradeId": 450,
+      "examId": 4,
+      "studentId": 75,
+      "value": 89
+    },
+    {
+      "gradeId": 451,
+      "examId": 5,
+      "studentId": 75,
+      "value": 74
+    },
+    {
+      "gradeId": 452,
+      "examId": 6,
+      "studentId": 75,
+      "value": 93
+    },
+    {
+      "gradeId": 453,
+      "examId": 4,
+      "studentId": 28,
+      "value": 95
+    },
+    {
+      "gradeId": 454,
+      "examId": 5,
+      "studentId": 28,
+      "value": 74
+    },
+    {
+      "gradeId": 455,
+      "examId": 6,
+      "studentId": 28,
+      "value": 86
+    },
+    {
+      "gradeId": 456,
+      "examId": 4,
+      "studentId": 33,
+      "value": 102
+    },
+    {
+      "gradeId": 457,
+      "examId": 5,
+      "studentId": 33,
+      "value": 58
+    },
+    {
+      "gradeId": 458,
+      "examId": 6,
+      "studentId": 33,
+      "value": 95
+    },
+    {
+      "gradeId": 459,
+      "examId": 4,
+      "studentId": 83,
+      "value": 111
+    },
+    {
+      "gradeId": 460,
+      "examId": 5,
+      "studentId": 83,
+      "value": 68
+    },
+    {
+      "gradeId": 461,
+      "examId": 6,
+      "studentId": 83,
+      "value": 75
+    },
+    {
+      "gradeId": 462,
+      "examId": 4,
+      "studentId": 70,
+      "value": 87
+    },
+    {
+      "gradeId": 463,
+      "examId": 5,
+      "studentId": 70,
+      "value": 84
+    },
+    {
+      "gradeId": 464,
+      "examId": 6,
+      "studentId": 70,
+      "value": 80.35
+    },
+    {
+      "gradeId": 465,
+      "examId": 4,
+      "studentId": 57,
+      "value": 89
+    },
+    {
+      "gradeId": 466,
+      "examId": 5,
+      "studentId": 57,
+      "value": 89.5
+    },
+    {
+      "gradeId": 467,
+      "examId": 6,
+      "studentId": 57,
+      "value": 72.65
+    },
+    {
+      "gradeId": 468,
+      "examId": 4,
+      "studentId": 49,
+      "value": 99
+    },
+    {
+      "gradeId": 469,
+      "examId": 5,
+      "studentId": 49,
+      "value": 74
+    },
+    {
+      "gradeId": 470,
+      "examId": 6,
+      "studentId": 49,
+      "value": 77.81
+    },
+    {
+      "gradeId": 471,
+      "examId": 4,
+      "studentId": 36,
+      "value": 94
+    },
+    {
+      "gradeId": 472,
+      "examId": 5,
+      "studentId": 36,
+      "value": 80
+    },
+    {
+      "gradeId": 473,
+      "examId": 6,
+      "studentId": 36,
+      "value": 76.44
+    },
+    {
+      "gradeId": 474,
+      "examId": 4,
+      "studentId": 76,
+      "value": 95
+    },
+    {
+      "gradeId": 475,
+      "examId": 5,
+      "studentId": 76,
+      "value": 82
+    },
+    {
+      "gradeId": 476,
+      "examId": 6,
+      "studentId": 76,
+      "value": 71
+    },
+    {
+      "gradeId": 477,
+      "examId": 4,
+      "studentId": 67,
+      "value": 96
+    },
+    {
+      "gradeId": 478,
+      "examId": 5,
+      "studentId": 67,
+      "value": 50
+    },
+    {
+      "gradeId": 479,
+      "examId": 6,
+      "studentId": 67,
+      "value": 99
+    },
+    {
+      "gradeId": 480,
+      "examId": 4,
+      "studentId": 87,
+      "value": 82
+    },
+    {
+      "gradeId": 481,
+      "examId": 5,
+      "studentId": 87,
+      "value": 82
+    },
+    {
+      "gradeId": 482,
+      "examId": 6,
+      "studentId": 87,
+      "value": 79
+    },
+    {
+      "gradeId": 483,
+      "examId": 4,
+      "studentId": 72,
+      "value": 95
+    },
+    {
+      "gradeId": 484,
+      "examId": 5,
+      "studentId": 72,
+      "value": 63.5
+    },
+    {
+      "gradeId": 485,
+      "examId": 6,
+      "studentId": 72,
+      "value": 84
+    },
+    {
+      "gradeId": 486,
+      "examId": 4,
+      "studentId": 89,
+      "value": 95
+    },
+    {
+      "gradeId": 487,
+      "examId": 5,
+      "studentId": 89,
+      "value": 80
+    },
+    {
+      "gradeId": 488,
+      "examId": 6,
+      "studentId": 89,
+      "value": 67
+    },
+    {
+      "gradeId": 489,
+      "examId": 4,
+      "studentId": 69,
+      "value": 91
+    },
+    {
+      "gradeId": 490,
+      "examId": 5,
+      "studentId": 69,
+      "value": 66.5
+    },
+    {
+      "gradeId": 491,
+      "examId": 6,
+      "studentId": 69,
+      "value": 84
+    },
+    {
+      "gradeId": 492,
+      "examId": 4,
+      "studentId": 84,
+      "value": 100
+    },
+    {
+      "gradeId": 493,
+      "examId": 5,
+      "studentId": 84,
+      "value": 64.5
+    },
+    {
+      "gradeId": 494,
+      "examId": 6,
+      "studentId": 84,
+      "value": 77
+    },
+    {
+      "gradeId": 495,
+      "examId": 4,
+      "studentId": 23,
+      "value": 92
+    },
+    {
+      "gradeId": 496,
+      "examId": 5,
+      "studentId": 23,
+      "value": 52.5
+    },
+    {
+      "gradeId": 497,
+      "examId": 6,
+      "studentId": 23,
+      "value": 97
+    },
+    {
+      "gradeId": 498,
+      "examId": 4,
+      "studentId": 39,
+      "value": 99
+    },
+    {
+      "gradeId": 499,
+      "examId": 5,
+      "studentId": 39,
+      "value": 72
+    },
+    {
+      "gradeId": 500,
+      "examId": 6,
+      "studentId": 39,
+      "value": 70
+    },
+    {
+      "gradeId": 501,
+      "examId": 4,
+      "studentId": 50,
+      "value": 92
+    },
+    {
+      "gradeId": 502,
+      "examId": 5,
+      "studentId": 50,
+      "value": 63.5
+    },
+    {
+      "gradeId": 503,
+      "examId": 6,
+      "studentId": 50,
+      "value": 84
+    },
+    {
+      "gradeId": 504,
+      "examId": 4,
+      "studentId": 82,
+      "value": 82
+    },
+    {
+      "gradeId": 505,
+      "examId": 5,
+      "studentId": 82,
+      "value": 76
+    },
+    {
+      "gradeId": 506,
+      "examId": 6,
+      "studentId": 82,
+      "value": 81
+    },
+    {
+      "gradeId": 507,
+      "examId": 4,
+      "studentId": 81,
+      "value": 96
+    },
+    {
+      "gradeId": 508,
+      "examId": 5,
+      "studentId": 81,
+      "value": 67
+    },
+    {
+      "gradeId": 509,
+      "examId": 6,
+      "studentId": 81,
+      "value": 76
+    },
+    {
+      "gradeId": 510,
+      "examId": 4,
+      "studentId": 29,
+      "value": 88
+    },
+    {
+      "gradeId": 511,
+      "examId": 5,
+      "studentId": 29,
+      "value": 71
+    },
+    {
+      "gradeId": 512,
+      "examId": 6,
+      "studentId": 29,
+      "value": 77
+    },
+    {
+      "gradeId": 513,
+      "examId": 4,
+      "studentId": 88,
+      "value": 83
+    },
+    {
+      "gradeId": 514,
+      "examId": 5,
+      "studentId": 88,
+      "value": 57
+    },
+    {
+      "gradeId": 515,
+      "examId": 6,
+      "studentId": 88,
+      "value": 96
+    },
+    {
+      "gradeId": 516,
+      "examId": 4,
+      "studentId": 31,
+      "value": 91
+    },
+    {
+      "gradeId": 517,
+      "examId": 5,
+      "studentId": 31,
+      "value": 64
+    },
+    {
+      "gradeId": 518,
+      "examId": 6,
+      "studentId": 31,
+      "value": 80.44
+    },
+    {
+      "gradeId": 519,
+      "examId": 4,
+      "studentId": 98,
+      "value": 85
+    },
+    {
+      "gradeId": 520,
+      "examId": 5,
+      "studentId": 98,
+      "value": 59.5
+    },
+    {
+      "gradeId": 521,
+      "examId": 6,
+      "studentId": 98,
+      "value": 86
+    },
+    {
+      "gradeId": 522,
+      "examId": 4,
+      "studentId": 71,
+      "value": 80
+    },
+    {
+      "gradeId": 523,
+      "examId": 5,
+      "studentId": 71,
+      "value": 66
+    },
+    {
+      "gradeId": 524,
+      "examId": 6,
+      "studentId": 71,
+      "value": 84
+    },
+    {
+      "gradeId": 525,
+      "examId": 4,
+      "studentId": 73,
+      "value": 90
+    },
+    {
+      "gradeId": 526,
+      "examId": 5,
+      "studentId": 73,
+      "value": 55
+    },
+    {
+      "gradeId": 527,
+      "examId": 6,
+      "studentId": 73,
+      "value": 85
+    },
+    {
+      "gradeId": 528,
+      "examId": 4,
+      "studentId": 66,
+      "value": 92
+    },
+    {
+      "gradeId": 529,
+      "examId": 5,
+      "studentId": 66,
+      "value": 64.5
+    },
+    {
+      "gradeId": 530,
+      "examId": 6,
+      "studentId": 66,
+      "value": 72.85
+    },
+    {
+      "gradeId": 531,
+      "examId": 4,
+      "studentId": 100,
+      "value": 96
+    },
+    {
+      "gradeId": 532,
+      "examId": 5,
+      "studentId": 100,
+      "value": 46
+    },
+    {
+      "gradeId": 533,
+      "examId": 6,
+      "studentId": 100,
+      "value": 87.13
+    },
+    {
+      "gradeId": 534,
+      "examId": 4,
+      "studentId": 46,
+      "value": 80
+    },
+    {
+      "gradeId": 535,
+      "examId": 5,
+      "studentId": 46,
+      "value": 70.5
+    },
+    {
+      "gradeId": 536,
+      "examId": 6,
+      "studentId": 46,
+      "value": 78
+    },
+    {
+      "gradeId": 537,
+      "examId": 4,
+      "studentId": 63,
+      "value": 81
+    },
+    {
+      "gradeId": 538,
+      "examId": 5,
+      "studentId": 63,
+      "value": 60
+    },
+    {
+      "gradeId": 539,
+      "examId": 6,
+      "studentId": 63,
+      "value": 87
+    },
+    {
+      "gradeId": 540,
+      "examId": 4,
+      "studentId": 85,
+      "value": 87
+    },
+    {
+      "gradeId": 541,
+      "examId": 5,
+      "studentId": 85,
+      "value": 80
+    },
+    {
+      "gradeId": 542,
+      "examId": 6,
+      "studentId": 85,
+      "value": 60
+    },
+    {
+      "gradeId": 543,
+      "examId": 4,
+      "studentId": 44,
+      "value": 86
+    },
+    {
+      "gradeId": 544,
+      "examId": 5,
+      "studentId": 44,
+      "value": 54
+    },
+    {
+      "gradeId": 545,
+      "examId": 6,
+      "studentId": 44,
+      "value": 86
+    },
+    {
+      "gradeId": 546,
+      "examId": 4,
+      "studentId": 91,
+      "value": 100
+    },
+    {
+      "gradeId": 547,
+      "examId": 5,
+      "studentId": 91,
+      "value": 55
+    },
+    {
+      "gradeId": 548,
+      "examId": 6,
+      "studentId": 91,
+      "value": 70
+    },
+    {
+      "gradeId": 549,
+      "examId": 4,
+      "studentId": 58,
+      "value": 82
+    },
+    {
+      "gradeId": 550,
+      "examId": 5,
+      "studentId": 58,
+      "value": 55.5
+    },
+    {
+      "gradeId": 551,
+      "examId": 6,
+      "studentId": 58,
+      "value": 83.81
+    },
+    {
+      "gradeId": 552,
+      "examId": 4,
+      "studentId": 101,
+      "value": 74
+    },
+    {
+      "gradeId": 553,
+      "examId": 5,
+      "studentId": 101,
+      "value": 66
+    },
+    {
+      "gradeId": 554,
+      "examId": 6,
+      "studentId": 101,
+      "value": 80.39
+    },
+    {
+      "gradeId": 555,
+      "examId": 4,
+      "studentId": 64,
+      "value": 79
+    },
+    {
+      "gradeId": 556,
+      "examId": 5,
+      "studentId": 64,
+      "value": 65
+    },
+    {
+      "gradeId": 557,
+      "examId": 6,
+      "studentId": 64,
+      "value": 75
+    },
+    {
+      "gradeId": 558,
+      "examId": 4,
+      "studentId": 97,
+      "value": 82
+    },
+    {
+      "gradeId": 559,
+      "examId": 5,
+      "studentId": 97,
+      "value": 71
+    },
+    {
+      "gradeId": 560,
+      "examId": 6,
+      "studentId": 97,
+      "value": 65
+    },
+    {
+      "gradeId": 561,
+      "examId": 4,
+      "studentId": 56,
+      "value": 96
+    },
+    {
+      "gradeId": 562,
+      "examId": 5,
+      "studentId": 56,
+      "value": 47.5
+    },
+    {
+      "gradeId": 563,
+      "examId": 6,
+      "studentId": 56,
+      "value": 74.39
+    },
+    {
+      "gradeId": 564,
+      "examId": 4,
+      "studentId": 93,
+      "value": 85
+    },
+    {
+      "gradeId": 565,
+      "examId": 5,
+      "studentId": 93,
+      "value": 55
+    },
+    {
+      "gradeId": 566,
+      "examId": 6,
+      "studentId": 93,
+      "value": 77
+    },
+    {
+      "gradeId": 567,
+      "examId": 4,
+      "studentId": 78,
+      "value": 89
+    },
+    {
+      "gradeId": 568,
+      "examId": 5,
+      "studentId": 78,
+      "value": 50
+    },
+    {
+      "gradeId": 569,
+      "examId": 6,
+      "studentId": 78,
+      "value": 78
+    },
+    {
+      "gradeId": 570,
+      "examId": 4,
+      "studentId": 95,
+      "value": 80
+    },
+    {
+      "gradeId": 571,
+      "examId": 5,
+      "studentId": 95,
+      "value": 63.5
+    },
+    {
+      "gradeId": 572,
+      "examId": 6,
+      "studentId": 95,
+      "value": 71
+    },
+    {
+      "gradeId": 573,
+      "examId": 4,
+      "studentId": 96,
+      "value": 91
+    },
+    {
+      "gradeId": 574,
+      "examId": 5,
+      "studentId": 96,
+      "value": 61.5
+    },
+    {
+      "gradeId": 575,
+      "examId": 6,
+      "studentId": 96,
+      "value": 61
+    },
+    {
+      "gradeId": 576,
+      "examId": 4,
+      "studentId": 43,
+      "value": 77
+    },
+    {
+      "gradeId": 577,
+      "examId": 5,
+      "studentId": 43,
+      "value": 80
+    },
+    {
+      "gradeId": 578,
+      "examId": 6,
+      "studentId": 43,
+      "value": 53
+    },
+    {
+      "gradeId": 579,
+      "examId": 4,
+      "studentId": 68,
+      "value": 75
+    },
+    {
+      "gradeId": 580,
+      "examId": 5,
+      "studentId": 68,
+      "value": 60
+    },
+    {
+      "gradeId": 581,
+      "examId": 6,
+      "studentId": 68,
+      "value": 75
+    },
+    {
+      "gradeId": 582,
+      "examId": 4,
+      "studentId": 60,
+      "value": 103
+    },
+    {
+      "gradeId": 583,
+      "examId": 5,
+      "studentId": 60,
+      "value": 44.5
+    },
+    {
+      "gradeId": 584,
+      "examId": 6,
+      "studentId": 60,
+      "value": 59
+    },
+    {
+      "gradeId": 585,
+      "examId": 4,
+      "studentId": 102,
+      "value": 93
+    },
+    {
+      "gradeId": 586,
+      "examId": 5,
+      "studentId": 102,
+      "value": 46
+    },
+    {
+      "gradeId": 587,
+      "examId": 6,
+      "studentId": 102,
+      "value": 64
+    },
+    {
+      "gradeId": 588,
+      "examId": 4,
+      "studentId": 42,
+      "value": 80
+    },
+    {
+      "gradeId": 589,
+      "examId": 5,
+      "studentId": 42,
+      "value": 37
+    },
+    {
+      "gradeId": 590,
+      "examId": 6,
+      "studentId": 42,
+      "value": 85
+    },
+    {
+      "gradeId": 591,
+      "examId": 4,
+      "studentId": 92,
+      "value": 83
+    },
+    {
+      "gradeId": 592,
+      "examId": 5,
+      "studentId": 92,
+      "value": 47.5
+    },
+    {
+      "gradeId": 593,
+      "examId": 6,
+      "studentId": 92,
+      "value": 70.25
+    },
+    {
+      "gradeId": 594,
+      "examId": 4,
+      "studentId": 99,
+      "value": 89
+    },
+    {
+      "gradeId": 595,
+      "examId": 5,
+      "studentId": 99,
+      "value": 43.5
+    },
+    {
+      "gradeId": 596,
+      "examId": 6,
+      "studentId": 99,
+      "value": 67
+    },
+    {
+      "gradeId": 597,
+      "examId": 7,
+      "studentId": 6,
+      "value": 114
+    },
+    {
+      "gradeId": 598,
+      "examId": 8,
+      "studentId": 6,
+      "value": 109
+    },
+    {
+      "gradeId": 599,
+      "examId": 9,
+      "studentId": 6,
+      "value": 116
+    },
+    {
+      "gradeId": 600,
+      "examId": 10,
+      "studentId": 6,
+      "value": 125
+    },
+    {
+      "gradeId": 601,
+      "examId": 7,
+      "studentId": 19,
+      "value": 106
+    },
+    {
+      "gradeId": 602,
+      "examId": 8,
+      "studentId": 19,
+      "value": 108
+    },
+    {
+      "gradeId": 603,
+      "examId": 9,
+      "studentId": 19,
+      "value": 109
+    },
+    {
+      "gradeId": 604,
+      "examId": 10,
+      "studentId": 19,
+      "value": 122
+    },
+    {
+      "gradeId": 605,
+      "examId": 7,
+      "studentId": 14,
+      "value": 105
+    },
+    {
+      "gradeId": 606,
+      "examId": 8,
+      "studentId": 14,
+      "value": 106
+    },
+    {
+      "gradeId": 607,
+      "examId": 9,
+      "studentId": 14,
+      "value": 108
+    },
+    {
+      "gradeId": 608,
+      "examId": 10,
+      "studentId": 14,
+      "value": 122
+    },
+    {
+      "gradeId": 609,
+      "examId": 7,
+      "studentId": 61,
+      "value": 99
+    },
+    {
+      "gradeId": 610,
+      "examId": 8,
+      "studentId": 61,
+      "value": 106
+    },
+    {
+      "gradeId": 611,
+      "examId": 9,
+      "studentId": 61,
+      "value": 117
+    },
+    {
+      "gradeId": 612,
+      "examId": 10,
+      "studentId": 61,
+      "value": 119
+    },
+    {
+      "gradeId": 613,
+      "examId": 7,
+      "studentId": 12,
+      "value": 113
+    },
+    {
+      "gradeId": 614,
+      "examId": 8,
+      "studentId": 12,
+      "value": 107
+    },
+    {
+      "gradeId": 615,
+      "examId": 9,
+      "studentId": 12,
+      "value": 103
+    },
+    {
+      "gradeId": 616,
+      "examId": 10,
+      "studentId": 12,
+      "value": 116
+    },
+    {
+      "gradeId": 617,
+      "examId": 7,
+      "studentId": 8,
+      "value": 108
+    },
+    {
+      "gradeId": 618,
+      "examId": 8,
+      "studentId": 8,
+      "value": 108
+    },
+    {
+      "gradeId": 619,
+      "examId": 9,
+      "studentId": 8,
+      "value": 97
+    },
+    {
+      "gradeId": 620,
+      "examId": 10,
+      "studentId": 8,
+      "value": 125
+    },
+    {
+      "gradeId": 621,
+      "examId": 7,
+      "studentId": 15,
+      "value": 103
+    },
+    {
+      "gradeId": 622,
+      "examId": 8,
+      "studentId": 15,
+      "value": 100
+    },
+    {
+      "gradeId": 623,
+      "examId": 9,
+      "studentId": 15,
+      "value": 99
+    },
+    {
+      "gradeId": 624,
+      "examId": 10,
+      "studentId": 15,
+      "value": 131
+    },
+    {
+      "gradeId": 625,
+      "examId": 7,
+      "studentId": 10,
+      "value": 102
+    },
+    {
+      "gradeId": 626,
+      "examId": 8,
+      "studentId": 10,
+      "value": 109
+    },
+    {
+      "gradeId": 627,
+      "examId": 9,
+      "studentId": 10,
+      "value": 88
+    },
+    {
+      "gradeId": 628,
+      "examId": 10,
+      "studentId": 10,
+      "value": 131
+    },
+    {
+      "gradeId": 629,
+      "examId": 7,
+      "studentId": 16,
+      "value": 109
+    },
+    {
+      "gradeId": 630,
+      "examId": 8,
+      "studentId": 16,
+      "value": 104
+    },
+    {
+      "gradeId": 631,
+      "examId": 9,
+      "studentId": 16,
+      "value": 104
+    },
+    {
+      "gradeId": 632,
+      "examId": 10,
+      "studentId": 16,
+      "value": 113
+    },
+    {
+      "gradeId": 633,
+      "examId": 7,
+      "studentId": 3,
+      "value": 103
+    },
+    {
+      "gradeId": 634,
+      "examId": 8,
+      "studentId": 3,
+      "value": 113
+    },
+    {
+      "gradeId": 635,
+      "examId": 9,
+      "studentId": 3,
+      "value": 85
+    },
+    {
+      "gradeId": 636,
+      "examId": 10,
+      "studentId": 3,
+      "value": 128
+    },
+    {
+      "gradeId": 637,
+      "examId": 7,
+      "studentId": 13,
+      "value": 97
+    },
+    {
+      "gradeId": 638,
+      "examId": 8,
+      "studentId": 13,
+      "value": 120
+    },
+    {
+      "gradeId": 639,
+      "examId": 9,
+      "studentId": 13,
+      "value": 89
+    },
+    {
+      "gradeId": 640,
+      "examId": 10,
+      "studentId": 13,
+      "value": 122
+    },
+    {
+      "gradeId": 641,
+      "examId": 7,
+      "studentId": 7,
+      "value": 100
+    },
+    {
+      "gradeId": 642,
+      "examId": 8,
+      "studentId": 7,
+      "value": 110
+    },
+    {
+      "gradeId": 643,
+      "examId": 9,
+      "studentId": 7,
+      "value": 83
+    },
+    {
+      "gradeId": 644,
+      "examId": 10,
+      "studentId": 7,
+      "value": 134
+    },
+    {
+      "gradeId": 645,
+      "examId": 7,
+      "studentId": 49,
+      "value": 112
+    },
+    {
+      "gradeId": 646,
+      "examId": 8,
+      "studentId": 49,
+      "value": 110
+    },
+    {
+      "gradeId": 647,
+      "examId": 9,
+      "studentId": 49,
+      "value": 76
+    },
+    {
+      "gradeId": 648,
+      "examId": 10,
+      "studentId": 49,
+      "value": 128
+    },
+    {
+      "gradeId": 649,
+      "examId": 7,
+      "studentId": 57,
+      "value": 103
+    },
+    {
+      "gradeId": 650,
+      "examId": 8,
+      "studentId": 57,
+      "value": 109
+    },
+    {
+      "gradeId": 651,
+      "examId": 9,
+      "studentId": 57,
+      "value": 82
+    },
+    {
+      "gradeId": 652,
+      "examId": 10,
+      "studentId": 57,
+      "value": 132
+    },
+    {
+      "gradeId": 653,
+      "examId": 7,
+      "studentId": 2,
+      "value": 101
+    },
+    {
+      "gradeId": 654,
+      "examId": 8,
+      "studentId": 2,
+      "value": 114
+    },
+    {
+      "gradeId": 655,
+      "examId": 9,
+      "studentId": 2,
+      "value": 101
+    },
+    {
+      "gradeId": 656,
+      "examId": 10,
+      "studentId": 2,
+      "value": 108
+    },
+    {
+      "gradeId": 657,
+      "examId": 7,
+      "studentId": 27,
+      "value": 96
+    },
+    {
+      "gradeId": 658,
+      "examId": 8,
+      "studentId": 27,
+      "value": 109
+    },
+    {
+      "gradeId": 659,
+      "examId": 9,
+      "studentId": 27,
+      "value": 103
+    },
+    {
+      "gradeId": 660,
+      "examId": 10,
+      "studentId": 27,
+      "value": 116
+    },
+    {
+      "gradeId": 661,
+      "examId": 7,
+      "studentId": 41,
+      "value": 99
+    },
+    {
+      "gradeId": 662,
+      "examId": 8,
+      "studentId": 41,
+      "value": 123
+    },
+    {
+      "gradeId": 663,
+      "examId": 9,
+      "studentId": 41,
+      "value": 97
+    },
+    {
+      "gradeId": 664,
+      "examId": 10,
+      "studentId": 41,
+      "value": 104
+    },
+    {
+      "gradeId": 665,
+      "examId": 7,
+      "studentId": 1,
+      "value": 107
+    },
+    {
+      "gradeId": 666,
+      "examId": 8,
+      "studentId": 1,
+      "value": 106
+    },
+    {
+      "gradeId": 667,
+      "examId": 9,
+      "studentId": 1,
+      "value": 103
+    },
+    {
+      "gradeId": 668,
+      "examId": 10,
+      "studentId": 1,
+      "value": 107
+    },
+    {
+      "gradeId": 669,
+      "examId": 7,
+      "studentId": 38,
+      "value": 95
+    },
+    {
+      "gradeId": 670,
+      "examId": 8,
+      "studentId": 38,
+      "value": 109
+    },
+    {
+      "gradeId": 671,
+      "examId": 9,
+      "studentId": 38,
+      "value": 99
+    },
+    {
+      "gradeId": 672,
+      "examId": 10,
+      "studentId": 38,
+      "value": 116
+    },
+    {
+      "gradeId": 673,
+      "examId": 7,
+      "studentId": 4,
+      "value": 107
+    },
+    {
+      "gradeId": 674,
+      "examId": 8,
+      "studentId": 4,
+      "value": 106
+    },
+    {
+      "gradeId": 675,
+      "examId": 9,
+      "studentId": 4,
+      "value": 102
+    },
+    {
+      "gradeId": 676,
+      "examId": 10,
+      "studentId": 4,
+      "value": 104
+    },
+    {
+      "gradeId": 677,
+      "examId": 7,
+      "studentId": 74,
+      "value": 102
+    },
+    {
+      "gradeId": 678,
+      "examId": 8,
+      "studentId": 74,
+      "value": 96
+    },
+    {
+      "gradeId": 679,
+      "examId": 9,
+      "studentId": 74,
+      "value": 102
+    },
+    {
+      "gradeId": 680,
+      "examId": 10,
+      "studentId": 74,
+      "value": 119
+    },
+    {
+      "gradeId": 681,
+      "examId": 7,
+      "studentId": 67,
+      "value": 103
+    },
+    {
+      "gradeId": 682,
+      "examId": 8,
+      "studentId": 67,
+      "value": 92
+    },
+    {
+      "gradeId": 683,
+      "examId": 9,
+      "studentId": 67,
+      "value": 96
+    },
+    {
+      "gradeId": 684,
+      "examId": 10,
+      "studentId": 67,
+      "value": 128
+    },
+    {
+      "gradeId": 685,
+      "examId": 7,
+      "studentId": 59,
+      "value": 114
+    },
+    {
+      "gradeId": 686,
+      "examId": 8,
+      "studentId": 59,
+      "value": 97
+    },
+    {
+      "gradeId": 687,
+      "examId": 9,
+      "studentId": 59,
+      "value": 96
+    },
+    {
+      "gradeId": 688,
+      "examId": 10,
+      "studentId": 59,
+      "value": 110
+    },
+    {
+      "gradeId": 689,
+      "examId": 7,
+      "studentId": 17,
+      "value": 104
+    },
+    {
+      "gradeId": 690,
+      "examId": 8,
+      "studentId": 17,
+      "value": 96
+    },
+    {
+      "gradeId": 691,
+      "examId": 9,
+      "studentId": 17,
+      "value": 104
+    },
+    {
+      "gradeId": 692,
+      "examId": 10,
+      "studentId": 17,
+      "value": 113
+    },
+    {
+      "gradeId": 693,
+      "examId": 7,
+      "studentId": 11,
+      "value": 107
+    },
+    {
+      "gradeId": 694,
+      "examId": 8,
+      "studentId": 11,
+      "value": 98
+    },
+    {
+      "gradeId": 695,
+      "examId": 9,
+      "studentId": 11,
+      "value": 106
+    },
+    {
+      "gradeId": 696,
+      "examId": 10,
+      "studentId": 11,
+      "value": 104
+    },
+    {
+      "gradeId": 697,
+      "examId": 7,
+      "studentId": 29,
+      "value": 106
+    },
+    {
+      "gradeId": 698,
+      "examId": 8,
+      "studentId": 29,
+      "value": 93
+    },
+    {
+      "gradeId": 699,
+      "examId": 9,
+      "studentId": 29,
+      "value": 93
+    },
+    {
+      "gradeId": 700,
+      "examId": 10,
+      "studentId": 29,
+      "value": 122
+    },
+    {
+      "gradeId": 701,
+      "examId": 7,
+      "studentId": 32,
+      "value": 107
+    },
+    {
+      "gradeId": 702,
+      "examId": 8,
+      "studentId": 32,
+      "value": 97
+    },
+    {
+      "gradeId": 703,
+      "examId": 9,
+      "studentId": 32,
+      "value": 111
+    },
+    {
+      "gradeId": 704,
+      "examId": 10,
+      "studentId": 32,
+      "value": 98
+    },
+    {
+      "gradeId": 705,
+      "examId": 7,
+      "studentId": 23,
+      "value": 106
+    },
+    {
+      "gradeId": 706,
+      "examId": 8,
+      "studentId": 23,
+      "value": 95
+    },
+    {
+      "gradeId": 707,
+      "examId": 9,
+      "studentId": 23,
+      "value": 108
+    },
+    {
+      "gradeId": 708,
+      "examId": 10,
+      "studentId": 23,
+      "value": 104
+    },
+    {
+      "gradeId": 709,
+      "examId": 7,
+      "studentId": 51,
+      "value": 101
+    },
+    {
+      "gradeId": 710,
+      "examId": 8,
+      "studentId": 51,
+      "value": 103
+    },
+    {
+      "gradeId": 711,
+      "examId": 9,
+      "studentId": 51,
+      "value": 104
+    },
+    {
+      "gradeId": 712,
+      "examId": 10,
+      "studentId": 51,
+      "value": 104
+    },
+    {
+      "gradeId": 713,
+      "examId": 7,
+      "studentId": 18,
+      "value": 120
+    },
+    {
+      "gradeId": 714,
+      "examId": 8,
+      "studentId": 18,
+      "value": 93
+    },
+    {
+      "gradeId": 715,
+      "examId": 9,
+      "studentId": 18,
+      "value": 96
+    },
+    {
+      "gradeId": 716,
+      "examId": 10,
+      "studentId": 18,
+      "value": 101
+    },
+    {
+      "gradeId": 717,
+      "examId": 7,
+      "studentId": 80,
+      "value": 102
+    },
+    {
+      "gradeId": 718,
+      "examId": 8,
+      "studentId": 80,
+      "value": 91
+    },
+    {
+      "gradeId": 719,
+      "examId": 9,
+      "studentId": 80,
+      "value": 115
+    },
+    {
+      "gradeId": 720,
+      "examId": 10,
+      "studentId": 80,
+      "value": 101
+    },
+    {
+      "gradeId": 721,
+      "examId": 7,
+      "studentId": 58,
+      "value": 103
+    },
+    {
+      "gradeId": 722,
+      "examId": 8,
+      "studentId": 58,
+      "value": 101
+    },
+    {
+      "gradeId": 723,
+      "examId": 9,
+      "studentId": 58,
+      "value": 85
+    },
+    {
+      "gradeId": 724,
+      "examId": 10,
+      "studentId": 58,
+      "value": 119
+    },
+    {
+      "gradeId": 725,
+      "examId": 7,
+      "studentId": 21,
+      "value": 107
+    },
+    {
+      "gradeId": 726,
+      "examId": 8,
+      "studentId": 21,
+      "value": 95
+    },
+    {
+      "gradeId": 727,
+      "examId": 9,
+      "studentId": 21,
+      "value": 90
+    },
+    {
+      "gradeId": 728,
+      "examId": 10,
+      "studentId": 21,
+      "value": 116
+    },
+    {
+      "gradeId": 729,
+      "examId": 7,
+      "studentId": 30,
+      "value": 99
+    },
+    {
+      "gradeId": 730,
+      "examId": 8,
+      "studentId": 30,
+      "value": 113
+    },
+    {
+      "gradeId": 731,
+      "examId": 9,
+      "studentId": 30,
+      "value": 85
+    },
+    {
+      "gradeId": 732,
+      "examId": 10,
+      "studentId": 30,
+      "value": 110
+    },
+    {
+      "gradeId": 733,
+      "examId": 7,
+      "studentId": 70,
+      "value": 103
+    },
+    {
+      "gradeId": 734,
+      "examId": 8,
+      "studentId": 70,
+      "value": 107
+    },
+    {
+      "gradeId": 735,
+      "examId": 9,
+      "studentId": 70,
+      "value": 84
+    },
+    {
+      "gradeId": 736,
+      "examId": 10,
+      "studentId": 70,
+      "value": 113
+    },
+    {
+      "gradeId": 737,
+      "examId": 7,
+      "studentId": 45,
+      "value": 103
+    },
+    {
+      "gradeId": 738,
+      "examId": 8,
+      "studentId": 45,
+      "value": 97
+    },
+    {
+      "gradeId": 739,
+      "examId": 9,
+      "studentId": 45,
+      "value": 100
+    },
+    {
+      "gradeId": 740,
+      "examId": 10,
+      "studentId": 45,
+      "value": 107
+    },
+    {
+      "gradeId": 741,
+      "examId": 7,
+      "studentId": 69,
+      "value": 106
+    },
+    {
+      "gradeId": 742,
+      "examId": 8,
+      "studentId": 69,
+      "value": 95
+    },
+    {
+      "gradeId": 743,
+      "examId": 9,
+      "studentId": 69,
+      "value": 93
+    },
+    {
+      "gradeId": 744,
+      "examId": 10,
+      "studentId": 69,
+      "value": 113
+    },
+    {
+      "gradeId": 745,
+      "examId": 7,
+      "studentId": 87,
+      "value": 98
+    },
+    {
+      "gradeId": 746,
+      "examId": 8,
+      "studentId": 87,
+      "value": 101
+    },
+    {
+      "gradeId": 747,
+      "examId": 9,
+      "studentId": 87,
+      "value": 86
+    },
+    {
+      "gradeId": 748,
+      "examId": 10,
+      "studentId": 87,
+      "value": 116
+    },
+    {
+      "gradeId": 749,
+      "examId": 7,
+      "studentId": 56,
+      "value": 103
+    },
+    {
+      "gradeId": 750,
+      "examId": 8,
+      "studentId": 56,
+      "value": 93
+    },
+    {
+      "gradeId": 751,
+      "examId": 9,
+      "studentId": 56,
+      "value": 92
+    },
+    {
+      "gradeId": 752,
+      "examId": 10,
+      "studentId": 56,
+      "value": 113
+    },
+    {
+      "gradeId": 753,
+      "examId": 7,
+      "studentId": 37,
+      "value": 112
+    },
+    {
+      "gradeId": 754,
+      "examId": 8,
+      "studentId": 37,
+      "value": 103
+    },
+    {
+      "gradeId": 755,
+      "examId": 9,
+      "studentId": 37,
+      "value": 84
+    },
+    {
+      "gradeId": 756,
+      "examId": 10,
+      "studentId": 37,
+      "value": 101
+    },
+    {
+      "gradeId": 757,
+      "examId": 7,
+      "studentId": 62,
+      "value": 104
+    },
+    {
+      "gradeId": 758,
+      "examId": 8,
+      "studentId": 62,
+      "value": 113
+    },
+    {
+      "gradeId": 759,
+      "examId": 9,
+      "studentId": 62,
+      "value": 84
+    },
+    {
+      "gradeId": 760,
+      "examId": 10,
+      "studentId": 62,
+      "value": 98
+    },
+    {
+      "gradeId": 761,
+      "examId": 7,
+      "studentId": 25,
+      "value": 111
+    },
+    {
+      "gradeId": 762,
+      "examId": 8,
+      "studentId": 25,
+      "value": 93
+    },
+    {
+      "gradeId": 763,
+      "examId": 9,
+      "studentId": 25,
+      "value": 90
+    },
+    {
+      "gradeId": 764,
+      "examId": 10,
+      "studentId": 25,
+      "value": 104
+    },
+    {
+      "gradeId": 765,
+      "examId": 7,
+      "studentId": 26,
+      "value": 109
+    },
+    {
+      "gradeId": 766,
+      "examId": 8,
+      "studentId": 26,
+      "value": 101
+    },
+    {
+      "gradeId": 767,
+      "examId": 9,
+      "studentId": 26,
+      "value": 92
+    },
+    {
+      "gradeId": 768,
+      "examId": 10,
+      "studentId": 26,
+      "value": 95
+    },
+    {
+      "gradeId": 769,
+      "examId": 7,
+      "studentId": 9,
+      "value": 98
+    },
+    {
+      "gradeId": 770,
+      "examId": 8,
+      "studentId": 9,
+      "value": 95
+    },
+    {
+      "gradeId": 771,
+      "examId": 9,
+      "studentId": 9,
+      "value": 96
+    },
+    {
+      "gradeId": 772,
+      "examId": 10,
+      "studentId": 9,
+      "value": 107
+    },
+    {
+      "gradeId": 773,
+      "examId": 7,
+      "studentId": 33,
+      "value": 109
+    },
+    {
+      "gradeId": 774,
+      "examId": 8,
+      "studentId": 33,
+      "value": 61
+    },
+    {
+      "gradeId": 775,
+      "examId": 9,
+      "studentId": 33,
+      "value": 106
+    },
+    {
+      "gradeId": 776,
+      "examId": 10,
+      "studentId": 33,
+      "value": 119
+    },
+    {
+      "gradeId": 777,
+      "examId": 7,
+      "studentId": 22,
+      "value": 102
+    },
+    {
+      "gradeId": 778,
+      "examId": 8,
+      "studentId": 22,
+      "value": 107
+    },
+    {
+      "gradeId": 779,
+      "examId": 9,
+      "studentId": 22,
+      "value": 87
+    },
+    {
+      "gradeId": 780,
+      "examId": 10,
+      "studentId": 22,
+      "value": 98
+    },
+    {
+      "gradeId": 781,
+      "examId": 7,
+      "studentId": 28,
+      "value": 103
+    },
+    {
+      "gradeId": 782,
+      "examId": 8,
+      "studentId": 28,
+      "value": 98
+    },
+    {
+      "gradeId": 783,
+      "examId": 9,
+      "studentId": 28,
+      "value": 88
+    },
+    {
+      "gradeId": 784,
+      "examId": 10,
+      "studentId": 28,
+      "value": 104
+    },
+    {
+      "gradeId": 785,
+      "examId": 7,
+      "studentId": 20,
+      "value": 101
+    },
+    {
+      "gradeId": 786,
+      "examId": 8,
+      "studentId": 20,
+      "value": 91
+    },
+    {
+      "gradeId": 787,
+      "examId": 9,
+      "studentId": 20,
+      "value": 91
+    },
+    {
+      "gradeId": 788,
+      "examId": 10,
+      "studentId": 20,
+      "value": 110
+    },
+    {
+      "gradeId": 789,
+      "examId": 7,
+      "studentId": 65,
+      "value": 103
+    },
+    {
+      "gradeId": 790,
+      "examId": 8,
+      "studentId": 65,
+      "value": 103
+    },
+    {
+      "gradeId": 791,
+      "examId": 9,
+      "studentId": 65,
+      "value": 88
+    },
+    {
+      "gradeId": 792,
+      "examId": 10,
+      "studentId": 65,
+      "value": 98
+    },
+    {
+      "gradeId": 793,
+      "examId": 7,
+      "studentId": 47,
+      "value": 102
+    },
+    {
+      "gradeId": 794,
+      "examId": 8,
+      "studentId": 47,
+      "value": 103
+    },
+    {
+      "gradeId": 795,
+      "examId": 9,
+      "studentId": 47,
+      "value": 70
+    },
+    {
+      "gradeId": 796,
+      "examId": 10,
+      "studentId": 47,
+      "value": 116
+    },
+    {
+      "gradeId": 797,
+      "examId": 7,
+      "studentId": 55,
+      "value": 96
+    },
+    {
+      "gradeId": 798,
+      "examId": 8,
+      "studentId": 55,
+      "value": 102
+    },
+    {
+      "gradeId": 799,
+      "examId": 9,
+      "studentId": 55,
+      "value": 77
+    },
+    {
+      "gradeId": 800,
+      "examId": 10,
+      "studentId": 55,
+      "value": 116
+    },
+    {
+      "gradeId": 801,
+      "examId": 7,
+      "studentId": 5,
+      "value": 101
+    },
+    {
+      "gradeId": 802,
+      "examId": 8,
+      "studentId": 5,
+      "value": 94
+    },
+    {
+      "gradeId": 803,
+      "examId": 9,
+      "studentId": 5,
+      "value": 101
+    },
+    {
+      "gradeId": 804,
+      "examId": 10,
+      "studentId": 5,
+      "value": 95
+    },
+    {
+      "gradeId": 805,
+      "examId": 7,
+      "studentId": 39,
+      "value": 101
+    },
+    {
+      "gradeId": 806,
+      "examId": 8,
+      "studentId": 39,
+      "value": 91
+    },
+    {
+      "gradeId": 807,
+      "examId": 9,
+      "studentId": 39,
+      "value": 92
+    },
+    {
+      "gradeId": 808,
+      "examId": 10,
+      "studentId": 39,
+      "value": 107
+    },
+    {
+      "gradeId": 809,
+      "examId": 7,
+      "studentId": 50,
+      "value": 107
+    },
+    {
+      "gradeId": 810,
+      "examId": 8,
+      "studentId": 50,
+      "value": 84
+    },
+    {
+      "gradeId": 811,
+      "examId": 9,
+      "studentId": 50,
+      "value": 91
+    },
+    {
+      "gradeId": 812,
+      "examId": 10,
+      "studentId": 50,
+      "value": 107
+    },
+    {
+      "gradeId": 813,
+      "examId": 7,
+      "studentId": 92,
+      "value": 106
+    },
+    {
+      "gradeId": 814,
+      "examId": 8,
+      "studentId": 92,
+      "value": 93
+    },
+    {
+      "gradeId": 815,
+      "examId": 9,
+      "studentId": 92,
+      "value": 77
+    },
+    {
+      "gradeId": 816,
+      "examId": 10,
+      "studentId": 92,
+      "value": 110
+    },
+    {
+      "gradeId": 817,
+      "examId": 7,
+      "studentId": 24,
+      "value": 98
+    },
+    {
+      "gradeId": 818,
+      "examId": 8,
+      "studentId": 24,
+      "value": 82
+    },
+    {
+      "gradeId": 819,
+      "examId": 9,
+      "studentId": 24,
+      "value": 90
+    },
+    {
+      "gradeId": 820,
+      "examId": 10,
+      "studentId": 24,
+      "value": 116
+    },
+    {
+      "gradeId": 821,
+      "examId": 7,
+      "studentId": 88,
+      "value": 100
+    },
+    {
+      "gradeId": 822,
+      "examId": 8,
+      "studentId": 88,
+      "value": 80
+    },
+    {
+      "gradeId": 823,
+      "examId": 9,
+      "studentId": 88,
+      "value": 96
+    },
+    {
+      "gradeId": 824,
+      "examId": 10,
+      "studentId": 88,
+      "value": 110
+    },
+    {
+      "gradeId": 825,
+      "examId": 7,
+      "studentId": 46,
+      "value": 94
+    },
+    {
+      "gradeId": 826,
+      "examId": 8,
+      "studentId": 46,
+      "value": 100
+    },
+    {
+      "gradeId": 827,
+      "examId": 9,
+      "studentId": 46,
+      "value": 90
+    },
+    {
+      "gradeId": 828,
+      "examId": 10,
+      "studentId": 46,
+      "value": 98
+    },
+    {
+      "gradeId": 829,
+      "examId": 7,
+      "studentId": 60,
+      "value": 99
+    },
+    {
+      "gradeId": 830,
+      "examId": 8,
+      "studentId": 60,
+      "value": 92
+    },
+    {
+      "gradeId": 831,
+      "examId": 9,
+      "studentId": 60,
+      "value": 73
+    },
+    {
+      "gradeId": 832,
+      "examId": 10,
+      "studentId": 60,
+      "value": 118
+    },
+    {
+      "gradeId": 833,
+      "examId": 7,
+      "studentId": 71,
+      "value": 98
+    },
+    {
+      "gradeId": 834,
+      "examId": 8,
+      "studentId": 71,
+      "value": 99
+    },
+    {
+      "gradeId": 835,
+      "examId": 9,
+      "studentId": 71,
+      "value": 89
+    },
+    {
+      "gradeId": 836,
+      "examId": 10,
+      "studentId": 71,
+      "value": 95
+    },
+    {
+      "gradeId": 837,
+      "examId": 7,
+      "studentId": 63,
+      "value": 109
+    },
+    {
+      "gradeId": 838,
+      "examId": 8,
+      "studentId": 63,
+      "value": 96
+    },
+    {
+      "gradeId": 839,
+      "examId": 9,
+      "studentId": 63,
+      "value": 75
+    },
+    {
+      "gradeId": 840,
+      "examId": 10,
+      "studentId": 63,
+      "value": 101
+    },
+    {
+      "gradeId": 841,
+      "examId": 7,
+      "studentId": 53,
+      "value": 96
+    },
+    {
+      "gradeId": 842,
+      "examId": 8,
+      "studentId": 53,
+      "value": 96
+    },
+    {
+      "gradeId": 843,
+      "examId": 9,
+      "studentId": 53,
+      "value": 85
+    },
+    {
+      "gradeId": 844,
+      "examId": 10,
+      "studentId": 53,
+      "value": 104
+    },
+    {
+      "gradeId": 845,
+      "examId": 7,
+      "studentId": 48,
+      "value": 101
+    },
+    {
+      "gradeId": 846,
+      "examId": 8,
+      "studentId": 48,
+      "value": 102
+    },
+    {
+      "gradeId": 847,
+      "examId": 9,
+      "studentId": 48,
+      "value": 73
+    },
+    {
+      "gradeId": 848,
+      "examId": 10,
+      "studentId": 48,
+      "value": 104
+    },
+    {
+      "gradeId": 849,
+      "examId": 7,
+      "studentId": 35,
+      "value": 105
+    },
+    {
+      "gradeId": 850,
+      "examId": 8,
+      "studentId": 35,
+      "value": 78
+    },
+    {
+      "gradeId": 851,
+      "examId": 9,
+      "studentId": 35,
+      "value": 93
+    },
+    {
+      "gradeId": 852,
+      "examId": 10,
+      "studentId": 35,
+      "value": 104
+    },
+    {
+      "gradeId": 853,
+      "examId": 7,
+      "studentId": 82,
+      "value": 106
+    },
+    {
+      "gradeId": 854,
+      "examId": 8,
+      "studentId": 82,
+      "value": 84
+    },
+    {
+      "gradeId": 855,
+      "examId": 9,
+      "studentId": 82,
+      "value": 81
+    },
+    {
+      "gradeId": 856,
+      "examId": 10,
+      "studentId": 82,
+      "value": 107
+    },
+    {
+      "gradeId": 857,
+      "examId": 7,
+      "studentId": 36,
+      "value": 93
+    },
+    {
+      "gradeId": 858,
+      "examId": 8,
+      "studentId": 36,
+      "value": 92
+    },
+    {
+      "gradeId": 859,
+      "examId": 9,
+      "studentId": 36,
+      "value": 70
+    },
+    {
+      "gradeId": 860,
+      "examId": 10,
+      "studentId": 36,
+      "value": 122
+    },
+    {
+      "gradeId": 861,
+      "examId": 7,
+      "studentId": 85,
+      "value": 103
+    },
+    {
+      "gradeId": 862,
+      "examId": 8,
+      "studentId": 85,
+      "value": 103
+    },
+    {
+      "gradeId": 863,
+      "examId": 9,
+      "studentId": 85,
+      "value": 63
+    },
+    {
+      "gradeId": 864,
+      "examId": 10,
+      "studentId": 85,
+      "value": 101
+    },
+    {
+      "gradeId": 865,
+      "examId": 7,
+      "studentId": 76,
+      "value": 99
+    },
+    {
+      "gradeId": 866,
+      "examId": 8,
+      "studentId": 76,
+      "value": 105
+    },
+    {
+      "gradeId": 867,
+      "examId": 9,
+      "studentId": 76,
+      "value": 58
+    },
+    {
+      "gradeId": 868,
+      "examId": 10,
+      "studentId": 76,
+      "value": 107
+    },
+    {
+      "gradeId": 869,
+      "examId": 7,
+      "studentId": 78,
+      "value": 104
+    },
+    {
+      "gradeId": 870,
+      "examId": 8,
+      "studentId": 78,
+      "value": 94
+    },
+    {
+      "gradeId": 871,
+      "examId": 9,
+      "studentId": 78,
+      "value": 67
+    },
+    {
+      "gradeId": 872,
+      "examId": 10,
+      "studentId": 78,
+      "value": 104
+    },
+    {
+      "gradeId": 873,
+      "examId": 7,
+      "studentId": 40,
+      "value": 101
+    },
+    {
+      "gradeId": 874,
+      "examId": 8,
+      "studentId": 40,
+      "value": 71
+    },
+    {
+      "gradeId": 875,
+      "examId": 9,
+      "studentId": 40,
+      "value": 89
+    },
+    {
+      "gradeId": 876,
+      "examId": 10,
+      "studentId": 40,
+      "value": 107
+    },
+    {
+      "gradeId": 877,
+      "examId": 7,
+      "studentId": 42,
+      "value": 104
+    },
+    {
+      "gradeId": 878,
+      "examId": 8,
+      "studentId": 42,
+      "value": 66
+    },
+    {
+      "gradeId": 879,
+      "examId": 9,
+      "studentId": 42,
+      "value": 94
+    },
+    {
+      "gradeId": 880,
+      "examId": 10,
+      "studentId": 42,
+      "value": 104
+    },
+    {
+      "gradeId": 881,
+      "examId": 7,
+      "studentId": 84,
+      "value": 110
+    },
+    {
+      "gradeId": 882,
+      "examId": 8,
+      "studentId": 84,
+      "value": 90
+    },
+    {
+      "gradeId": 883,
+      "examId": 9,
+      "studentId": 84,
+      "value": 75
+    },
+    {
+      "gradeId": 884,
+      "examId": 10,
+      "studentId": 84,
+      "value": 92
+    },
+    {
+      "gradeId": 885,
+      "examId": 7,
+      "studentId": 101,
+      "value": 91
+    },
+    {
+      "gradeId": 886,
+      "examId": 8,
+      "studentId": 101,
+      "value": 88
+    },
+    {
+      "gradeId": 887,
+      "examId": 9,
+      "studentId": 101,
+      "value": 78
+    },
+    {
+      "gradeId": 888,
+      "examId": 10,
+      "studentId": 101,
+      "value": 110
+    },
+    {
+      "gradeId": 889,
+      "examId": 7,
+      "studentId": 75,
+      "value": 108
+    },
+    {
+      "gradeId": 890,
+      "examId": 8,
+      "studentId": 75,
+      "value": 74
+    },
+    {
+      "gradeId": 891,
+      "examId": 9,
+      "studentId": 75,
+      "value": 84
+    },
+    {
+      "gradeId": 892,
+      "examId": 10,
+      "studentId": 75,
+      "value": 101
+    },
+    {
+      "gradeId": 893,
+      "examId": 7,
+      "studentId": 54,
+      "value": 89
+    },
+    {
+      "gradeId": 894,
+      "examId": 8,
+      "studentId": 54,
+      "value": 87
+    },
+    {
+      "gradeId": 895,
+      "examId": 9,
+      "studentId": 54,
+      "value": 80
+    },
+    {
+      "gradeId": 896,
+      "examId": 10,
+      "studentId": 54,
+      "value": 110
+    },
+    {
+      "gradeId": 897,
+      "examId": 7,
+      "studentId": 44,
+      "value": 93
+    },
+    {
+      "gradeId": 898,
+      "examId": 8,
+      "studentId": 44,
+      "value": 84
+    },
+    {
+      "gradeId": 899,
+      "examId": 9,
+      "studentId": 44,
+      "value": 100
+    },
+    {
+      "gradeId": 900,
+      "examId": 10,
+      "studentId": 44,
+      "value": 89
+    },
+    {
+      "gradeId": 901,
+      "examId": 7,
+      "studentId": 66,
+      "value": 92
+    },
+    {
+      "gradeId": 902,
+      "examId": 8,
+      "studentId": 66,
+      "value": 94
+    },
+    {
+      "gradeId": 903,
+      "examId": 9,
+      "studentId": 66,
+      "value": 71
+    },
+    {
+      "gradeId": 904,
+      "examId": 10,
+      "studentId": 66,
+      "value": 108
+    },
+    {
+      "gradeId": 905,
+      "examId": 7,
+      "studentId": 79,
+      "value": 97
+    },
+    {
+      "gradeId": 906,
+      "examId": 8,
+      "studentId": 79,
+      "value": 85
+    },
+    {
+      "gradeId": 907,
+      "examId": 9,
+      "studentId": 79,
+      "value": 79
+    },
+    {
+      "gradeId": 908,
+      "examId": 10,
+      "studentId": 79,
+      "value": 104
+    },
+    {
+      "gradeId": 909,
+      "examId": 7,
+      "studentId": 34,
+      "value": 106
+    },
+    {
+      "gradeId": 910,
+      "examId": 8,
+      "studentId": 34,
+      "value": 90
+    },
+    {
+      "gradeId": 911,
+      "examId": 9,
+      "studentId": 34,
+      "value": 107
+    },
+    {
+      "gradeId": 912,
+      "examId": 10,
+      "studentId": 34,
+      "value": 61
+    },
+    {
+      "gradeId": 913,
+      "examId": 7,
+      "studentId": 96,
+      "value": 98
+    },
+    {
+      "gradeId": 914,
+      "examId": 8,
+      "studentId": 96,
+      "value": 86
+    },
+    {
+      "gradeId": 915,
+      "examId": 9,
+      "studentId": 96,
+      "value": 82
+    },
+    {
+      "gradeId": 916,
+      "examId": 10,
+      "studentId": 96,
+      "value": 98
+    },
+    {
+      "gradeId": 917,
+      "examId": 7,
+      "studentId": 86,
+      "value": 88
+    },
+    {
+      "gradeId": 918,
+      "examId": 8,
+      "studentId": 86,
+      "value": 79
+    },
+    {
+      "gradeId": 919,
+      "examId": 9,
+      "studentId": 86,
+      "value": 96
+    },
+    {
+      "gradeId": 920,
+      "examId": 10,
+      "studentId": 86,
+      "value": 101
+    },
+    {
+      "gradeId": 921,
+      "examId": 7,
+      "studentId": 72,
+      "value": 101
+    },
+    {
+      "gradeId": 922,
+      "examId": 8,
+      "studentId": 72,
+      "value": 76
+    },
+    {
+      "gradeId": 923,
+      "examId": 9,
+      "studentId": 72,
+      "value": 80
+    },
+    {
+      "gradeId": 924,
+      "examId": 10,
+      "studentId": 72,
+      "value": 107
+    },
+    {
+      "gradeId": 925,
+      "examId": 7,
+      "studentId": 100,
+      "value": 97
+    },
+    {
+      "gradeId": 926,
+      "examId": 8,
+      "studentId": 100,
+      "value": 67
+    },
+    {
+      "gradeId": 927,
+      "examId": 9,
+      "studentId": 100,
+      "value": 83
+    },
+    {
+      "gradeId": 928,
+      "examId": 10,
+      "studentId": 100,
+      "value": 116
+    },
+    {
+      "gradeId": 929,
+      "examId": 7,
+      "studentId": 64,
+      "value": 92
+    },
+    {
+      "gradeId": 930,
+      "examId": 8,
+      "studentId": 64,
+      "value": 102
+    },
+    {
+      "gradeId": 931,
+      "examId": 9,
+      "studentId": 64,
+      "value": 73
+    },
+    {
+      "gradeId": 932,
+      "examId": 10,
+      "studentId": 64,
+      "value": 95
+    },
+    {
+      "gradeId": 933,
+      "examId": 7,
+      "studentId": 73,
+      "value": 106
+    },
+    {
+      "gradeId": 934,
+      "examId": 8,
+      "studentId": 73,
+      "value": 87
+    },
+    {
+      "gradeId": 935,
+      "examId": 9,
+      "studentId": 73,
+      "value": 81
+    },
+    {
+      "gradeId": 936,
+      "examId": 10,
+      "studentId": 73,
+      "value": 86
+    },
+    {
+      "gradeId": 937,
+      "examId": 7,
+      "studentId": 97,
+      "value": 93
+    },
+    {
+      "gradeId": 938,
+      "examId": 8,
+      "studentId": 97,
+      "value": 93
+    },
+    {
+      "gradeId": 939,
+      "examId": 9,
+      "studentId": 97,
+      "value": 68
+    },
+    {
+      "gradeId": 940,
+      "examId": 10,
+      "studentId": 97,
+      "value": 104
+    },
+    {
+      "gradeId": 941,
+      "examId": 7,
+      "studentId": 89,
+      "value": 101
+    },
+    {
+      "gradeId": 942,
+      "examId": 8,
+      "studentId": 89,
+      "value": 90
+    },
+    {
+      "gradeId": 943,
+      "examId": 9,
+      "studentId": 89,
+      "value": 63
+    },
+    {
+      "gradeId": 944,
+      "examId": 10,
+      "studentId": 89,
+      "value": 104
+    },
+    {
+      "gradeId": 945,
+      "examId": 7,
+      "studentId": 81,
+      "value": 108
+    },
+    {
+      "gradeId": 946,
+      "examId": 8,
+      "studentId": 81,
+      "value": 72
+    },
+    {
+      "gradeId": 947,
+      "examId": 9,
+      "studentId": 81,
+      "value": 72
+    },
+    {
+      "gradeId": 948,
+      "examId": 10,
+      "studentId": 81,
+      "value": 101
+    },
+    {
+      "gradeId": 949,
+      "examId": 7,
+      "studentId": 83,
+      "value": 105
+    },
+    {
+      "gradeId": 950,
+      "examId": 8,
+      "studentId": 83,
+      "value": 87
+    },
+    {
+      "gradeId": 951,
+      "examId": 9,
+      "studentId": 83,
+      "value": 52
+    },
+    {
+      "gradeId": 952,
+      "examId": 10,
+      "studentId": 83,
+      "value": 107
+    },
+    {
+      "gradeId": 953,
+      "examId": 7,
+      "studentId": 95,
+      "value": 100
+    },
+    {
+      "gradeId": 954,
+      "examId": 8,
+      "studentId": 95,
+      "value": 86
+    },
+    {
+      "gradeId": 955,
+      "examId": 9,
+      "studentId": 95,
+      "value": 71
+    },
+    {
+      "gradeId": 956,
+      "examId": 10,
+      "studentId": 95,
+      "value": 92
+    },
+    {
+      "gradeId": 957,
+      "examId": 7,
+      "studentId": 93,
+      "value": 97
+    },
+    {
+      "gradeId": 958,
+      "examId": 8,
+      "studentId": 93,
+      "value": 90
+    },
+    {
+      "gradeId": 959,
+      "examId": 9,
+      "studentId": 93,
+      "value": 72
+    },
+    {
+      "gradeId": 960,
+      "examId": 10,
+      "studentId": 93,
+      "value": 89
+    },
+    {
+      "gradeId": 961,
+      "examId": 7,
+      "studentId": 52,
+      "value": 98
+    },
+    {
+      "gradeId": 962,
+      "examId": 8,
+      "studentId": 52,
+      "value": 80
+    },
+    {
+      "gradeId": 963,
+      "examId": 9,
+      "studentId": 52,
+      "value": 69
+    },
+    {
+      "gradeId": 964,
+      "examId": 10,
+      "studentId": 52,
+      "value": 101
+    },
+    {
+      "gradeId": 965,
+      "examId": 7,
+      "studentId": 99,
+      "value": 101
+    },
+    {
+      "gradeId": 966,
+      "examId": 8,
+      "studentId": 99,
+      "value": 71
+    },
+    {
+      "gradeId": 967,
+      "examId": 9,
+      "studentId": 99,
+      "value": 81
+    },
+    {
+      "gradeId": 968,
+      "examId": 10,
+      "studentId": 99,
+      "value": 89
+    },
+    {
+      "gradeId": 969,
+      "examId": 7,
+      "studentId": 43,
+      "value": 97
+    },
+    {
+      "gradeId": 970,
+      "examId": 8,
+      "studentId": 43,
+      "value": 97
+    },
+    {
+      "gradeId": 971,
+      "examId": 9,
+      "studentId": 43,
+      "value": 56
+    },
+    {
+      "gradeId": 972,
+      "examId": 10,
+      "studentId": 43,
+      "value": 86
+    },
+    {
+      "gradeId": 973,
+      "examId": 7,
+      "studentId": 68,
+      "value": 99
+    },
+    {
+      "gradeId": 974,
+      "examId": 8,
+      "studentId": 68,
+      "value": 77
+    },
+    {
+      "gradeId": 975,
+      "examId": 9,
+      "studentId": 68,
+      "value": 70
+    },
+    {
+      "gradeId": 976,
+      "examId": 10,
+      "studentId": 68,
+      "value": 86
+    },
+    {
+      "gradeId": 977,
+      "examId": 7,
+      "studentId": 98,
+      "value": 84
+    },
+    {
+      "gradeId": 978,
+      "examId": 8,
+      "studentId": 98,
+      "value": 93
+    },
+    {
+      "gradeId": 979,
+      "examId": 9,
+      "studentId": 98,
+      "value": 92
+    },
+    {
+      "gradeId": 980,
+      "examId": 10,
+      "studentId": 98,
+      "value": 58
+    },
+    {
+      "gradeId": 981,
+      "examId": 7,
+      "studentId": 102,
+      "value": 99
+    },
+    {
+      "gradeId": 982,
+      "examId": 8,
+      "studentId": 102,
+      "value": 73
+    },
+    {
+      "gradeId": 983,
+      "examId": 9,
+      "studentId": 102,
+      "value": 66
+    },
+    {
+      "gradeId": 984,
+      "examId": 10,
+      "studentId": 102,
+      "value": 89
+    },
+    {
+      "gradeId": 985,
+      "examId": 7,
+      "studentId": 91,
+      "value": 89
+    },
+    {
+      "gradeId": 986,
+      "examId": 8,
+      "studentId": 91,
+      "value": 76
+    },
+    {
+      "gradeId": 987,
+      "examId": 9,
+      "studentId": 91,
+      "value": 66
+    },
+    {
+      "gradeId": 988,
+      "examId": 10,
+      "studentId": 91,
+      "value": 86
+    },
+    {
+      "gradeId": 989,
+      "examId": 7,
+      "studentId": 31,
+      "value": 98
+    },
+    {
+      "gradeId": 990,
+      "examId": 8,
+      "studentId": 31,
+      "value": 74
+    },
+    {
+      "gradeId": 991,
+      "examId": 9,
+      "studentId": 31,
+      "value": 90
+    },
+    {
+      "gradeId": 992,
+      "examId": 10,
+      "studentId": 31,
+      "value": 55
+    },
+    {
+      "gradeId": 993,
+      "examId": 7,
+      "studentId": 90,
+      "value": 87
+    },
+    {
+      "gradeId": 994,
+      "examId": 8,
+      "studentId": 90,
+      "value": 64
+    },
+    {
+      "gradeId": 995,
+      "examId": 9,
+      "studentId": 90,
+      "value": 50
+    },
+    {
+      "gradeId": 996,
+      "examId": 10,
+      "studentId": 90,
+      "value": 113
+    },
+    {
+      "gradeId": 997,
+      "examId": 7,
+      "studentId": 77,
+      "value": 94
+    },
+    {
+      "gradeId": 998,
+      "examId": 8,
+      "studentId": 77,
+      "value": 68
+    },
+    {
+      "gradeId": 999,
+      "examId": 9,
+      "studentId": 77,
+      "value": 57
+    },
+    {
+      "gradeId": 1000,
+      "examId": 10,
+      "studentId": 77,
+      "value": 89
+    },
+    {
+      "gradeId": 1001,
+      "examId": 21,
+      "studentId": 23,
+      "value": 97
+    },
+    {
+      "gradeId": 1002,
+      "examId": 22,
+      "studentId": 23,
+      "value": 81.5
+    },
+    {
+      "gradeId": 1003,
+      "examId": 23,
+      "studentId": 23,
+      "value": 97
+    },
+    {
+      "gradeId": 1004,
+      "examId": 21,
+      "studentId": 28,
+      "value": 103
+    },
+    {
+      "gradeId": 1005,
+      "examId": 22,
+      "studentId": 28,
+      "value": 59.5
+    },
+    {
+      "gradeId": 1006,
+      "examId": 23,
+      "studentId": 28,
+      "value": 85
+    },
+    {
+      "gradeId": 1007,
+      "examId": 21,
+      "studentId": 8,
+      "value": 96
+    },
+    {
+      "gradeId": 1008,
+      "examId": 22,
+      "studentId": 8,
+      "value": 80
+    },
+    {
+      "gradeId": 1009,
+      "examId": 23,
+      "studentId": 8,
+      "value": 103
+    },
+    {
+      "gradeId": 1010,
+      "examId": 21,
+      "studentId": 1,
+      "value": 97
+    },
+    {
+      "gradeId": 1011,
+      "examId": 22,
+      "studentId": 1,
+      "value": 93
+    },
+    {
+      "gradeId": 1012,
+      "examId": 23,
+      "studentId": 1,
+      "value": 96
+    },
+    {
+      "gradeId": 1013,
+      "examId": 21,
+      "studentId": 70,
+      "value": 108
+    },
+    {
+      "gradeId": 1014,
+      "examId": 22,
+      "studentId": 70,
+      "value": 64.5
+    },
+    {
+      "gradeId": 1015,
+      "examId": 23,
+      "studentId": 70,
+      "value": 112
+    },
+    {
+      "gradeId": 1016,
+      "examId": 21,
+      "studentId": 5,
+      "value": 112
+    },
+    {
+      "gradeId": 1017,
+      "examId": 22,
+      "studentId": 5,
+      "value": 51.5
+    },
+    {
+      "gradeId": 1018,
+      "examId": 23,
+      "studentId": 5,
+      "value": 99
+    },
+    {
+      "gradeId": 1019,
+      "examId": 21,
+      "studentId": 61,
+      "value": 99
+    },
+    {
+      "gradeId": 1020,
+      "examId": 22,
+      "studentId": 61,
+      "value": 97
+    },
+    {
+      "gradeId": 1021,
+      "examId": 23,
+      "studentId": 61,
+      "value": 95
+    },
+    {
+      "gradeId": 1022,
+      "examId": 21,
+      "studentId": 92,
+      "value": 114
+    },
+    {
+      "gradeId": 1023,
+      "examId": 22,
+      "studentId": 92,
+      "value": 92.5
+    },
+    {
+      "gradeId": 1024,
+      "examId": 23,
+      "studentId": 92,
+      "value": 123
+    },
+    {
+      "gradeId": 1025,
+      "examId": 21,
+      "studentId": 15,
+      "value": 109
+    },
+    {
+      "gradeId": 1026,
+      "examId": 22,
+      "studentId": 15,
+      "value": 72
+    },
+    {
+      "gradeId": 1027,
+      "examId": 23,
+      "studentId": 15,
+      "value": 96
+    },
+    {
+      "gradeId": 1028,
+      "examId": 21,
+      "studentId": 41,
+      "value": 102
+    },
+    {
+      "gradeId": 1029,
+      "examId": 22,
+      "studentId": 41,
+      "value": 52
+    },
+    {
+      "gradeId": 1030,
+      "examId": 23,
+      "studentId": 41,
+      "value": 120
+    },
+    {
+      "gradeId": 1031,
+      "examId": 21,
+      "studentId": 76,
+      "value": 78
+    },
+    {
+      "gradeId": 1032,
+      "examId": 22,
+      "studentId": 76,
+      "value": 34
+    },
+    {
+      "gradeId": 1033,
+      "examId": 23,
+      "studentId": 76,
+      "value": 87
+    },
+    {
+      "gradeId": 1034,
+      "examId": 21,
+      "studentId": 66,
+      "value": 99
+    },
+    {
+      "gradeId": 1035,
+      "examId": 22,
+      "studentId": 66,
+      "value": 74.5
+    },
+    {
+      "gradeId": 1036,
+      "examId": 23,
+      "studentId": 66,
+      "value": 87
+    },
+    {
+      "gradeId": 1037,
+      "examId": 21,
+      "studentId": 60,
+      "value": 93
+    },
+    {
+      "gradeId": 1038,
+      "examId": 22,
+      "studentId": 60,
+      "value": 92
+    },
+    {
+      "gradeId": 1039,
+      "examId": 23,
+      "studentId": 60,
+      "value": 101
+    },
+    {
+      "gradeId": 1040,
+      "examId": 21,
+      "studentId": 20,
+      "value": 104
+    },
+    {
+      "gradeId": 1041,
+      "examId": 22,
+      "studentId": 20,
+      "value": 85
+    },
+    {
+      "gradeId": 1042,
+      "examId": 23,
+      "studentId": 20,
+      "value": 89
+    },
+    {
+      "gradeId": 1043,
+      "examId": 21,
+      "studentId": 46,
+      "value": 94
+    },
+    {
+      "gradeId": 1044,
+      "examId": 22,
+      "studentId": 46,
+      "value": 90.5
+    },
+    {
+      "gradeId": 1045,
+      "examId": 23,
+      "studentId": 46,
+      "value": 91
+    },
+    {
+      "gradeId": 1046,
+      "examId": 21,
+      "studentId": 26,
+      "value": 109
+    },
+    {
+      "gradeId": 1047,
+      "examId": 22,
+      "studentId": 26,
+      "value": 37
+    },
+    {
+      "gradeId": 1048,
+      "examId": 23,
+      "studentId": 26,
+      "value": 109
+    },
+    {
+      "gradeId": 1049,
+      "examId": 21,
+      "studentId": 61,
+      "value": 93
+    },
+    {
+      "gradeId": 1050,
+      "examId": 22,
+      "studentId": 61,
+      "value": 101.5
+    },
+    {
+      "gradeId": 1051,
+      "examId": 23,
+      "studentId": 61,
+      "value": 92
+    },
+    {
+      "gradeId": 1052,
+      "examId": 21,
+      "studentId": 1,
+      "value": 89
+    },
+    {
+      "gradeId": 1053,
+      "examId": 22,
+      "studentId": 1,
+      "value": 58
+    },
+    {
+      "gradeId": 1054,
+      "examId": 23,
+      "studentId": 1,
+      "value": 93
+    },
+    {
+      "gradeId": 1055,
+      "examId": 21,
+      "studentId": 13,
+      "value": 87
+    },
+    {
+      "gradeId": 1056,
+      "examId": 22,
+      "studentId": 13,
+      "value": 88.5
+    },
+    {
+      "gradeId": 1057,
+      "examId": 23,
+      "studentId": 13,
+      "value": 81
+    },
+    {
+      "gradeId": 1058,
+      "examId": 21,
+      "studentId": 11,
+      "value": 75
+    },
+    {
+      "gradeId": 1059,
+      "examId": 22,
+      "studentId": 11,
+      "value": 65
+    },
+    {
+      "gradeId": 1060,
+      "examId": 23,
+      "studentId": 11,
+      "value": 88
+    },
+    {
+      "gradeId": 1061,
+      "examId": 21,
+      "studentId": 19,
+      "value": 96
+    },
+    {
+      "gradeId": 1062,
+      "examId": 22,
+      "studentId": 19,
+      "value": 62
+    },
+    {
+      "gradeId": 1063,
+      "examId": 23,
+      "studentId": 19,
+      "value": 95
+    },
+    {
+      "gradeId": 1064,
+      "examId": 21,
+      "studentId": 5,
+      "value": 93
+    },
+    {
+      "gradeId": 1065,
+      "examId": 22,
+      "studentId": 5,
+      "value": 66
+    },
+    {
+      "gradeId": 1066,
+      "examId": 23,
+      "studentId": 5,
+      "value": 102
+    },
+    {
+      "gradeId": 1067,
+      "examId": 21,
+      "studentId": 52,
+      "value": 99
+    },
+    {
+      "gradeId": 1068,
+      "examId": 22,
+      "studentId": 52,
+      "value": 73
+    },
+    {
+      "gradeId": 1069,
+      "examId": 23,
+      "studentId": 52,
+      "value": 106
+    },
+    {
+      "gradeId": 1070,
+      "examId": 21,
+      "studentId": 36,
+      "value": 99
+    },
+    {
+      "gradeId": 1071,
+      "examId": 22,
+      "studentId": 36,
+      "value": 98
+    },
+    {
+      "gradeId": 1072,
+      "examId": 23,
+      "studentId": 36,
+      "value": 99
+    },
+    {
+      "gradeId": 1073,
+      "examId": 21,
+      "studentId": 6,
+      "value": 100
+    },
+    {
+      "gradeId": 1074,
+      "examId": 22,
+      "studentId": 6,
+      "value": 85
+    },
+    {
+      "gradeId": 1075,
+      "examId": 23,
+      "studentId": 6,
+      "value": 113
+    },
+    {
+      "gradeId": 1076,
+      "examId": 21,
+      "studentId": 26,
+      "value": 94
+    },
+    {
+      "gradeId": 1077,
+      "examId": 22,
+      "studentId": 26,
+      "value": 58
+    },
+    {
+      "gradeId": 1078,
+      "examId": 23,
+      "studentId": 26,
+      "value": 72
+    },
+    {
+      "gradeId": 1079,
+      "examId": 21,
+      "studentId": 56,
+      "value": 82
+    },
+    {
+      "gradeId": 1080,
+      "examId": 22,
+      "studentId": 56,
+      "value": 73
+    },
+    {
+      "gradeId": 1081,
+      "examId": 23,
+      "studentId": 56,
+      "value": 82
+    },
+    {
+      "gradeId": 1082,
+      "examId": 21,
+      "studentId": 57,
+      "value": 85
+    },
+    {
+      "gradeId": 1083,
+      "examId": 22,
+      "studentId": 57,
+      "value": 64
+    },
+    {
+      "gradeId": 1084,
+      "examId": 23,
+      "studentId": 57,
+      "value": 78
+    },
+    {
+      "gradeId": 1085,
+      "examId": 21,
+      "studentId": 7,
+      "value": 109
+    },
+    {
+      "gradeId": 1086,
+      "examId": 22,
+      "studentId": 7,
+      "value": 48
+    },
+    {
+      "gradeId": 1087,
+      "examId": 23,
+      "studentId": 7,
+      "value": 82
+    },
+    {
+      "gradeId": 1088,
+      "examId": 21,
+      "studentId": 46,
+      "value": 99
+    },
+    {
+      "gradeId": 1089,
+      "examId": 22,
+      "studentId": 46,
+      "value": 55
+    },
+    {
+      "gradeId": 1090,
+      "examId": 23,
+      "studentId": 46,
+      "value": 102
+    },
+    {
+      "gradeId": 1091,
+      "examId": 21,
+      "studentId": 28,
+      "value": 106
+    },
+    {
+      "gradeId": 1092,
+      "examId": 22,
+      "studentId": 28,
+      "value": 67
+    },
+    {
+      "gradeId": 1093,
+      "examId": 23,
+      "studentId": 28,
+      "value": 102
+    },
+    {
+      "gradeId": 1094,
+      "examId": 21,
+      "studentId": 37,
+      "value": 94
+    },
+    {
+      "gradeId": 1095,
+      "examId": 22,
+      "studentId": 37,
+      "value": 66
+    },
+    {
+      "gradeId": 1096,
+      "examId": 23,
+      "studentId": 37,
+      "value": 77
+    },
+    {
+      "gradeId": 1097,
+      "examId": 21,
+      "studentId": 14,
+      "value": 97
+    },
+    {
+      "gradeId": 1098,
+      "examId": 22,
+      "studentId": 14,
+      "value": 81
+    },
+    {
+      "gradeId": 1099,
+      "examId": 23,
+      "studentId": 14,
+      "value": 81
+    },
+    {
+      "gradeId": 1100,
+      "examId": 21,
+      "studentId": 2,
+      "value": 102
+    },
+    {
+      "gradeId": 1101,
+      "examId": 22,
+      "studentId": 2,
+      "value": 55
+    },
+    {
+      "gradeId": 1102,
+      "examId": 23,
+      "studentId": 2,
+      "value": 103
+    },
+    {
+      "gradeId": 1103,
+      "examId": 21,
+      "studentId": 8,
+      "value": 97
+    },
+    {
+      "gradeId": 1104,
+      "examId": 22,
+      "studentId": 8,
+      "value": 95
+    },
+    {
+      "gradeId": 1105,
+      "examId": 23,
+      "studentId": 8,
+      "value": 87
+    },
+    {
+      "gradeId": 1106,
+      "examId": 21,
+      "studentId": 27,
+      "value": 107
+    },
+    {
+      "gradeId": 1107,
+      "examId": 22,
+      "studentId": 27,
+      "value": 88
+    },
+    {
+      "gradeId": 1108,
+      "examId": 23,
+      "studentId": 27,
+      "value": 98
+    },
+    {
+      "gradeId": 1109,
+      "examId": 21,
+      "studentId": 6,
+      "value": 96
+    },
+    {
+      "gradeId": 1110,
+      "examId": 22,
+      "studentId": 6,
+      "value": 82
+    },
+    {
+      "gradeId": 1111,
+      "examId": 23,
+      "studentId": 6,
+      "value": 100
+    },
+    {
+      "gradeId": 1112,
+      "examId": 21,
+      "studentId": 58,
+      "value": 86
+    },
+    {
+      "gradeId": 1113,
+      "examId": 22,
+      "studentId": 58,
+      "value": 76
+    },
+    {
+      "gradeId": 1114,
+      "examId": 23,
+      "studentId": 58,
+      "value": 79
+    },
+    {
+      "gradeId": 1115,
+      "examId": 21,
+      "studentId": 18,
+      "value": 94
+    },
+    {
+      "gradeId": 1116,
+      "examId": 22,
+      "studentId": 18,
+      "value": 71
+    },
+    {
+      "gradeId": 1117,
+      "examId": 23,
+      "studentId": 18,
+      "value": 68
+    },
+    {
+      "gradeId": 1118,
+      "examId": 21,
+      "studentId": 19,
+      "value": 90
+    },
+    {
+      "gradeId": 1119,
+      "examId": 22,
+      "studentId": 19,
+      "value": 62
+    },
+    {
+      "gradeId": 1120,
+      "examId": 23,
+      "studentId": 19,
+      "value": 82
+    },
+    {
+      "gradeId": 1121,
+      "examId": 21,
+      "studentId": 70,
+      "value": 99
+    },
+    {
+      "gradeId": 1122,
+      "examId": 22,
+      "studentId": 70,
+      "value": 85
+    },
+    {
+      "gradeId": 1123,
+      "examId": 23,
+      "studentId": 70,
+      "value": 82
+    },
+    {
+      "gradeId": 1124,
+      "examId": 21,
+      "studentId": 66,
+      "value": 90
+    },
+    {
+      "gradeId": 1125,
+      "examId": 22,
+      "studentId": 66,
+      "value": 76
+    },
+    {
+      "gradeId": 1126,
+      "examId": 23,
+      "studentId": 66,
+      "value": 94
+    },
+    {
+      "gradeId": 1127,
+      "examId": 21,
+      "studentId": 6,
+      "value": 100
+    },
+    {
+      "gradeId": 1128,
+      "examId": 22,
+      "studentId": 6,
+      "value": 60
+    },
+    {
+      "gradeId": 1129,
+      "examId": 23,
+      "studentId": 6,
+      "value": 82
+    },
+    {
+      "gradeId": 1130,
+      "examId": 21,
+      "studentId": 37,
+      "value": 100
+    },
+    {
+      "gradeId": 1131,
+      "examId": 22,
+      "studentId": 37,
+      "value": 74
+    },
+    {
+      "gradeId": 1132,
+      "examId": 23,
+      "studentId": 37,
+      "value": 102
+    },
+    {
+      "gradeId": 1133,
+      "examId": 21,
+      "studentId": 34,
+      "value": 103
+    },
+    {
+      "gradeId": 1134,
+      "examId": 22,
+      "studentId": 34,
+      "value": 98
+    },
+    {
+      "gradeId": 1135,
+      "examId": 23,
+      "studentId": 34,
+      "value": 118
+    },
+    {
+      "gradeId": 1136,
+      "examId": 21,
+      "studentId": 32,
+      "value": 96
+    },
+    {
+      "gradeId": 1137,
+      "examId": 22,
+      "studentId": 32,
+      "value": 51
+    },
+    {
+      "gradeId": 1138,
+      "examId": 23,
+      "studentId": 32,
+      "value": 83
+    },
+    {
+      "gradeId": 1139,
+      "examId": 21,
+      "studentId": 4,
+      "value": 101
+    },
+    {
+      "gradeId": 1140,
+      "examId": 22,
+      "studentId": 4,
+      "value": 90
+    },
+    {
+      "gradeId": 1141,
+      "examId": 23,
+      "studentId": 4,
+      "value": 83
+    },
+    {
+      "gradeId": 1142,
+      "examId": 21,
+      "studentId": 23,
+      "value": 100
+    },
+    {
+      "gradeId": 1143,
+      "examId": 22,
+      "studentId": 23,
+      "value": 78
+    },
+    {
+      "gradeId": 1144,
+      "examId": 23,
+      "studentId": 23,
+      "value": 105
+    },
+    {
+      "gradeId": 1145,
+      "examId": 21,
+      "studentId": 17,
+      "value": 96
+    },
+    {
+      "gradeId": 1146,
+      "examId": 22,
+      "studentId": 17,
+      "value": 69
+    },
+    {
+      "gradeId": 1147,
+      "examId": 23,
+      "studentId": 17,
+      "value": 93
+    },
+    {
+      "gradeId": 1148,
+      "examId": 21,
+      "studentId": 74,
+      "value": 107
+    },
+    {
+      "gradeId": 1149,
+      "examId": 22,
+      "studentId": 74,
+      "value": 54
+    },
+    {
+      "gradeId": 1150,
+      "examId": 23,
+      "studentId": 74,
+      "value": 102
+    },
+    {
+      "gradeId": 1151,
+      "examId": 21,
+      "studentId": 20,
+      "value": 107
+    },
+    {
+      "gradeId": 1152,
+      "examId": 22,
+      "studentId": 20,
+      "value": 64
+    },
+    {
+      "gradeId": 1153,
+      "examId": 23,
+      "studentId": 20,
+      "value": 86
+    },
+    {
+      "gradeId": 1154,
+      "examId": 21,
+      "studentId": 11,
+      "value": 105
+    },
+    {
+      "gradeId": 1155,
+      "examId": 22,
+      "studentId": 11,
+      "value": 68
+    },
+    {
+      "gradeId": 1156,
+      "examId": 23,
+      "studentId": 11,
+      "value": 90
+    },
+    {
+      "gradeId": 1157,
+      "examId": 21,
+      "studentId": 101,
+      "value": 82
+    },
+    {
+      "gradeId": 1158,
+      "examId": 22,
+      "studentId": 101,
+      "value": 35
+    },
+    {
+      "gradeId": 1159,
+      "examId": 23,
+      "studentId": 101,
+      "value": 75
+    },
+    {
+      "gradeId": 1160,
+      "examId": 21,
+      "studentId": 2,
+      "value": 95
+    },
+    {
+      "gradeId": 1161,
+      "examId": 22,
+      "studentId": 2,
+      "value": 81
+    },
+    {
+      "gradeId": 1162,
+      "examId": 23,
+      "studentId": 2,
+      "value": 110
+    },
+    {
+      "gradeId": 1163,
+      "examId": 21,
+      "studentId": 58,
+      "value": 88
+    },
+    {
+      "gradeId": 1164,
+      "examId": 22,
+      "studentId": 58,
+      "value": 57
+    },
+    {
+      "gradeId": 1165,
+      "examId": 23,
+      "studentId": 58,
+      "value": 94
+    },
+    {
+      "gradeId": 1166,
+      "examId": 21,
+      "studentId": 66,
+      "value": 107
+    },
+    {
+      "gradeId": 1167,
+      "examId": 22,
+      "studentId": 66,
+      "value": 73
+    },
+    {
+      "gradeId": 1168,
+      "examId": 23,
+      "studentId": 66,
+      "value": 110
+    },
+    {
+      "gradeId": 1169,
+      "examId": 21,
+      "studentId": 10,
+      "value": 98
+    },
+    {
+      "gradeId": 1170,
+      "examId": 22,
+      "studentId": 10,
+      "value": 71
+    },
+    {
+      "gradeId": 1171,
+      "examId": 23,
+      "studentId": 10,
+      "value": 113
+    },
+    {
+      "gradeId": 1172,
+      "examId": 21,
+      "studentId": 56,
+      "value": 109
+    },
+    {
+      "gradeId": 1173,
+      "examId": 22,
+      "studentId": 56,
+      "value": 61
+    },
+    {
+      "gradeId": 1174,
+      "examId": 23,
+      "studentId": 56,
+      "value": 72
+    },
+    {
+      "gradeId": 1175,
+      "examId": 21,
+      "studentId": 40,
+      "value": 91
+    },
+    {
+      "gradeId": 1176,
+      "examId": 22,
+      "studentId": 40,
+      "value": 110
+    },
+    {
+      "gradeId": 1177,
+      "examId": 23,
+      "studentId": 40,
+      "value": 93
+    },
+    {
+      "gradeId": 1178,
+      "examId": 21,
+      "studentId": 16,
+      "value": 101
+    },
+    {
+      "gradeId": 1179,
+      "examId": 22,
+      "studentId": 16,
+      "value": 110
+    },
+    {
+      "gradeId": 1180,
+      "examId": 23,
+      "studentId": 16,
+      "value": 92
+    },
+    {
+      "gradeId": 1181,
+      "examId": 21,
+      "studentId": 46,
+      "value": 97
+    },
+    {
+      "gradeId": 1182,
+      "examId": 22,
+      "studentId": 46,
+      "value": 56
+    },
+    {
+      "gradeId": 1183,
+      "examId": 23,
+      "studentId": 46,
+      "value": 79
+    },
+    {
+      "gradeId": 1184,
+      "examId": 21,
+      "studentId": 49,
+      "value": 93
+    },
+    {
+      "gradeId": 1185,
+      "examId": 22,
+      "studentId": 49,
+      "value": 37
+    },
+    {
+      "gradeId": 1186,
+      "examId": 23,
+      "studentId": 49,
+      "value": 82
+    },
+    {
+      "gradeId": 1187,
+      "examId": 21,
+      "studentId": 6,
+      "value": 98
+    },
+    {
+      "gradeId": 1188,
+      "examId": 22,
+      "studentId": 6,
+      "value": 97.5
+    },
+    {
+      "gradeId": 1189,
+      "examId": 23,
+      "studentId": 6,
+      "value": 104.43
+    },
+    {
+      "gradeId": 1190,
+      "examId": 21,
+      "studentId": 5,
+      "value": 90
+    },
+    {
+      "gradeId": 1191,
+      "examId": 22,
+      "studentId": 5,
+      "value": 74.5
+    },
+    {
+      "gradeId": 1192,
+      "examId": 23,
+      "studentId": 5,
+      "value": 92.17
+    },
+    {
+      "gradeId": 1193,
+      "examId": 21,
+      "studentId": 41,
+      "value": 92
+    },
+    {
+      "gradeId": 1194,
+      "examId": 22,
+      "studentId": 41,
+      "value": 53.5
+    },
+    {
+      "gradeId": 1195,
+      "examId": 23,
+      "studentId": 41,
+      "value": 92.5
+    },
+    {
+      "gradeId": 1196,
+      "examId": 21,
+      "studentId": 7,
+      "value": 96
+    },
+    {
+      "gradeId": 1197,
+      "examId": 22,
+      "studentId": 7,
+      "value": 64
+    },
+    {
+      "gradeId": 1198,
+      "examId": 23,
+      "studentId": 7,
+      "value": 105.78
+    },
+    {
+      "gradeId": 1199,
+      "examId": 21,
+      "studentId": 17,
+      "value": 102
+    },
+    {
+      "gradeId": 1200,
+      "examId": 22,
+      "studentId": 17,
+      "value": 45
+    },
+    {
+      "gradeId": 1201,
+      "examId": 23,
+      "studentId": 17,
+      "value": 78.51
+    },
+    {
+      "gradeId": 1202,
+      "examId": 21,
+      "studentId": 30,
+      "value": 110
+    },
+    {
+      "gradeId": 1203,
+      "examId": 22,
+      "studentId": 30,
+      "value": 65
+    },
+    {
+      "gradeId": 1204,
+      "examId": 23,
+      "studentId": 30,
+      "value": 101.55
+    },
+    {
+      "gradeId": 1205,
+      "examId": 21,
+      "studentId": 31,
+      "value": 97
+    },
+    {
+      "gradeId": 1206,
+      "examId": 22,
+      "studentId": 31,
+      "value": 73
+    },
+    {
+      "gradeId": 1207,
+      "examId": 23,
+      "studentId": 31,
+      "value": 105.68
+    },
+    {
+      "gradeId": 1208,
+      "examId": 21,
+      "studentId": 15,
+      "value": 102
+    },
+    {
+      "gradeId": 1209,
+      "examId": 22,
+      "studentId": 15,
+      "value": 74
+    },
+    {
+      "gradeId": 1210,
+      "examId": 23,
+      "studentId": 15,
+      "value": 84.74
+    },
+    {
+      "gradeId": 1211,
+      "examId": 21,
+      "studentId": 12,
+      "value": 109
+    },
+    {
+      "gradeId": 1212,
+      "examId": 22,
+      "studentId": 12,
+      "value": 56
+    },
+    {
+      "gradeId": 1213,
+      "examId": 23,
+      "studentId": 12,
+      "value": 107.03
+    },
+    {
+      "gradeId": 1214,
+      "examId": 21,
+      "studentId": 14,
+      "value": 99
+    },
+    {
+      "gradeId": 1215,
+      "examId": 22,
+      "studentId": 14,
+      "value": 67
+    },
+    {
+      "gradeId": 1216,
+      "examId": 23,
+      "studentId": 14,
+      "value": 79.2
+    },
+    {
+      "gradeId": 1217,
+      "examId": 21,
+      "studentId": 20,
+      "value": 89
+    },
+    {
+      "gradeId": 1218,
+      "examId": 22,
+      "studentId": 20,
+      "value": 73
+    },
+    {
+      "gradeId": 1219,
+      "examId": 23,
+      "studentId": 20,
+      "value": 88.49
+    },
+    {
+      "gradeId": 1220,
+      "examId": 21,
+      "studentId": 18,
+      "value": 97
+    },
+    {
+      "gradeId": 1221,
+      "examId": 22,
+      "studentId": 18,
+      "value": 62
+    },
+    {
+      "gradeId": 1222,
+      "examId": 23,
+      "studentId": 18,
+      "value": 84.89
+    },
+    {
+      "gradeId": 1223,
+      "examId": 21,
+      "studentId": 13,
+      "value": 96
+    },
+    {
+      "gradeId": 1224,
+      "examId": 22,
+      "studentId": 13,
+      "value": 93
+    },
+    {
+      "gradeId": 1225,
+      "examId": 23,
+      "studentId": 13,
+      "value": 110.13
+    },
+    {
+      "gradeId": 1226,
+      "examId": 21,
+      "studentId": 24,
+      "value": 98
+    },
+    {
+      "gradeId": 1227,
+      "examId": 22,
+      "studentId": 24,
+      "value": 54
+    },
+    {
+      "gradeId": 1228,
+      "examId": 23,
+      "studentId": 24,
+      "value": 87.15
+    },
+    {
+      "gradeId": 1229,
+      "examId": 21,
+      "studentId": 72,
+      "value": 95
+    },
+    {
+      "gradeId": 1230,
+      "examId": 22,
+      "studentId": 72,
+      "value": 89
+    },
+    {
+      "gradeId": 1231,
+      "examId": 23,
+      "studentId": 72,
+      "value": 92.46
+    },
+    {
+      "gradeId": 1232,
+      "examId": 21,
+      "studentId": 76,
+      "value": 90
+    },
+    {
+      "gradeId": 1233,
+      "examId": 22,
+      "studentId": 76,
+      "value": 67
+    },
+    {
+      "gradeId": 1234,
+      "examId": 23,
+      "studentId": 76,
+      "value": 84.17
+    },
+    {
+      "gradeId": 1235,
+      "examId": 21,
+      "studentId": 57,
+      "value": 102
+    },
+    {
+      "gradeId": 1236,
+      "examId": 22,
+      "studentId": 57,
+      "value": 44
+    },
+    {
+      "gradeId": 1237,
+      "examId": 23,
+      "studentId": 57,
+      "value": 79.09
+    },
+    {
+      "gradeId": 1238,
+      "examId": 21,
+      "studentId": 19,
+      "value": 96
+    },
+    {
+      "gradeId": 1239,
+      "examId": 22,
+      "studentId": 19,
+      "value": 43
+    },
+    {
+      "gradeId": 1240,
+      "examId": 23,
+      "studentId": 19,
+      "value": 83.77
+    },
+    {
+      "gradeId": 1241,
+      "examId": 21,
+      "studentId": 26,
+      "value": 110
+    },
+    {
+      "gradeId": 1242,
+      "examId": 22,
+      "studentId": 26,
+      "value": 101
+    },
+    {
+      "gradeId": 1243,
+      "examId": 23,
+      "studentId": 26,
+      "value": 109.45
+    },
+    {
+      "gradeId": 1244,
+      "examId": 21,
+      "studentId": 49,
+      "value": 105
+    },
+    {
+      "gradeId": 1245,
+      "examId": 22,
+      "studentId": 49,
+      "value": 85
+    },
+    {
+      "gradeId": 1246,
+      "examId": 23,
+      "studentId": 49,
+      "value": 87.68
+    },
+    {
+      "gradeId": 1247,
+      "examId": 21,
+      "studentId": 17,
+      "value": 98
+    },
+    {
+      "gradeId": 1248,
+      "examId": 22,
+      "studentId": 17,
+      "value": 97
+    },
+    {
+      "gradeId": 1249,
+      "examId": 21,
+      "studentId": 3,
+      "value": 92
+    },
+    {
+      "gradeId": 1250,
+      "examId": 22,
+      "studentId": 3,
+      "value": 71
+    },
+    {
+      "gradeId": 1251,
+      "examId": 23,
+      "studentId": 3,
+      "value": 87.34
+    },
+    {
+      "gradeId": 1252,
+      "examId": 21,
+      "studentId": 32,
+      "value": 76
+    },
+    {
+      "gradeId": 1253,
+      "examId": 22,
+      "studentId": 32,
+      "value": 43
+    },
+    {
+      "gradeId": 1254,
+      "examId": 23,
+      "studentId": 32,
+      "value": 86.93
+    },
+    {
+      "gradeId": 1255,
+      "examId": 21,
+      "studentId": 1,
+      "value": 99
+    },
+    {
+      "gradeId": 1256,
+      "examId": 22,
+      "studentId": 1,
+      "value": 69
+    },
+    {
+      "gradeId": 1257,
+      "examId": 23,
+      "studentId": 1,
+      "value": 75.71
+    },
+    {
+      "gradeId": 1258,
+      "examId": 24,
+      "studentId": 92,
+      "value": 104
+    },
+    {
+      "gradeId": 1259,
+      "examId": 25,
+      "studentId": 92,
+      "value": 109
+    },
+    {
+      "gradeId": 1260,
+      "examId": 26,
+      "studentId": 92,
+      "value": 116
+    },
+    {
+      "gradeId": 1261,
+      "examId": 24,
+      "studentId": 60,
+      "value": 98
+    },
+    {
+      "gradeId": 1262,
+      "examId": 25,
+      "studentId": 60,
+      "value": 119
+    },
+    {
+      "gradeId": 1263,
+      "examId": 26,
+      "studentId": 60,
+      "value": 108
+    },
+    {
+      "gradeId": 1264,
+      "examId": 24,
+      "studentId": 46,
+      "value": 93
+    },
+    {
+      "gradeId": 1265,
+      "examId": 25,
+      "studentId": 46,
+      "value": 116
+    },
+    {
+      "gradeId": 1266,
+      "examId": 26,
+      "studentId": 46,
+      "value": 99
+    },
+    {
+      "gradeId": 1267,
+      "examId": 24,
+      "studentId": 5,
+      "value": 109
+    },
+    {
+      "gradeId": 1268,
+      "examId": 25,
+      "studentId": 5,
+      "value": 99
+    },
+    {
+      "gradeId": 1269,
+      "examId": 26,
+      "studentId": 5,
+      "value": 96
+    },
+    {
+      "gradeId": 1270,
+      "examId": 24,
+      "studentId": 1,
+      "value": 107
+    },
+    {
+      "gradeId": 1271,
+      "examId": 25,
+      "studentId": 1,
+      "value": 122
+    },
+    {
+      "gradeId": 1272,
+      "examId": 26,
+      "studentId": 1,
+      "value": 100
+    },
+    {
+      "gradeId": 1273,
+      "examId": 24,
+      "studentId": 20,
+      "value": 108
+    },
+    {
+      "gradeId": 1274,
+      "examId": 25,
+      "studentId": 20,
+      "value": 119
+    },
+    {
+      "gradeId": 1275,
+      "examId": 26,
+      "studentId": 20,
+      "value": 93
+    },
+    {
+      "gradeId": 1276,
+      "examId": 24,
+      "studentId": 26,
+      "value": 111
+    },
+    {
+      "gradeId": 1277,
+      "examId": 25,
+      "studentId": 26,
+      "value": 88
+    },
+    {
+      "gradeId": 1278,
+      "examId": 26,
+      "studentId": 26,
+      "value": 106
+    },
+    {
+      "gradeId": 1279,
+      "examId": 24,
+      "studentId": 61,
+      "value": 108
+    },
+    {
+      "gradeId": 1280,
+      "examId": 25,
+      "studentId": 61,
+      "value": 101
+    },
+    {
+      "gradeId": 1281,
+      "examId": 26,
+      "studentId": 61,
+      "value": 104
+    },
+    {
+      "gradeId": 1282,
+      "examId": 24,
+      "studentId": 41,
+      "value": 98
+    },
+    {
+      "gradeId": 1283,
+      "examId": 25,
+      "studentId": 41,
+      "value": 94
+    },
+    {
+      "gradeId": 1284,
+      "examId": 26,
+      "studentId": 41,
+      "value": 126
+    },
+    {
+      "gradeId": 1285,
+      "examId": 24,
+      "studentId": 8,
+      "value": 103
+    },
+    {
+      "gradeId": 1286,
+      "examId": 25,
+      "studentId": 8,
+      "value": 102
+    },
+    {
+      "gradeId": 1287,
+      "examId": 26,
+      "studentId": 8,
+      "value": 107
+    },
+    {
+      "gradeId": 1288,
+      "examId": 24,
+      "studentId": 209,
+      "value": 83
+    },
+    {
+      "gradeId": 1289,
+      "examId": 25,
+      "studentId": 209,
+      "value": 132
+    },
+    {
+      "gradeId": 1290,
+      "examId": 26,
+      "studentId": 209,
+      "value": 83
+    },
+    {
+      "gradeId": 1291,
+      "examId": 24,
+      "studentId": 70,
+      "value": 101
+    },
+    {
+      "gradeId": 1292,
+      "examId": 25,
+      "studentId": 70,
+      "value": 100
+    },
+    {
+      "gradeId": 1293,
+      "examId": 26,
+      "studentId": 70,
+      "value": 111
+    },
+    {
+      "gradeId": 1294,
+      "examId": 24,
+      "studentId": 23,
+      "value": 113
+    },
+    {
+      "gradeId": 1295,
+      "examId": 25,
+      "studentId": 23,
+      "value": 97
+    },
+    {
+      "gradeId": 1296,
+      "examId": 26,
+      "studentId": 23,
+      "value": 96
+    },
+    {
+      "gradeId": 1297,
+      "examId": 24,
+      "studentId": 1,
+      "value": 110
+    },
+    {
+      "gradeId": 1298,
+      "examId": 25,
+      "studentId": 1,
+      "value": 97
+    },
+    {
+      "gradeId": 1299,
+      "examId": 26,
+      "studentId": 1,
+      "value": 92
+    },
+    {
+      "gradeId": 1300,
+      "examId": 24,
+      "studentId": 210,
+      "value": 99
+    },
+    {
+      "gradeId": 1301,
+      "examId": 25,
+      "studentId": 210,
+      "value": 110
+    },
+    {
+      "gradeId": 1302,
+      "examId": 26,
+      "studentId": 210,
+      "value": 68
+    },
+    {
+      "gradeId": 1303,
+      "examId": 24,
+      "studentId": 13,
+      "value": 94
+    },
+    {
+      "gradeId": 1304,
+      "examId": 25,
+      "studentId": 13,
+      "value": 100
+    },
+    {
+      "gradeId": 1305,
+      "examId": 26,
+      "studentId": 13,
+      "value": 87
+    },
+    {
+      "gradeId": 1306,
+      "examId": 24,
+      "studentId": 15,
+      "value": 102
+    },
+    {
+      "gradeId": 1307,
+      "examId": 25,
+      "studentId": 15,
+      "value": 97
+    },
+    {
+      "gradeId": 1308,
+      "examId": 26,
+      "studentId": 15,
+      "value": 93
+    },
+    {
+      "gradeId": 1309,
+      "examId": 24,
+      "studentId": 61,
+      "value": 99
+    },
+    {
+      "gradeId": 1310,
+      "examId": 25,
+      "studentId": 61,
+      "value": 105
+    },
+    {
+      "gradeId": 1311,
+      "examId": 26,
+      "studentId": 61,
+      "value": 88
+    },
+    {
+      "gradeId": 1312,
+      "examId": 24,
+      "studentId": 28,
+      "value": 101
+    },
+    {
+      "gradeId": 1313,
+      "examId": 25,
+      "studentId": 28,
+      "value": 104
+    },
+    {
+      "gradeId": 1314,
+      "examId": 26,
+      "studentId": 28,
+      "value": 92
+    },
+    {
+      "gradeId": 1315,
+      "examId": 24,
+      "studentId": 66,
+      "value": 93
+    },
+    {
+      "gradeId": 1316,
+      "examId": 25,
+      "studentId": 66,
+      "value": 102
+    },
+    {
+      "gradeId": 1317,
+      "examId": 26,
+      "studentId": 66,
+      "value": 85
+    },
+    {
+      "gradeId": 1318,
+      "examId": 24,
+      "studentId": 211,
+      "value": 98
+    },
+    {
+      "gradeId": 1319,
+      "examId": 25,
+      "studentId": 211,
+      "value": 80
+    },
+    {
+      "gradeId": 1320,
+      "examId": 26,
+      "studentId": 211,
+      "value": 79
+    },
+    {
+      "gradeId": 1321,
+      "examId": 24,
+      "studentId": 212,
+      "value": 73
+    },
+    {
+      "gradeId": 1322,
+      "examId": 25,
+      "studentId": 212,
+      "value": 77
+    },
+    {
+      "gradeId": 1323,
+      "examId": 26,
+      "studentId": 212,
+      "value": 85
+    },
+    {
+      "gradeId": 1324,
+      "examId": 24,
+      "studentId": 27,
+      "value": 109
+    },
+    {
+      "gradeId": 1325,
+      "examId": 25,
+      "studentId": 27,
+      "value": 115
+    },
+    {
+      "gradeId": 1326,
+      "examId": 26,
+      "studentId": 27,
+      "value": 105
+    },
+    {
+      "gradeId": 1327,
+      "examId": 24,
+      "studentId": 213,
+      "value": 101
+    },
+    {
+      "gradeId": 1328,
+      "examId": 25,
+      "studentId": 213,
+      "value": 90
+    },
+    {
+      "gradeId": 1329,
+      "examId": 26,
+      "studentId": 213,
+      "value": 121
+    },
+    {
+      "gradeId": 1330,
+      "examId": 24,
+      "studentId": 36,
+      "value": 103
+    },
+    {
+      "gradeId": 1331,
+      "examId": 25,
+      "studentId": 36,
+      "value": 101
+    },
+    {
+      "gradeId": 1332,
+      "examId": 26,
+      "studentId": 36,
+      "value": 112
+    },
+    {
+      "gradeId": 1333,
+      "examId": 24,
+      "studentId": 2,
+      "value": 101
+    },
+    {
+      "gradeId": 1334,
+      "examId": 25,
+      "studentId": 2,
+      "value": 94
+    },
+    {
+      "gradeId": 1335,
+      "examId": 26,
+      "studentId": 2,
+      "value": 103
+    },
+    {
+      "gradeId": 1336,
+      "examId": 24,
+      "studentId": 8,
+      "value": 106
+    },
+    {
+      "gradeId": 1337,
+      "examId": 25,
+      "studentId": 8,
+      "value": 100
+    },
+    {
+      "gradeId": 1338,
+      "examId": 26,
+      "studentId": 8,
+      "value": 95
+    },
+    {
+      "gradeId": 1339,
+      "examId": 24,
+      "studentId": 6,
+      "value": 95
+    },
+    {
+      "gradeId": 1340,
+      "examId": 25,
+      "studentId": 6,
+      "value": 118
+    },
+    {
+      "gradeId": 1341,
+      "examId": 26,
+      "studentId": 6,
+      "value": 104
+    },
+    {
+      "gradeId": 1342,
+      "examId": 24,
+      "studentId": 28,
+      "value": 105
+    },
+    {
+      "gradeId": 1343,
+      "examId": 25,
+      "studentId": 28,
+      "value": 99
+    },
+    {
+      "gradeId": 1344,
+      "examId": 26,
+      "studentId": 28,
+      "value": 114
+    },
+    {
+      "gradeId": 1345,
+      "examId": 24,
+      "studentId": 6,
+      "value": 96
+    },
+    {
+      "gradeId": 1346,
+      "examId": 25,
+      "studentId": 6,
+      "value": 111
+    },
+    {
+      "gradeId": 1347,
+      "examId": 26,
+      "studentId": 6,
+      "value": 98
+    },
+    {
+      "gradeId": 1348,
+      "examId": 24,
+      "studentId": 52,
+      "value": 95
+    },
+    {
+      "gradeId": 1349,
+      "examId": 25,
+      "studentId": 52,
+      "value": 94
+    },
+    {
+      "gradeId": 1350,
+      "examId": 26,
+      "studentId": 52,
+      "value": 103
+    },
+    {
+      "gradeId": 1351,
+      "examId": 24,
+      "studentId": 37,
+      "value": 105
+    },
+    {
+      "gradeId": 1352,
+      "examId": 25,
+      "studentId": 37,
+      "value": 98
+    },
+    {
+      "gradeId": 1353,
+      "examId": 26,
+      "studentId": 37,
+      "value": 83
+    },
+    {
+      "gradeId": 1354,
+      "examId": 24,
+      "studentId": 46,
+      "value": 111
+    },
+    {
+      "gradeId": 1355,
+      "examId": 25,
+      "studentId": 46,
+      "value": 80
+    },
+    {
+      "gradeId": 1356,
+      "examId": 26,
+      "studentId": 46,
+      "value": 102
+    },
+    {
+      "gradeId": 1357,
+      "examId": 24,
+      "studentId": 5,
+      "value": 109
+    },
+    {
+      "gradeId": 1358,
+      "examId": 25,
+      "studentId": 5,
+      "value": 96
+    },
+    {
+      "gradeId": 1359,
+      "examId": 26,
+      "studentId": 5,
+      "value": 87
+    },
+    {
+      "gradeId": 1360,
+      "examId": 24,
+      "studentId": 7,
+      "value": 108
+    },
+    {
+      "gradeId": 1361,
+      "examId": 25,
+      "studentId": 7,
+      "value": 107
+    },
+    {
+      "gradeId": 1362,
+      "examId": 26,
+      "studentId": 7,
+      "value": 76
+    },
+    {
+      "gradeId": 1363,
+      "examId": 24,
+      "studentId": 19,
+      "value": 101
+    },
+    {
+      "gradeId": 1364,
+      "examId": 25,
+      "studentId": 19,
+      "value": 92
+    },
+    {
+      "gradeId": 1365,
+      "examId": 26,
+      "studentId": 19,
+      "value": 91
+    },
+    {
+      "gradeId": 1366,
+      "examId": 24,
+      "studentId": 14,
+      "value": 95
+    },
+    {
+      "gradeId": 1367,
+      "examId": 25,
+      "studentId": 14,
+      "value": 96
+    },
+    {
+      "gradeId": 1368,
+      "examId": 26,
+      "studentId": 14,
+      "value": 86
+    },
+    {
+      "gradeId": 1369,
+      "examId": 24,
+      "studentId": 19,
+      "value": 105
+    },
+    {
+      "gradeId": 1370,
+      "examId": 25,
+      "studentId": 19,
+      "value": 86
+    },
+    {
+      "gradeId": 1371,
+      "examId": 26,
+      "studentId": 19,
+      "value": 91
+    },
+    {
+      "gradeId": 1372,
+      "examId": 24,
+      "studentId": 214,
+      "value": 99
+    },
+    {
+      "gradeId": 1373,
+      "examId": 25,
+      "studentId": 214,
+      "value": 70
+    },
+    {
+      "gradeId": 1374,
+      "examId": 26,
+      "studentId": 214,
+      "value": 92
+    },
+    {
+      "gradeId": 1375,
+      "examId": 24,
+      "studentId": 215,
+      "value": 100
+    },
+    {
+      "gradeId": 1376,
+      "examId": 25,
+      "studentId": 215,
+      "value": 72
+    },
+    {
+      "gradeId": 1377,
+      "examId": 26,
+      "studentId": 215,
+      "value": 81
+    },
+    {
+      "gradeId": 1378,
+      "examId": 24,
+      "studentId": 18,
+      "value": 90
+    },
+    {
+      "gradeId": 1379,
+      "examId": 25,
+      "studentId": 18,
+      "value": 92
+    },
+    {
+      "gradeId": 1380,
+      "examId": 26,
+      "studentId": 18,
+      "value": 89
+    },
+    {
+      "gradeId": 1381,
+      "examId": 24,
+      "studentId": 26,
+      "value": 101
+    },
+    {
+      "gradeId": 1382,
+      "examId": 25,
+      "studentId": 26,
+      "value": 99
+    },
+    {
+      "gradeId": 1383,
+      "examId": 26,
+      "studentId": 26,
+      "value": 68
+    },
+    {
+      "gradeId": 1384,
+      "examId": 24,
+      "studentId": 56,
+      "value": 89
+    },
+    {
+      "gradeId": 1385,
+      "examId": 25,
+      "studentId": 56,
+      "value": 91
+    },
+    {
+      "gradeId": 1386,
+      "examId": 26,
+      "studentId": 56,
+      "value": 91
+    },
+    {
+      "gradeId": 1387,
+      "examId": 24,
+      "studentId": 11,
+      "value": 88
+    },
+    {
+      "gradeId": 1388,
+      "examId": 25,
+      "studentId": 11,
+      "value": 107
+    },
+    {
+      "gradeId": 1389,
+      "examId": 26,
+      "studentId": 11,
+      "value": 77
+    },
+    {
+      "gradeId": 1390,
+      "examId": 24,
+      "studentId": 57,
+      "value": 97
+    },
+    {
+      "gradeId": 1391,
+      "examId": 25,
+      "studentId": 57,
+      "value": 95
+    },
+    {
+      "gradeId": 1392,
+      "examId": 26,
+      "studentId": 57,
+      "value": 71
+    },
+    {
+      "gradeId": 1393,
+      "examId": 24,
+      "studentId": 58,
+      "value": 93
+    },
+    {
+      "gradeId": 1394,
+      "examId": 25,
+      "studentId": 58,
+      "value": 95
+    },
+    {
+      "gradeId": 1395,
+      "examId": 26,
+      "studentId": 58,
+      "value": 70
+    },
+    {
+      "gradeId": 1396,
+      "examId": 24,
+      "studentId": 40,
+      "value": 95
+    },
+    {
+      "gradeId": 1397,
+      "examId": 25,
+      "studentId": 40,
+      "value": 113
+    },
+    {
+      "gradeId": 1398,
+      "examId": 26,
+      "studentId": 40,
+      "value": 100
+    },
+    {
+      "gradeId": 1399,
+      "examId": 24,
+      "studentId": 66,
+      "value": 109
+    },
+    {
+      "gradeId": 1400,
+      "examId": 25,
+      "studentId": 66,
+      "value": 103
+    },
+    {
+      "gradeId": 1401,
+      "examId": 26,
+      "studentId": 66,
+      "value": 101
+    },
+    {
+      "gradeId": 1402,
+      "examId": 24,
+      "studentId": 2,
+      "value": 99
+    },
+    {
+      "gradeId": 1403,
+      "examId": 25,
+      "studentId": 2,
+      "value": 106
+    },
+    {
+      "gradeId": 1404,
+      "examId": 26,
+      "studentId": 2,
+      "value": 117
+    },
+    {
+      "gradeId": 1405,
+      "examId": 24,
+      "studentId": 10,
+      "value": 102
+    },
+    {
+      "gradeId": 1406,
+      "examId": 25,
+      "studentId": 10,
+      "value": 98
+    },
+    {
+      "gradeId": 1407,
+      "examId": 26,
+      "studentId": 10,
+      "value": 116
+    },
+    {
+      "gradeId": 1408,
+      "examId": 24,
+      "studentId": 74,
+      "value": 103
+    },
+    {
+      "gradeId": 1409,
+      "examId": 25,
+      "studentId": 74,
+      "value": 111
+    },
+    {
+      "gradeId": 1410,
+      "examId": 26,
+      "studentId": 74,
+      "value": 113
+    },
+    {
+      "gradeId": 1411,
+      "examId": 24,
+      "studentId": 16,
+      "value": 92
+    },
+    {
+      "gradeId": 1412,
+      "examId": 25,
+      "studentId": 16,
+      "value": 114
+    },
+    {
+      "gradeId": 1413,
+      "examId": 26,
+      "studentId": 16,
+      "value": 90
+    },
+    {
+      "gradeId": 1414,
+      "examId": 24,
+      "studentId": 34,
+      "value": 97
+    },
+    {
+      "gradeId": 1415,
+      "examId": 25,
+      "studentId": 34,
+      "value": 100
+    },
+    {
+      "gradeId": 1416,
+      "examId": 26,
+      "studentId": 34,
+      "value": 109
+    },
+    {
+      "gradeId": 1417,
+      "examId": 24,
+      "studentId": 37,
+      "value": 102
+    },
+    {
+      "gradeId": 1418,
+      "examId": 25,
+      "studentId": 37,
+      "value": 99
+    },
+    {
+      "gradeId": 1419,
+      "examId": 26,
+      "studentId": 37,
+      "value": 99
+    },
+    {
+      "gradeId": 1420,
+      "examId": 24,
+      "studentId": 23,
+      "value": 94
+    },
+    {
+      "gradeId": 1421,
+      "examId": 25,
+      "studentId": 23,
+      "value": 99
+    },
+    {
+      "gradeId": 1422,
+      "examId": 26,
+      "studentId": 23,
+      "value": 104
+    },
+    {
+      "gradeId": 1423,
+      "examId": 24,
+      "studentId": 11,
+      "value": 104
+    },
+    {
+      "gradeId": 1424,
+      "examId": 25,
+      "studentId": 11,
+      "value": 100
+    },
+    {
+      "gradeId": 1425,
+      "examId": 26,
+      "studentId": 11,
+      "value": 101
+    },
+    {
+      "gradeId": 1426,
+      "examId": 24,
+      "studentId": 58,
+      "value": 95
+    },
+    {
+      "gradeId": 1427,
+      "examId": 25,
+      "studentId": 58,
+      "value": 114
+    },
+    {
+      "gradeId": 1428,
+      "examId": 26,
+      "studentId": 58,
+      "value": 89
+    },
+    {
+      "gradeId": 1429,
+      "examId": 24,
+      "studentId": 216,
+      "value": 99
+    },
+    {
+      "gradeId": 1430,
+      "examId": 25,
+      "studentId": 216,
+      "value": 111
+    },
+    {
+      "gradeId": 1431,
+      "examId": 26,
+      "studentId": 216,
+      "value": 83
+    },
+    {
+      "gradeId": 1432,
+      "examId": 24,
+      "studentId": 4,
+      "value": 99
+    },
+    {
+      "gradeId": 1433,
+      "examId": 25,
+      "studentId": 4,
+      "value": 108
+    },
+    {
+      "gradeId": 1434,
+      "examId": 26,
+      "studentId": 4,
+      "value": 87
+    },
+    {
+      "gradeId": 1435,
+      "examId": 24,
+      "studentId": 20,
+      "value": 97
+    },
+    {
+      "gradeId": 1436,
+      "examId": 25,
+      "studentId": 20,
+      "value": 85
+    },
+    {
+      "gradeId": 1437,
+      "examId": 26,
+      "studentId": 20,
+      "value": 101
+    },
+    {
+      "gradeId": 1438,
+      "examId": 24,
+      "studentId": 17,
+      "value": 112
+    },
+    {
+      "gradeId": 1439,
+      "examId": 25,
+      "studentId": 17,
+      "value": 94
+    },
+    {
+      "gradeId": 1440,
+      "examId": 26,
+      "studentId": 17,
+      "value": 85
+    },
+    {
+      "gradeId": 1441,
+      "examId": 24,
+      "studentId": 66,
+      "value": 91
+    },
+    {
+      "gradeId": 1442,
+      "examId": 25,
+      "studentId": 66,
+      "value": 85
+    },
+    {
+      "gradeId": 1443,
+      "examId": 26,
+      "studentId": 66,
+      "value": 93
+    },
+    {
+      "gradeId": 1444,
+      "examId": 24,
+      "studentId": 46,
+      "value": 102
+    },
+    {
+      "gradeId": 1445,
+      "examId": 25,
+      "studentId": 46,
+      "value": 91
+    },
+    {
+      "gradeId": 1446,
+      "examId": 26,
+      "studentId": 46,
+      "value": 81
+    },
+    {
+      "gradeId": 1447,
+      "examId": 24,
+      "studentId": 70,
+      "value": 86
+    },
+    {
+      "gradeId": 1448,
+      "examId": 25,
+      "studentId": 70,
+      "value": 102
+    },
+    {
+      "gradeId": 1449,
+      "examId": 26,
+      "studentId": 70,
+      "value": 88
+    },
+    {
+      "gradeId": 1450,
+      "examId": 24,
+      "studentId": 32,
+      "value": 94
+    },
+    {
+      "gradeId": 1451,
+      "examId": 25,
+      "studentId": 32,
+      "value": 96
+    },
+    {
+      "gradeId": 1452,
+      "examId": 26,
+      "studentId": 32,
+      "value": 83
+    },
+    {
+      "gradeId": 1453,
+      "examId": 24,
+      "studentId": 56,
+      "value": 92
+    },
+    {
+      "gradeId": 1454,
+      "examId": 25,
+      "studentId": 56,
+      "value": 94
+    },
+    {
+      "gradeId": 1455,
+      "examId": 26,
+      "studentId": 56,
+      "value": 73
+    },
+    {
+      "gradeId": 1456,
+      "examId": 24,
+      "studentId": 6,
+      "value": 97
+    },
+    {
+      "gradeId": 1457,
+      "examId": 25,
+      "studentId": 6,
+      "value": 88
+    },
+    {
+      "gradeId": 1458,
+      "examId": 26,
+      "studentId": 6,
+      "value": 78
+    },
+    {
+      "gradeId": 1459,
+      "examId": 24,
+      "studentId": 49,
+      "value": 85
+    },
+    {
+      "gradeId": 1460,
+      "examId": 25,
+      "studentId": 49,
+      "value": 85
+    },
+    {
+      "gradeId": 1461,
+      "examId": 26,
+      "studentId": 49,
+      "value": 81
+    },
+    {
+      "gradeId": 1462,
+      "examId": 24,
+      "studentId": 101,
+      "value": 87
+    },
+    {
+      "gradeId": 1463,
+      "examId": 25,
+      "studentId": 101,
+      "value": 98
+    },
+    {
+      "gradeId": 1464,
+      "examId": 26,
+      "studentId": 101,
+      "value": 69
+    },
+    {
+      "gradeId": 1465,
+      "examId": 24,
+      "studentId": 6,
+      "value": 99
+    },
+    {
+      "gradeId": 1466,
+      "examId": 25,
+      "studentId": 6,
+      "value": 121
+    },
+    {
+      "gradeId": 1467,
+      "examId": 26,
+      "studentId": 6,
+      "value": 100
+    },
+    {
+      "gradeId": 1468,
+      "examId": 24,
+      "studentId": 217,
+      "value": 109
+    },
+    {
+      "gradeId": 1469,
+      "examId": 25,
+      "studentId": 217,
+      "value": 105
+    },
+    {
+      "gradeId": 1470,
+      "examId": 26,
+      "studentId": 217,
+      "value": 113
+    },
+    {
+      "gradeId": 1471,
+      "examId": 24,
+      "studentId": 26,
+      "value": 105
+    },
+    {
+      "gradeId": 1472,
+      "examId": 25,
+      "studentId": 26,
+      "value": 105
+    },
+    {
+      "gradeId": 1473,
+      "examId": 26,
+      "studentId": 26,
+      "value": 102
+    },
+    {
+      "gradeId": 1474,
+      "examId": 24,
+      "studentId": 17,
+      "value": 94
+    },
+    {
+      "gradeId": 1475,
+      "examId": 25,
+      "studentId": 17,
+      "value": 129
+    },
+    {
+      "gradeId": 1476,
+      "examId": 26,
+      "studentId": 17,
+      "value": 97
+    },
+    {
+      "gradeId": 1477,
+      "examId": 24,
+      "studentId": 49,
+      "value": 111
+    },
+    {
+      "gradeId": 1478,
+      "examId": 25,
+      "studentId": 49,
+      "value": 108
+    },
+    {
+      "gradeId": 1479,
+      "examId": 26,
+      "studentId": 49,
+      "value": 96
+    },
+    {
+      "gradeId": 1480,
+      "examId": 24,
+      "studentId": 5,
+      "value": 108
+    },
+    {
+      "gradeId": 1481,
+      "examId": 25,
+      "studentId": 5,
+      "value": 114
+    },
+    {
+      "gradeId": 1482,
+      "examId": 26,
+      "studentId": 5,
+      "value": 97
+    },
+    {
+      "gradeId": 1483,
+      "examId": 24,
+      "studentId": 13,
+      "value": 110
+    },
+    {
+      "gradeId": 1484,
+      "examId": 25,
+      "studentId": 13,
+      "value": 109
+    },
+    {
+      "gradeId": 1485,
+      "examId": 26,
+      "studentId": 13,
+      "value": 108
+    },
+    {
+      "gradeId": 1486,
+      "examId": 24,
+      "studentId": 12,
+      "value": 106
+    },
+    {
+      "gradeId": 1487,
+      "examId": 25,
+      "studentId": 12,
+      "value": 98
+    },
+    {
+      "gradeId": 1488,
+      "examId": 26,
+      "studentId": 12,
+      "value": 121
+    },
+    {
+      "gradeId": 1489,
+      "examId": 24,
+      "studentId": 20,
+      "value": 94
+    },
+    {
+      "gradeId": 1490,
+      "examId": 25,
+      "studentId": 20,
+      "value": 111
+    },
+    {
+      "gradeId": 1491,
+      "examId": 26,
+      "studentId": 20,
+      "value": 94
+    },
+    {
+      "gradeId": 1492,
+      "examId": 24,
+      "studentId": 41,
+      "value": 94
+    },
+    {
+      "gradeId": 1493,
+      "examId": 25,
+      "studentId": 41,
+      "value": 105
+    },
+    {
+      "gradeId": 1494,
+      "examId": 26,
+      "studentId": 41,
+      "value": 107
+    },
+    {
+      "gradeId": 1495,
+      "examId": 24,
+      "studentId": 7,
+      "value": 105
+    },
+    {
+      "gradeId": 1496,
+      "examId": 25,
+      "studentId": 7,
+      "value": 98
+    },
+    {
+      "gradeId": 1497,
+      "examId": 26,
+      "studentId": 7,
+      "value": 98
+    },
+    {
+      "gradeId": 1498,
+      "examId": 24,
+      "studentId": 30,
+      "value": 108
+    },
+    {
+      "gradeId": 1499,
+      "examId": 25,
+      "studentId": 30,
+      "value": 103
+    },
+    {
+      "gradeId": 1500,
+      "examId": 26,
+      "studentId": 30,
+      "value": 92
+    },
+    {
+      "gradeId": 1501,
+      "examId": 24,
+      "studentId": 15,
+      "value": 111
+    },
+    {
+      "gradeId": 1502,
+      "examId": 25,
+      "studentId": 15,
+      "value": 93
+    },
+    {
+      "gradeId": 1503,
+      "examId": 26,
+      "studentId": 15,
+      "value": 90
+    },
+    {
+      "gradeId": 1504,
+      "examId": 24,
+      "studentId": 24,
+      "value": 115
+    },
+    {
+      "gradeId": 1505,
+      "examId": 25,
+      "studentId": 24,
+      "value": 77
+    },
+    {
+      "gradeId": 1506,
+      "examId": 26,
+      "studentId": 24,
+      "value": 90
+    },
+    {
+      "gradeId": 1507,
+      "examId": 24,
+      "studentId": 72,
+      "value": 99
+    },
+    {
+      "gradeId": 1508,
+      "examId": 25,
+      "studentId": 72,
+      "value": 105
+    },
+    {
+      "gradeId": 1509,
+      "examId": 26,
+      "studentId": 72,
+      "value": 84
+    },
+    {
+      "gradeId": 1510,
+      "examId": 24,
+      "studentId": 31,
+      "value": 91
+    },
+    {
+      "gradeId": 1511,
+      "examId": 25,
+      "studentId": 31,
+      "value": 93
+    },
+    {
+      "gradeId": 1512,
+      "examId": 26,
+      "studentId": 31,
+      "value": 102
+    },
+    {
+      "gradeId": 1513,
+      "examId": 24,
+      "studentId": 3,
+      "value": 106
+    },
+    {
+      "gradeId": 1514,
+      "examId": 25,
+      "studentId": 3,
+      "value": 97
+    },
+    {
+      "gradeId": 1515,
+      "examId": 26,
+      "studentId": 3,
+      "value": 91
+    },
+    {
+      "gradeId": 1516,
+      "examId": 24,
+      "studentId": 14,
+      "value": 97
+    },
+    {
+      "gradeId": 1517,
+      "examId": 25,
+      "studentId": 14,
+      "value": 96
+    },
+    {
+      "gradeId": 1518,
+      "examId": 26,
+      "studentId": 14,
+      "value": 92
+    },
+    {
+      "gradeId": 1519,
+      "examId": 24,
+      "studentId": 1,
+      "value": 92
+    },
+    {
+      "gradeId": 1520,
+      "examId": 25,
+      "studentId": 1,
+      "value": 100
+    },
+    {
+      "gradeId": 1521,
+      "examId": 26,
+      "studentId": 1,
+      "value": 71
+    },
+    {
+      "gradeId": 1522,
+      "examId": 24,
+      "studentId": 76,
+      "value": 89
+    },
+    {
+      "gradeId": 1523,
+      "examId": 25,
+      "studentId": 76,
+      "value": 99
+    },
+    {
+      "gradeId": 1524,
+      "examId": 26,
+      "studentId": 76,
+      "value": 70
+    },
+    {
+      "gradeId": 1525,
+      "examId": 24,
+      "studentId": 19,
+      "value": 101
+    },
+    {
+      "gradeId": 1526,
+      "examId": 25,
+      "studentId": 19,
+      "value": 90
+    },
+    {
+      "gradeId": 1527,
+      "examId": 26,
+      "studentId": 19,
+      "value": 85
+    },
+    {
+      "gradeId": 1528,
+      "examId": 24,
+      "studentId": 17,
+      "value": 105
+    },
+    {
+      "gradeId": 1529,
+      "examId": 25,
+      "studentId": 17,
+      "value": 82
+    },
+    {
+      "gradeId": 1530,
+      "examId": 26,
+      "studentId": 17,
+      "value": 83
+    },
+    {
+      "gradeId": 1531,
+      "examId": 24,
+      "studentId": 18,
+      "value": 96
+    },
+    {
+      "gradeId": 1532,
+      "examId": 25,
+      "studentId": 18,
+      "value": 92
+    },
+    {
+      "gradeId": 1533,
+      "examId": 26,
+      "studentId": 18,
+      "value": 90
+    },
+    {
+      "gradeId": 1534,
+      "examId": 24,
+      "studentId": 218,
+      "value": 96
+    },
+    {
+      "gradeId": 1535,
+      "examId": 25,
+      "studentId": 218,
+      "value": 96
+    },
+    {
+      "gradeId": 1536,
+      "examId": 26,
+      "studentId": 218,
+      "value": 79
+    },
+    {
+      "gradeId": 1537,
+      "examId": 24,
+      "studentId": 57,
+      "value": 76
+    },
+    {
+      "gradeId": 1538,
+      "examId": 25,
+      "studentId": 57,
+      "value": 100
+    },
+    {
+      "gradeId": 1539,
+      "examId": 26,
+      "studentId": 57,
+      "value": 75
+    },
+    {
+      "gradeId": 1540,
+      "examId": 24,
+      "studentId": 32,
+      "value": 82
+    },
+    {
+      "gradeId": 1541,
+      "examId": 25,
+      "studentId": 32,
+      "value": 88
+    },
+    {
+      "gradeId": 1542,
+      "examId": 26,
+      "studentId": 32,
+      "value": 78
+    }
+  ]
+}

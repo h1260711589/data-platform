@@ -1,0 +1,658 @@
+{
+  "students": [
+    {
+      "studentId": 1,
+      "name": "A",
+      "className": "1班",
+      "enrollYear": 2019,
+      "extraCollegeType": "牛逼"
+    },
+    {
+      "studentId": 2,
+      "name": "B",
+      "className": "1班",
+      "enrollYear": 2019,
+      "extraCollegeType": "卧槽"
+    },
+    {
+      "studentId": 3,
+      "name": "C",
+      "className": "1班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 4,
+      "name": "D",
+      "className": "1班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 5,
+      "name": "E",
+      "className": "1班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 6,
+      "name": "F",
+      "className": "1班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 7,
+      "name": "G",
+      "className": "1班",
+      "enrollYear": 2021
+    },
+    {
+      "studentId": 8,
+      "name": "H",
+      "className": "1班",
+      "enrollYear": 2021
+    },
+    {
+      "studentId": 9,
+      "name": "I",
+      "className": "2班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 10,
+      "name": "J",
+      "className": "2班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 11,
+      "name": "K",
+      "className": "2班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 12,
+      "name": "L",
+      "className": "2班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 13,
+      "name": "M",
+      "className": "2班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 14,
+      "name": "N",
+      "className": "2班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 15,
+      "name": "O",
+      "className": "2班",
+      "enrollYear": 2021
+    },
+    {
+      "studentId": 16,
+      "name": "P",
+      "className": "2班",
+      "enrollYear": 2021
+    },
+    {
+      "studentId": 17,
+      "name": "Q",
+      "className": "3班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 18,
+      "name": "R",
+      "className": "3班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 19,
+      "name": "S",
+      "className": "3班",
+      "enrollYear": 2019
+    },
+    {
+      "studentId": 20,
+      "name": "T",
+      "className": "3班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 21,
+      "name": "U",
+      "className": "3班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 22,
+      "name": "V",
+      "className": "3班",
+      "enrollYear": 2020
+    },
+    {
+      "studentId": 23,
+      "name": "W",
+      "className": "3班",
+      "enrollYear": 2021
+    },
+    {
+      "studentId": 24,
+      "name": "X",
+      "className": "3班",
+      "enrollYear": 2021
+    }
+  ],
+  "exams": [
+    {
+      "examId": 1,
+      "examName": "一模",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 2,
+      "examName": "一模",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 3,
+      "examName": "一模",
+      "examSubject": "英语",
+      "year": 2019
+    },
+    {
+      "examId": 4,
+      "examName": "二模",
+      "examSubject": "语文",
+      "year": 2019
+    },
+    {
+      "examId": 5,
+      "examName": "二模",
+      "examSubject": "数学",
+      "year": 2019
+    },
+    {
+      "examId": 6,
+      "examName": "二模",
+      "examSubject": "英语",
+      "year": 2019
+    },
+    {
+      "examId": 7,
+      "examName": "三模",
+      "examSubject": "语文",
+      "year": 2020
+    },
+    {
+      "examId": 8,
+      "examName": "三模",
+      "examSubject": "数学",
+      "year": 2020
+    },
+    {
+      "examId": 9,
+      "examName": "三模",
+      "examSubject": "英语",
+      "year": 2020
+    },
+    {
+      "examId": 10,
+      "examName": "四模",
+      "examSubject": "语文",
+      "year": 2021
+    },
+    {
+      "examId": 11,
+      "examName": "四模",
+      "examSubject": "数学",
+      "year": 2021
+    },
+    {
+      "examId": 12,
+      "examName": "四模",
+      "examSubject": "英语",
+      "year": 2021
+    }
+  ],
+  "grades": [
+    {
+      "gradeId": 0,
+      "examId": 1,
+      "studentId": 1,
+      "value": 100
+    },
+    {
+      "gradeId": 1,
+      "examId": 1,
+      "studentId": 2,
+      "value": 99
+    },
+    {
+      "gradeId": 2,
+      "examId": 1,
+      "studentId": 9,
+      "value": 120
+    },
+    {
+      "gradeId": 3,
+      "examId": 1,
+      "studentId": 10,
+      "value": 95
+    },
+    {
+      "gradeId": 4,
+      "examId": 1,
+      "studentId": 18,
+      "value": 133
+    },
+    {
+      "gradeId": 5,
+      "examId": 2,
+      "studentId": 1,
+      "value": 102
+    },
+    {
+      "gradeId": 6,
+      "examId": 2,
+      "studentId": 2,
+      "value": 120
+    },
+    {
+      "gradeId": 7,
+      "examId": 2,
+      "studentId": 9,
+      "value": 132
+    },
+    {
+      "gradeId": 8,
+      "examId": 2,
+      "studentId": 10,
+      "value": 145
+    },
+    {
+      "gradeId": 9,
+      "examId": 2,
+      "studentId": 18,
+      "value": 142
+    },
+    {
+      "gradeId": 10,
+      "examId": 3,
+      "studentId": 1,
+      "value": 110
+    },
+    {
+      "gradeId": 11,
+      "examId": 3,
+      "studentId": 2,
+      "value": 115
+    },
+    {
+      "gradeId": 12,
+      "examId": 3,
+      "studentId": 9,
+      "value": 118
+    },
+    {
+      "gradeId": 13,
+      "examId": 3,
+      "studentId": 10,
+      "value": 139
+    },
+    {
+      "gradeId": 14,
+      "examId": 3,
+      "studentId": 18,
+      "value": 149
+    },
+    {
+      "gradeId": 15,
+      "examId": 4,
+      "studentId": 3,
+      "value": 91
+    },
+    {
+      "gradeId": 16,
+      "examId": 4,
+      "studentId": 11,
+      "value": 107
+    },
+    {
+      "gradeId": 17,
+      "examId": 4,
+      "studentId": 17,
+      "value": 119
+    },
+    {
+      "gradeId": 18,
+      "examId": 4,
+      "studentId": 19,
+      "value": 108
+    },
+    {
+      "gradeId": 19,
+      "examId": 5,
+      "studentId": 3,
+      "value": 150
+    },
+    {
+      "gradeId": 20,
+      "examId": 5,
+      "studentId": 11,
+      "value": 131
+    },
+    {
+      "gradeId": 21,
+      "examId": 5,
+      "studentId": 17,
+      "value": 139
+    },
+    {
+      "gradeId": 22,
+      "examId": 5,
+      "studentId": 19,
+      "value": 141
+    },
+    {
+      "gradeId": 23,
+      "examId": 6,
+      "studentId": 3,
+      "value": 133
+    },
+    {
+      "gradeId": 24,
+      "examId": 6,
+      "studentId": 11,
+      "value": 129
+    },
+    {
+      "gradeId": 25,
+      "examId": 6,
+      "studentId": 17,
+      "value": 135
+    },
+    {
+      "gradeId": 26,
+      "examId": 6,
+      "studentId": 19,
+      "value": 144
+    },
+    {
+      "gradeId": 27,
+      "examId": 7,
+      "studentId": 4,
+      "value": 103
+    },
+    {
+      "gradeId": 28,
+      "examId": 7,
+      "studentId": 5,
+      "value": 93
+    },
+    {
+      "gradeId": 29,
+      "examId": 7,
+      "studentId": 6,
+      "value": 103
+    },
+    {
+      "gradeId": 30,
+      "examId": 7,
+      "studentId": 12,
+      "value": 115
+    },
+    {
+      "gradeId": 31,
+      "examId": 7,
+      "studentId": 13,
+      "value": 109
+    },
+    {
+      "gradeId": 32,
+      "examId": 7,
+      "studentId": 14,
+      "value": 132
+    },
+    {
+      "gradeId": 33,
+      "examId": 7,
+      "studentId": 20,
+      "value": 142
+    },
+    {
+      "gradeId": 34,
+      "examId": 7,
+      "studentId": 21,
+      "value": 94
+    },
+    {
+      "gradeId": 35,
+      "examId": 7,
+      "studentId": 22,
+      "value": 101
+    },
+    {
+      "gradeId": 36,
+      "examId": 8,
+      "studentId": 4,
+      "value": 120
+    },
+    {
+      "gradeId": 37,
+      "examId": 8,
+      "studentId": 5,
+      "value": 140
+    },
+    {
+      "gradeId": 38,
+      "examId": 8,
+      "studentId": 6,
+      "value": 132
+    },
+    {
+      "gradeId": 38,
+      "examId": 8,
+      "studentId": 12,
+      "value": 139
+    },
+    {
+      "gradeId": 39,
+      "examId": 8,
+      "studentId": 13,
+      "value": 135
+    },
+    {
+      "gradeId": 40,
+      "examId": 8,
+      "studentId": 14,
+      "value": 121
+    },
+    {
+      "gradeId": 41,
+      "examId": 8,
+      "studentId": 20,
+      "value": 110
+    },
+    {
+      "gradeId": 42,
+      "examId": 8,
+      "studentId": 21,
+      "value": 104
+    },
+    {
+      "gradeId": 43,
+      "examId": 8,
+      "studentId": 22,
+      "value": 108
+    },
+    {
+      "gradeId": 44,
+      "examId": 9,
+      "studentId": 4,
+      "value": 113
+    },
+    {
+      "gradeId": 44,
+      "examId": 9,
+      "studentId": 5,
+      "value": 145
+    },
+    {
+      "gradeId": 45,
+      "examId": 9,
+      "studentId": 6,
+      "value": 109
+    },
+    {
+      "gradeId": 46,
+      "examId": 9,
+      "studentId": 12,
+      "value": 124
+    },
+    {
+      "gradeId": 47,
+      "examId": 9,
+      "studentId": 13,
+      "value": 128
+    },
+    {
+      "gradeId": 48,
+      "examId": 9,
+      "studentId": 14,
+      "value": 138
+    },
+    {
+      "gradeId": 49,
+      "examId": 9,
+      "studentId": 20,
+      "value": 134
+    },
+    {
+      "gradeId": 50,
+      "examId": 9,
+      "studentId": 21,
+      "value": 148
+    },
+    {
+      "gradeId": 51,
+      "examId": 9,
+      "studentId": 22,
+      "value": 107
+    },
+    {
+      "gradeId": 52,
+      "examId": 10,
+      "studentId": 7,
+      "value": 102
+    },
+    {
+      "gradeId": 53,
+      "examId": 10,
+      "studentId": 8,
+      "value": 130
+    },
+    {
+      "gradeId": 54,
+      "examId": 10,
+      "studentId": 15,
+      "value": 128
+    },
+    {
+      "gradeId": 55,
+      "examId": 10,
+      "studentId": 16,
+      "value": 94
+    },
+    {
+      "gradeId": 56,
+      "examId": 10,
+      "studentId": 23,
+      "value": 102
+    },
+    {
+      "gradeId": 57,
+      "examId": 10,
+      "studentId": 24,
+      "value": 84
+    },
+    {
+      "gradeId": 58,
+      "examId": 11,
+      "studentId": 7,
+      "value": 145
+    },
+    {
+      "gradeId": 59,
+      "examId": 11,
+      "studentId": 8,
+      "value": 120
+    },
+    {
+      "gradeId": 60,
+      "examId": 11,
+      "studentId": 15,
+      "value": 105
+    },
+    {
+      "gradeId": 61,
+      "examId": 11,
+      "studentId": 16,
+      "value": 134
+    },
+    {
+      "gradeId": 62,
+      "examId": 11,
+      "studentId": 23,
+      "value": 127
+    },
+    {
+      "gradeId": 63,
+      "examId": 11,
+      "studentId": 24,
+      "value": 148
+    },
+    {
+      "gradeId": 64,
+      "examId": 12,
+      "studentId": 7,
+      "value": 139
+    },
+    {
+      "gradeId": 65,
+      "examId": 12,
+      "studentId": 8,
+      "value": 129
+    },
+    {
+      "gradeId": 66,
+      "examId": 12,
+      "studentId": 15,
+      "value": 138
+    },
+    {
+      "gradeId": 67,
+      "examId": 12,
+      "studentId": 16,
+      "value": 142
+    },
+    {
+      "gradeId": 68,
+      "examId": 12,
+      "studentId": 23,
+      "value": 147
+    },
+    {
+      "gradeId": 69,
+      "examId": 12,
+      "studentId": 24,
+      "value": 114
+    }
+  ]
+}
